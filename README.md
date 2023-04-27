@@ -258,6 +258,13 @@ My research findings (both competion and user) have led to an evolution of my ta
 
 ### Challenges
 
+The challenges I came across during construction have been recorded below in the order which they occured.
+
+| Problem/challenge encountered | Steps taken to overcome | Credit and acknowledgement |
+| --- | --- | --- |
+| The heading ids I had added in order to set up my content links showed up in the README displayed on GitHub rather than staying hidden as shown when working in VScode. | Online search - No need to use heading ids as the specific heading could be targeted straight through the link - tested on two links - changed all links. | Solution found on [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links) |
+| I wanted to create a drop down (I had seen elsewhere but didn't know what syntax to use) in order to include all my strategy plane research without my README becoming unwieldly. | Online search led me to the correct syntax to use. | Article [How to add Dropdown in Markdown ??](https://dev.to/asyraf/how-to-add-dropdown-in-markdown-o78) |
+
 ### Testing and Validation
 
 [Return to contents list](#contents)
