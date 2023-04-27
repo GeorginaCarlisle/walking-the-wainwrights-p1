@@ -67,7 +67,9 @@ Further strategy level considerations:
 <!-- I used the following to learn how to create a dropdown: https://dev.to/asyraf/how-to-add-dropdown-in-markdown-o78  -->
 
 <details>
-<summary>Find out more about the process I went through and the research undertaken to develop my strategy</summary>
+<summary>Find out more about my process to develop the strategy plane and the research I undertook.</summary>
+
+The following details are written in order of how I approached developing the strategy plane, showing how things evolved and changed.
 
 #### Target Users
 
@@ -219,6 +221,10 @@ The required values ticked by those specifically looking to summit Wainwrights:
 Conclusion:
 This project will gel together much better as a whole if I change and narrow the primary target user group to just those specifically looking to summit Wainwrights. I will consider a secondary target user group of those who enjoy fell walking in the Lake District and might be looking to find out more about the Wainwright fells when designing the site but they will not be the main focus.
 The results of this survey will be further used to inform the scope plane of development.
+
+#### Overall Conclusion
+
+My research findings (both competion and user) have led to an evolution of my target user group and a fine-tuning of the purpose of this website and the value for me as the owner. This can all be seen within the initial summary for the Strategy Plane.
 
 </details>
 
