@@ -47,9 +47,15 @@ Value for the user (in order of importance)will be provided through:
 - Walking advice
 
 Value for the owner of this website will be provided in:
-1 – Sharing their love for the Lake District Fells and in particular summiting the Wainwright fells.
-2 - Informing others how best to keep themsleves safe and look after the fells while out walking.
-3 – Providing support to others looking to summit the Wainwrights.
+1. Sharing their love for the Lake District Fells and in particular summiting the Wainwright fells.
+2. Informing others how best to keep themsleves safe and look after the fells while out walking.
+3. Providing support to others looking to summit the Wainwrights.
+
+Position of site amongst competition:
+- The proposed website would be unique as there are no current websites that bring together everything the target user group is looking for.
+- With a high-level positive user experience this website would stand out from other websites which offer some of the same value.
+- Prominently placing information about looking after the fells within this site
+would be a big step in helping more fell walkers to become better aware of how to lessen their impact while out walking.
 
 Further strategy level considerations:
 - High level user experience 
