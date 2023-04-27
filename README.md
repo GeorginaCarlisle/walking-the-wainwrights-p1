@@ -62,7 +62,7 @@ Further strategy level considerations:
 - Accessibility
 - Responsiveness
 
-### Development of the strategy plane
+#### Development of the strategy plane
 
 <!-- I used the following to learn how to create a dropdown: https://dev.to/asyraf/how-to-add-dropdown-in-markdown-o78  -->
 
@@ -239,9 +239,18 @@ My research findings (both competion and user) have led to an evolution of my ta
 
 ## Languages
 
+- HTML
+- CSS
+- Markdown
+
 [Return to contents list](#contents)
 
 ## Tools and Technologies
+
+- Git
+- GitHub
+- VScode with extensions: Markdown Preview GitHub Styling, Live Server, Dev Containers, GitHub Pull Requests and Issues
+- Google forms
 
 [Return to contents list](#contents)
 
