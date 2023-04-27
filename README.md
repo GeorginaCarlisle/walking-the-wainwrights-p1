@@ -3,34 +3,58 @@
 
 This website is under construction, with no live page at this time.
 
-## Project Description
+## Project Description {#description}
 
 ## Contents
+[Project Description](#description)
+
+[User Experience Design](#ux-design)
+- [The Strategy Plane](#strategy-plane)
+- [The Scope Plane](#scope-plane)
+- [The Skeleton Plane](#skeleton-plane)
+- [The Surface Plane](#surface-plane)
+
+[Languages](#langauges)
+
+[Tools and Technologies](#tools-and-tech)
+
+[Project Construction](#construction)
+- [Challenges](#challenges)
+- [Testing and Validation](#test-and-validate)
+
+[Project Deployment](#deployment)
+- [Bugs and fixes](#bugs-and-fixes)
+
+[Credits](#credits)
+
+[Acknowledgements](#acknowledge)
 
 ***
 
-## User Experience Design
+## User Experience Design {#ux-design}
 
-### The Strategy Plane
+### The Strategy Plane {#strategy-plane}
 
-### The Scope Plane
+### The Scope Plane {#scope-plane}
 
-### The Skeleton Plane
+### The Skeleton Plane {#skeleton-plane}
 
-### The Surface Plane
+### The Surface Plane {#surface-plane}
 
-## Languages
+## Languages {#langauges}
 
-## Tools and Technologies
+## Tools and Technologies {tools-and-tech}
 
-## Project Construction
+## Project Construction {#construction}
 
-## Project Deployment
+### Challenges {#challenges}
 
-### Bugs and fixes
+### Testing and Validation {#test-and-validate}
 
-### Testing and Validation
+## Project Deployment {#deployment}
 
-## Credits
+### Bugs and fixes {bugs-and-fixes}
 
-## Acknowlegements
+## Credits {#credits}
+
+## Acknowlegements {#acknowledge}
