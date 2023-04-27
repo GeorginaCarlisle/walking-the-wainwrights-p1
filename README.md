@@ -250,6 +250,18 @@ Following an agile approach, the first sprint of this project will aim to keep t
 | | 11. Images showing route | Later |
 | | 12. Fell walking story of route | To be decided (if now keep short and ensure adds value) |
 | Provide details on the Wainwright fells | 13. Full map of the lakes, showing all Wainwright fells | Now (limited function, improve later) | 
+| | 14. Individual fell information | Now (list of all 214 fells, plus height and location area, link to routes if available, add to later) |
+| Provide knowledge that will lessen the users impact on the fells (flora, fauna and landscape) | 15. Information about looking after the fells | Now |
+| | 16. Links to other websites | Now |
+| A sense of community | 3 + 12 |
+| Provide knowledge that will help users to stay safe while fell walking | 17. Top tips | Now |
+| | 18. Link to mountain rescue | Now |
+| | 19. Fell top Weather app | Now |
+| Further information to help the user enjoy and appreciate the fells further | 7 + 8 | |
+| | 20. Information on geology, geography and history of the fells | Later |
+| Provide insight into who Wainwright was | 21. Information about Wainwright. | Now |
+| | 22. Image of Wainwright | Now |
+| | 23. Video clip of Wainwright | Now |
 
 
 
