@@ -281,6 +281,9 @@ Where I have followed advice or have learnt something new, this has been acknowl
 
 Specific credit for images, content and code not taken/written by myself is now given, a comment has also been added in the code.
 
+| Item | Credit to |
+| --- | --- |
+| Template used to create this repository. | Code Institute ([ci-full-template](https://github.com/Code-Institute-Org/ci-full-template)) |
 
 
 [Return to contents list](#contents)
