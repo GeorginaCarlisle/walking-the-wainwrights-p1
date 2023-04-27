@@ -231,8 +231,28 @@ My research findings (both competion and user) have led to an evolution of my ta
 
 ### The Scope Plane
 
-The scope for this project builds on the strategy plane and is heavily influenced by the results of my research (see [Competitor Reviews](#competitor-reviews) and [User Research](#user-research)). I have explored the requirements of both user and owner, and how these could be met. 
+The scope for this project builds on the strategy plane and is heavily influenced by the results of my research (see [Competitor Reviews](#competitor-reviews) and [User Research](#user-research)). Time has been taken to fully explore the requirements (including hidden requiredments) of both user and owner, and how these could be met. 
 Following an agile approach, the first sprint of this project will aim to keep time and other resources to a minimum whilst ensuring the project is vaible, providing enough value and an excellent user experience that will leave early users keen to return.
+
+| Requirement | Ideas to meet requirement | What's in |
+| --- | --- | --- |
+| Sharing a love of the Wainwright fells.  | 1. Use of positive and emotive language throughout the site. | Now |
+| | 2. Spectacular images that showcase the variety of landscapes to be found among the Wainwright fells. | Now (a few key images at this stage - add to later on) |
+| | 3. Quotes from fell walkers sharing what they love about walking the wainwrights | Now (A few that give a big impact) |
+| Inspire users to get out fell walking | See share a love (1, 2 + 3) and planning next walk (4, 7, 12) | |
+| Ease the user's burden of planning their next walk| 4.  Clear walking routes including: | Now (limited number 3 - 5, add more later) |
+| | 5. map of the route | Now (limited function, improve later on) |
+| | 6. start and end point (if different) | Now (basic info, improve later on) |
+| | 7. images of fell/views/points of interest | Now (2-3 images) |
+| | 8. Key things to note about route | Now |
+| | 9. Walk stats (elevation height, distance) | Now |
+| | 10. Clear directions | Later |
+| | 11. Images showing route | Later |
+| | 12. Fell walking story of route | To be decided (if now keep short and ensure adds value) |
+| Provide details on the Wainwright fells | 13. Full map of the lakes, showing all Wainwright fells | Now (limited function, improve later) | 
+
+
+
 
 ### The Skeleton Plane
 
