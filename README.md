@@ -277,6 +277,12 @@ The challenges I came across during construction have been recorded below in the
 
 ## Credits
 
+Where I have followed advice or have learnt something new, this has been acknowledged/creditted as appropriate in: [Challenges](#challenges), [Bugs and fixes](#bugs-and-fixes) or [Acknowledgements](#acknowledgements).
+
+Specific credit for images, content and code not taken/written by myself is now given, a comment has also been added in the code.
+
+
+
 [Return to contents list](#contents)
 
 ## Acknowledgements
