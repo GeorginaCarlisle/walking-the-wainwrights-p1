@@ -35,19 +35,21 @@ This website is under construction, with no live page at this time.
 
 ### The Strategy Plane
 
-The target user group for this website enjoy fell walking in the Lake District. They have heard of 'Wainwright' and some are aiming to summit all 214 of Wainwright's fells.
+The primary target user group enjoy fell walking in the Lake District National Park and are specifically looking to summit some/all of 'The Wainwrights'. There is a secondary target user group who enjoy fell walking in the Lake District National Park and are looking at find out more about, and begin summiting 'The Wainwrigths'.
 
-Value for the user will be provided through:
-- Walking routes
-- Information about the Wainwright fells
-- Tips and stories from other fell walkers
+Value for the user (in order of importance)will be provided through:
+- Walking routes that incorporate the Wainwrights
+- Specific information about the Wainwright fells
 - Information on looking after the fells
-- Walking advice
 - Information about the geography, geology and history of the fells
+- Tips and stories from other fell walkers
+- Information about Alfred Wainwright
+- Walking advice
 
-The value of this website to the owner will be in:
+Value for the owner of this website will be provided in:
 1 – Sharing their love for the Lake District Fells and in particular summiting the Wainwright fells.
-2 – Informing and educating people who come to walk in the Lake District so that they know how to keep themselves safe and how to look after and preserve the fells.
+2 - Informing others how best to keep themsleves safe and look after the fells while out walking.
+3 – Providing support to others looking to summit the Wainwrights.
 
 Further strategy level considerations:
 - High level user experience 
