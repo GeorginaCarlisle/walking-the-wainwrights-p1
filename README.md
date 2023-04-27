@@ -41,9 +41,15 @@ This website is under construction, with no live page at this time.
 
 ### The Surface Plane
 
+[Return to contents list](#contents)
+
 ## Languages
 
+[Return to contents list](#contents)
+
 ## Tools and Technologies
+
+[Return to contents list](#contents)
 
 ## Project Construction
 
@@ -51,10 +57,18 @@ This website is under construction, with no live page at this time.
 
 ### Testing and Validation
 
+[Return to contents list](#contents)
+
 ## Project Deployment
 
 ### Bugs and fixes
 
+[Return to contents list](#contents)
+
 ## Credits
 
+[Return to contents list](#contents)
+
 ## Acknowledgements
+
+[Return to contents list](#contents)
