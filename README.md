@@ -3,31 +3,31 @@
 
 This website is under construction, with no live page at this time.
 
-## Project Description {#description}
+## Project Description 
 
 ## Contents
-[Project Description](#description)
+[Project Description](#project-description)
 
 [User Experience Design](#user-experience-design)
 - [The Strategy Plane](#the-strategy-plane)
-- [The Scope Plane](#scope-plane)
-- [The Skeleton Plane](#skeleton-plane)
-- [The Surface Plane](#surface-plane)
+- [The Scope Plane](#the-scope-plane)
+- [The Skeleton Plane](#the-skeleton-plane)
+- [The Surface Plane](#the-surface-plane)
 
-[Languages](#langauges)
+[Languages](#languages)
 
-[Tools and Technologies](#tools-and-tech)
+[Tools and Technologies](#tools-and-technologies)
 
-[Project Construction](#construction)
+[Project Construction](#project-construction)
 - [Challenges](#challenges)
-- [Testing and Validation](#test-and-validate)
+- [Testing and Validation](#testing-and-validation)
 
-[Project Deployment](#deployment)
+[Project Deployment](#project-deployment)
 - [Bugs and fixes](#bugs-and-fixes)
 
 [Credits](#credits)
 
-[Acknowledgements](#acknowledge)
+[Acknowledgements](#acknowledgements)
 
 ***
 
@@ -35,26 +35,26 @@ This website is under construction, with no live page at this time.
 
 ### The Strategy Plane
 
-### The Scope Plane {#scope-plane}
+### The Scope Plane
 
-### The Skeleton Plane {#skeleton-plane}
+### The Skeleton Plane
 
-### The Surface Plane {#surface-plane}
+### The Surface Plane
 
-## Languages {#langauges}
+## Languages
 
-## Tools and Technologies {tools-and-tech}
+## Tools and Technologies
 
-## Project Construction {#construction}
+## Project Construction
 
-### Challenges {#challenges}
+### Challenges
 
-### Testing and Validation {#test-and-validate}
+### Testing and Validation
 
-## Project Deployment {#deployment}
+## Project Deployment
 
-### Bugs and fixes {bugs-and-fixes}
+### Bugs and fixes
 
-## Credits {#credits}
+## Credits
 
-## Acknowlegements {#acknowledge}
+## Acknowledgements
