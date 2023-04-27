@@ -177,6 +177,40 @@ Conclusion:
 3. While a number of sites do provide information on looking after the fells, this isn’t prominently placed and the information may therefore not be reaching users. The exception being https://www.lakedistrict.gov.uk/.
 4. Details about walking routes in the Lake District are currently offered on numerous websites.
 
+#### User Research
+
+I created the following Google form which I then asked people who fell into both my primary and secondary target groups to complete.
+
+<!-- Screenshots of survey to be included here -->
+
+I received 9 responses to my survey covering the following target user groups:
+- 1 x I have not been fell walking in the Lake District, but it is something I would be keen to try 
+- 0 x I have done some fell walking in the Lake District and would like to do more. I have not heard the name ‘Wainwright’.
+- 3 x I have done some fell walking in the Lake District and would like to do more. I have heard the name ‘Wainwright’ and the concept of 'The Wainwrights' and would like to learn more. 
+- 5 x I know who Arthur Wainwright is and I am specifically looking to summit some/all of ‘The Wainwrights’. 
+
+Findings:
+
+<!-- Screenshot of summary for question 2 to be included here -->
+
+When looking in more detail at the different reponses when grouped by user target groups I found:
+- Those users who are specifically looking to summit some/all of 'The Wainwrights' had more required value within the scope of this survey (they all ticked more of the given options).
+- A correlation between user groups and a desire to find out more about the 'Wainwright fells'. New to fell walking - no interest, Enjoy fell-walking and have heard of Wainwright - some interest Specifically looking to summit Wainwrights - High interest
+
+The required values ticked by those specifically looking to summit Wainwrights:
+-	4 x Walking routes (specifically walks that incorporate the Wainwrights)
+-	3 x Information about ‘The Wainwright fells’ 
+-	3 x Details specific to summiting the Wainwrights fells incl. tips and advice.
+-	3 x Information on looking after the fells. Including reducing pollution, disturbance of flora and fauna and erosion of the landscape.
+-	3 x Information about the geography, geology and history of the fells.
+-	2 x Tips and stories from other fell walkers.
+-	Information about Alfred Wainwright, who he was and his links to the Lake District fells.
+-	More about the Lake District National Park and it’s fells.
+-	Walking advice, such as what to wear, what to take, how to stay safe and tips for enjoying your walk to the full.
+
+Conclusion:
+This project will gel together much better as a whole if I change and narrow the primary target user group to just those specifically looking to summit Wainwrights. I will consider a secondary target user group of those who enjoy fell walking in the Lake District and might be looking to find out more about the Wainwright fells when designing the site but they will not be the main focus.
+The results of this survey will be further used to inform the scope plane of development.
 
 </details>
 
