@@ -8,8 +8,8 @@ This website is under construction, with no live page at this time.
 ## Contents
 [Project Description](#description)
 
-[User Experience Design](#ux-design)
-- [The Strategy Plane](#strategy-plane)
+[User Experience Design](#user-experience-design)
+- [The Strategy Plane](#the-strategy-plane)
 - [The Scope Plane](#scope-plane)
 - [The Skeleton Plane](#skeleton-plane)
 - [The Surface Plane](#surface-plane)
@@ -31,9 +31,9 @@ This website is under construction, with no live page at this time.
 
 ***
 
-## User Experience Design {#ux-design}
+## User Experience Design
 
-### The Strategy Plane {#strategy-plane}
+### The Strategy Plane
 
 ### The Scope Plane {#scope-plane}
 
