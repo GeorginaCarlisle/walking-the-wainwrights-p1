@@ -231,6 +231,9 @@ My research findings (both competion and user) have led to an evolution of my ta
 
 ### The Scope Plane
 
+The scope for this project builds on the strategy plane and is heavily influenced by the results of my research (see [Competitor Reviews](#competitor-reviews) and [User Research](#user-research)). I have explored the requirements of both user and owner, and how these could be met. 
+Following an agile approach, the first sprint of this project will aim to keep time and other resources to a minimum whilst ensuring the project is vaible, providing enough value and an excellent user experience that will leave early users keen to return.
+
 ### The Skeleton Plane
 
 ### The Surface Plane
