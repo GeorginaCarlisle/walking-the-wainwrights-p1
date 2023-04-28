@@ -392,13 +392,16 @@ Specific credit for images, content and code not taken/written by myself is now 
 ## Acknowledgements
 
 My husband and two young boys
+
 Friends and family - Who filled in my target user survey.
+
 [Code Institute](https://codeinstitute.net) - The majority of the coding skills, knowledge and understanding showcased in this project have been learnt through the 'Diploma of Full stack software development' that I am completing with Code Institute.
+
 My fellow Code Institute peers - I have picked up numerous tips from other students within the course slack channel.
+
 [Markdown Guide](https://www.markdownguide.org) - The majority of Markdown syntax used in this README was picked up from this site.
+
 [GitHub Docs: Basic writing and formatting syntax document](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - How to use the Markdown language was also picked up from this document.
-
-
 
 
 
