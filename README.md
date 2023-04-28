@@ -231,37 +231,42 @@ My research findings (both competion and user) have led to an evolution of my ta
 
 ### The Scope Plane
 
-The scope for this project builds on the strategy plane and is heavily influenced by the results of my research (see [Competitor Reviews](#competitor-reviews) and [User Research](#user-research)). Time has been taken to fully explore the requirements (including hidden requiredments) of both user and owner, and how these could be met. 
+The scope for this project builds on the strategy plane and is heavily influenced by the results of my research (see [Competitor Reviews](#competitor-reviews) and [User Research](#user-research)). Time has been taken to fully explore the requirements of both user and owner, and how these could be met. 
 Following an agile approach, the first sprint of this project will aim to keep time and other resources to a minimum whilst ensuring the project is vaible, providing enough value and an excellent user experience that will leave early users keen to return.
 
-| Requirement | Ideas to meet requirement | What's in |
+| Requirement | Ideas to meet requirement | Inclusion |
 | --- | --- | --- |
 | Sharing a love of the Wainwright fells.  | 1. Use of positive and emotive language throughout the site. | Now |
 | | 2. Spectacular images that showcase the variety of landscapes to be found among the Wainwright fells. | Now (a few key images at this stage - add to later on) |
 | | 3. Quotes from fell walkers sharing what they love about walking the wainwrights | Now (A few that give a big impact) |
 | Inspire users to get out fell walking | See share a love (1, 2 + 3) and planning next walk (4, 7, 12) | |
-| Ease the user's burden of planning their next walk| 4.  Clear walking routes including: | Now (limited number 3 - 5, add more later) |
+| Provide ideas for users next walk| 4.  Clear walking routes including: | Now (limitited number, 3 to begin, add more later) |
 | | 5. map of the route | Now (limited function, improve later on) |
 | | 6. start and end point (if different) | Now (basic info, improve later on) |
-| | 7. images of fell/views/points of interest | Now (2-3 images) |
+| | 7. images of fell/views/points of interest | Now (2-3 images, more added later) |
 | | 8. Key things to note about route | Now |
 | | 9. Walk stats (elevation height, distance) | Now |
 | | 10. Clear directions | Later |
 | | 11. Images showing route | Later |
 | | 12. Fell walking story of route | To be decided (if now keep short and ensure adds value) |
 | Provide details on the Wainwright fells | 13. Full map of the lakes, showing all Wainwright fells | Now (limited function, improve later) | 
-| | 14. Individual fell information | Now (list of all 214 fells, plus height and location area, link to routes if available, add to later) |
-| Provide knowledge that will lessen the users impact on the fells (flora, fauna and landscape) | 15. Information about looking after the fells | Now |
-| | 16. Links to other websites | Now |
+| | 14. Individual fell information | Now (list of all 214 fells, plus height and location area, link to routes if available, later add a very short description to each) |
+| Provide knowledge that will lessen the users impact on the fells (flora, fauna and landscape) | 15. Information about looking after the fells plus images | Now |
+| | 16. Links to other websites/charities who are concerned with looking after the fells | Now |
 | A sense of community | 3 + 12 |
-| Provide knowledge that will help users to stay safe while fell walking | 17. Top tips | Now |
-| | 18. Link to mountain rescue | Now |
-| | 19. Fell top Weather app | Now |
+| | 17. A form to allow new users to send their fell walking stories, images and tips which would be fed into further site development| Later |
+| | 18. Top tips from other fell walkers | Later |
+| Provide knowledge that will help users to stay safe while fell walking | 19. Top tips plus images| Now |
+| | 20. Link to mountain rescue website | Now |
+| | 21. Fell top Weather app | Now |
 | Further information to help the user enjoy and appreciate the fells further | 7 + 8 | |
-| | 20. Information on geology, geography and history of the fells | Later |
-| Provide insight into who Wainwright was | 21. Information about Wainwright. | Now |
-| | 22. Image of Wainwright | Now |
-| | 23. Video clip of Wainwright | Now |
+| | 22. Information on geology, geography and history of the fells | Later |
+| Provide insight into who Wainwright was | 21. Information about Wainwright. | Now (keep short and simple to begin with, add to later) |
+| | 23. Image of Wainwright | Now (single image, add to later) |
+| | 25. Video clip of Wainwright | Now (single video, add to later) |
+| | 26. Quotes from Wainwright | Now |
+| | 27. Images of and links to Wainwrights books | Now |
+| | 28. Pictures that Wainwright drew in his books | Later |
 
 
 
