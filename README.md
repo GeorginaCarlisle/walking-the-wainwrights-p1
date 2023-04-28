@@ -229,6 +229,7 @@ My research findings (both competion and user) have led to an evolution of my ta
 
 </details>
 
+[Return to contents list](#contents)
 
 ### The Scope Plane
 
@@ -269,6 +270,7 @@ Following an agile approach, the first sprint of this project will aim to keep t
 | | 27. Images of and links to Wainwrights books | Now |
 | | 28. Pictures that Wainwright drew in his books | Later |
 
+[Return to contents list](#contents)
 
 ### The Structure Plane
 
@@ -329,10 +331,11 @@ To support navigation:
 -	Links and interaction points clearly visible through consistent styling incl. using the hover pseudo selector.
 -	Content will be hinted at where it continues outside of view through layout choices.
 
+[Return to contents list](#contents)
 
 ### The Skeleton Plane
 
-
+[Return to contents list](#contents)
 
 ### The Surface Plane
 
