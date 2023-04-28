@@ -278,17 +278,17 @@ The website will consist of three pages – Home, The Fells, Walking Routes. Eac
 
 Home 
 -	Introduction to site
-o	Spectacular image/s 
-o	Main title
-o	Short intro
-o	Quotes from walkers and from Wainwright
-o	Key words to indicate what can be found on the site
+    *	Spectacular image/s 
+    *   Main title
+    *	Short intro
+    *	Quotes from walkers and from Wainwright
+    *	Key words to indicate what can be found on the site
 -	Alfred Wainwright (as an aside on this page, users less likely to choose to navigate to this info but it is integral to the whole concept of ‘The Wainwrights’)
-o	Image of Wainwright
-o	Brief description
-o	Quote
-o	Video clip
-o	Images of and links to his books 
+    *	Image of Wainwright
+    *	Brief description
+    *	Quote
+    *	Video clip
+    *	Images of and links to his books 
 
 The Fells
 -	The Wainwright Fells
