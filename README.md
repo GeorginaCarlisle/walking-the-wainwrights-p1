@@ -292,26 +292,26 @@ Home
 
 The Fells
 -	The Wainwright Fells
-o	Map showing all the Wainwright fells
-o	List of all 214 fells (name, height, location, 1 sentence)
+    *	Map showing all the Wainwright fells
+    *	List of all 214 fells (name, height, location, 1 sentence)
 -	Looking after the fells (as an aside on this page, users less likely to choose to navigate to this info but important that they see)
-o	Quick explanation of importance
-o	How you can help
-o	Links to charities/websites working to look after the fells
+    *	Quick explanation of importance
+    *	How you can help
+    *	Links to charities/websites working to look after the fells
 
 Walking Routes
 -	3 x walking routes (structure to place elements that will help the user decide for/against the walk at the top)
-o	Route name and summits included
-o	3x images of fell/views/points of interest
-o	Walk stats and key things to note
-o	Fell walking story
-o	Map of the route
-o	Start and end points
+    *	Route name and summits included
+    *	3x images of fell/views/points of interest
+    *	Walk stats and key things to note
+    *	Fell walking story
+    *	Map of the route
+    *	Start and end points
 -	Walking tips (as an aside on this page, users less likely to choose to navigate to this info but important that they see)
-o	Safety tips
-o	Enjoyment tips
-o	Link to or in page placement of a fell top weather app
-o	Link to Mountain Rescue
+    *	Safety tips
+    *	Enjoyment tips
+    *	Link to or in page placement of a fell top weather app
+    *	Link to Mountain Rescue
 
 Note: Further structure will need to be added as the number of walking routes increases
 
