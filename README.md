@@ -11,6 +11,7 @@ This website is under construction, with no live page at this time.
 [User Experience Design](#user-experience-design)
 - [The Strategy Plane](#the-strategy-plane)
 - [The Scope Plane](#the-scope-plane)
+- [The Structure Plane](#the-structure-plane)
 - [The Skeleton Plane](#the-skeleton-plane)
 - [The Surface Plane](#the-surface-plane)
 
@@ -269,9 +270,69 @@ Following an agile approach, the first sprint of this project will aim to keep t
 | | 28. Pictures that Wainwright drew in his books | Later |
 
 
+### The Structure Plane
+
+The website will consist of three pages – Home, The Fells, Walking Routes. Each will have a main section and an aside.
+
+#### Information Architecture
+
+Home 
+-	Introduction to site
+o	Spectacular image/s 
+o	Main title
+o	Short intro
+o	Quotes from walkers and from Wainwright
+o	Key words to indicate what can be found on the site
+-	Alfred Wainwright (as an aside on this page, users less likely to choose to navigate to this info but it is integral to the whole concept of ‘The Wainwrights’)
+o	Image of Wainwright
+o	Brief description
+o	Quote
+o	Video clip
+o	Images of and links to his books 
+
+The Fells
+-	The Wainwright Fells
+o	Map showing all the Wainwright fells
+o	List of all 214 fells (name, height, location, 1 sentence)
+-	Looking after the fells (as an aside on this page, users less likely to choose to navigate to this info but important that they see)
+o	Quick explanation of importance
+o	How you can help
+o	Links to charities/websites working to look after the fells
+
+Walking Routes
+-	3 x walking routes (structure to place elements that will help the user decide for/against the walk at the top)
+o	Route name and summits included
+o	3x images of fell/views/points of interest
+o	Walk stats and key things to note
+o	Fell walking story
+o	Map of the route
+o	Start and end points
+-	Walking tips (as an aside on this page, users less likely to choose to navigate to this info but important that they see)
+o	Safety tips
+o	Enjoyment tips
+o	Link to or in page placement of a fell top weather app
+o	Link to Mountain Rescue
+
+Note: Further structure will need to be added as the number of walking routes increases
+
+#### Navigation
+
+Primary navigation will be through the header (incl. logo linked to home) and nav (links to each page).
+
+Some secondary navigation will also exist:
+-	Key words on home page will link through to relevant sections.
+-	Fell names on ‘The Fells’ page will link to the walk including them, should one exist. 
+
+To support navigation:
+-	The header will have an absolute position and always be visible.
+-	The nav link for the page currently in will be visibly different to other links.
+-	Links and interaction points clearly visible through consistent styling incl. using the hover pseudo selector.
+-	Content will be hinted at where it continues outside of view through layout choices.
 
 
 ### The Skeleton Plane
+
+
 
 ### The Surface Plane
 
