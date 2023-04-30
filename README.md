@@ -341,6 +341,15 @@ To support accessibility:
 
 ### The Skeleton Plane
 
+The following wire frames show the intended design of each of the three pages when viewed on a desktop computer.
+
+![Wire frame showing the home page on a desktop computer](documentation/wireframe-home-desktop.png)
+
+![Wire frame showing the wainwright fells page on a desktop computer](documentation/wireframe-thewainwrightfells-desktop.png)
+
+![Wire frame showing the walking routes page on a desktop computer](documentation/wireframes-walkingroutes-desktop.png)
+
+
 [Return to contents list](#contents)
 
 ### The Surface Plane
