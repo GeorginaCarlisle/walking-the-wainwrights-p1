@@ -341,9 +341,11 @@ To support accessibility:
 
 ### The Skeleton Plane
 
-The following wire frames show the intended design of each of the three pages when viewed on a desktop computer.
+The following wire frames show the intended design of each of the three pages when viewed on a desktop computer and on a smart phone.
 
 ![Wire frame showing the home page on a desktop computer](documentation/wireframe-home-desktop.png)
+
+![Wire frame showing the home page on a smart phone](documentation/wireframe-home-mobile.png)
 
 Notes on the 'home' page: 
 - Images of and links to Wainwright's books will now appear on 'The Wainwright Fells' page.
@@ -353,12 +355,16 @@ Notes on the 'home' page:
 
 ![Wire frame showing the wainwright fells page on a desktop computer](documentation/wireframe-thewainwrightfells-desktop.png)
 
+![Wire frame showing the wainwright fells page on a smart phone](documentation/wireframe-thewainwrightfells-mobile.png)
+
 Notes on 'The Wainwright Fells' page:
 - Images of and links to Wainwright's books will appear under the corresponding list of fells.
 - Content will be hinted at, where it extends below the bottom edge of the screen.
 - Font awesome icons will be used next to each tip to convey meaning.
 
 ![Wire frame showing the walking routes page on a desktop computer](documentation/wireframes-walkingroutes-desktop.png)
+
+![Wire frame showing the walking routes page on a smart phone](documentation/wireframes-walkingroutes-mobiles.png)
 
 Notes on the 'Walking Routes' page:
 - Weatherline will either be a link or an iframe.
