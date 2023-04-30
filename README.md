@@ -345,10 +345,24 @@ The following wire frames show the intended design of each of the three pages wh
 
 ![Wire frame showing the home page on a desktop computer](documentation/wireframe-home-desktop.png)
 
+Notes on the 'home' page: 
+- Images of and links to Wainwright's books will now appear on 'The Wainwright Fells' page.
+- Main image may be a single image or a number of images.
+- Header may have a plain background or be a panoramic view showing the ridge line of some of the fells.
+- Key words, as per the structure plane, have not been included here.
+
 ![Wire frame showing the wainwright fells page on a desktop computer](documentation/wireframe-thewainwrightfells-desktop.png)
+
+Notes on 'The Wainwright Fells' page:
+- Images of and links to Wainwright's books will appear under the corresponding list of fells.
+- Content will be hinted at, where it extends below the bottom edge of the screen.
+- Font awesome icons will be used next to each tip to convey meaning.
 
 ![Wire frame showing the walking routes page on a desktop computer](documentation/wireframes-walkingroutes-desktop.png)
 
+Notes on the 'Walking Routes' page:
+- Weatherline will either be a link or an iframe.
+- Content will be hinted at, where it extends below the bottom edge of the screen. There will be three walking routes each tagged as an article.
 
 [Return to contents list](#contents)
 
