@@ -274,7 +274,7 @@ Following an agile approach, the first sprint of this project will aim to keep t
 
 ### The Structure Plane
 
-The website will consist of three pages – Home, The Fells, Walking Routes. Each will have a main section and an aside.
+The website will consist of three pages – Home, Wainwright's Fells, Walking Routes. Each will have a main section and an aside.
 
 #### Information Architecture
 
@@ -292,7 +292,7 @@ Home
     *	Video clip
     *	Images of and links to his books 
 
-The Fells
+Wainwright's Fells
 -	The Wainwright Fells
     *	Map showing all the Wainwright fells
     *	List of all 214 fells (name, height, location, 1 sentence)
@@ -330,6 +330,12 @@ To support navigation:
 -	The nav link for the page currently in will be visibly different to other links.
 -	Links and interaction points clearly visible through consistent styling incl. using the hover pseudo selector.
 -	Content will be hinted at where it continues outside of view through layout choices.
+
+To support accessibility:
+- Use of semantic html
+- Secondary navigation to be clearly identifiable (both semantically and visibly)
+- Clear headings throughout to support semantics and allow for navigation around the page.
+- Clear groupings of information
 
 [Return to contents list](#contents)
 
