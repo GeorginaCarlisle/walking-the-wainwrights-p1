@@ -390,6 +390,7 @@ Notes on the 'Walking Routes' page:
 - GitHub
 - VScode with extensions: Markdown Preview GitHub Styling, Live Server, Dev Containers, GitHub Pull Requests and Issues
 - Google forms
+- [Balsamiq wireframes](https://balsamiq.com/)
 
 [Return to contents list](#contents)
 
