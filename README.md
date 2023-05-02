@@ -114,7 +114,9 @@ Required value:
 
 I created the following Google form which I then asked people who fell into both my primary and secondary target groups to complete.
 
-<!-- Screenshots of survey to be included here -->
+![Picture no.1 showing survey questions](documentation/user-survey-questions1.png)
+![Picture no.2 showing survey questions](documentation/user-survey-questions2.png)
+![Picture no.3 showing survey questions](documentation/user-survey-questions3.png)
 
 I received 9 responses to my survey covering the following target user groups:
 - 1 x I have not been fell walking in the Lake District, but it is something I would be keen to try 
@@ -124,7 +126,9 @@ I received 9 responses to my survey covering the following target user groups:
 
 Findings:
 
-<!-- Screenshot of summary for question 2 to be included here -->
+![Results of question 2](documentation/user-survey-results-q2.png)
+![Results of question 3](documentation/user-survey-results-q3.png)
+![Results of question 4](documentation/user-survey-results-q4.png)
 
 When looking in more detail at the different reponses when grouped by user target groups I found:
 - Those users who are specifically looking to summit some/all of 'The Wainwrights' had more required value within the scope of this survey (they all ticked more of the given options).
