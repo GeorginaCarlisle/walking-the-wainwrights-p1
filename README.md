@@ -212,7 +212,7 @@ Conclusion:
 2. A website providing a high-level positive user experience, in order to quickly locate information about the Lake District fells plus advice on fell walking and walking routes, and/or information about Wainwright and the Wainwright fells, would stand out for the crowd.
 3. While a number of sites do provide information on looking after the fells, this isn’t prominently placed and the information may therefore not be reaching users. The exception being https://www.lakedistrict.gov.uk/.
 4. Details about walking routes in the Lake District are currently offered on numerous websites.
-<details>
+</details>
 
 [Return to contents list](#contents)
 
