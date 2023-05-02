@@ -256,7 +256,7 @@ Following an agile approach, the first sprint of this project will aim to keep t
 | Provide knowledge that will lessen the users impact on the fells (flora, fauna and landscape) | 15. Information about looking after the fells plus images | Now |
 | | 16. Links to other websites/charities who are concerned with looking after the fells | Now |
 | A sense of community | 3 + 12 |
-| | 17. A form to allow new users to send their fell walking stories, images and tips which would be fed into further site development| Later |
+| | 17. A form to allow new users to send their fell walking stories, images and tips which would be fed into further site development| Now |
 | | 18. Top tips from other fell walkers | Later |
 | Provide knowledge that will help users to stay safe while fell walking | 19. Top tips plus images| Now |
 | | 20. Link to mountain rescue website | Now |
@@ -274,7 +274,8 @@ Following an agile approach, the first sprint of this project will aim to keep t
 
 ### The Structure Plane
 
-The website will consist of three pages – Home, Wainwright's Fells, Walking Routes. Each will have a main section and an aside.
+The website will consist of three main pages – Home, The Wainwright Fells and Walking Routes. Each of these will have a main section and an aside.
+There will also be a fourth page - Get in touch, this will only have one section.
 
 #### Information Architecture
 
@@ -315,6 +316,12 @@ Walking Routes
     *	Link to or in page placement of a fell top weather app
     *	Link to Mountain Rescue
 
+Get in touch
+- Contact form
+    * Spectacular image of fells incl. walkers
+    * Introduction - reason for form and how data gathered will be used
+    * Form
+
 Note: Further structure will need to be added as the number of walking routes increases
 
 #### Navigation
@@ -341,7 +348,7 @@ To support accessibility:
 
 ### The Skeleton Plane
 
-The following wire frames show the intended design of each of the three pages when viewed on a desktop computer and on a smart phone.
+The following wire frames show the intended design of each of the four pages when viewed on a desktop computer and on a smart phone.
 
 ![Wire frame showing the home page on a desktop computer](documentation/wireframe-home-desktop.png)
 
