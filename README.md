@@ -369,9 +369,9 @@ Notes on 'The Wainwright Fells' page:
 - Content will be hinted at, where it extends below the bottom edge of the screen.
 - Font awesome icons will be used next to each tip to convey meaning.
 
-![Wire frame showing the walking routes page on a desktop computer](documentation/wireframes-walkingroutes-desktop.png)
+![Wire frame showing the walking routes page on a desktop computer](documentation/wireframe-walkingroutes-desktop.png)
 
-![Wire frame showing the walking routes page on a smart phone](documentation/wireframes-walkingroutes-mobiles.png)
+![Wire frame showing the walking routes page on a smart phone](documentation/wireframe-walkingroutes-mobile.png)
 
 Notes on the 'Walking Routes' page:
 - Weatherline will either be a link or an iframe.
