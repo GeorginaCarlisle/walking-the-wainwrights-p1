@@ -4,9 +4,34 @@ body {
     margin: 0;
 }
 
+.page-content-container {
+    margin-top: 4rem;
+}
+
 a {
     text-decoration: none;
 }
+
+.main-container {
+    float: left;
+    width: 64%;
+    border-right: 1px solid black;
+}
+
+
+main {
+    margin-left: 2rem;
+}
+
+.aside-container {
+    float: right;
+    width: 35%;
+}
+
+aside {
+    margin-left: 2rem;
+}
+
 
 /* Styling for the header */
 /* Need to complete logo, build in break point styling, add styling for class=active, 
@@ -51,6 +76,7 @@ nav li {
 /* Styling for the footer */
 
 footer {
+    clear: both;
     width: 100%;
     background-color: slategrey;
     height: 4rem;
