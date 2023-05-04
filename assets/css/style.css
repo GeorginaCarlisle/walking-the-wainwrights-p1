@@ -48,3 +48,24 @@ nav li {
 
 }
 
+/* Styling for the footer */
+
+footer {
+    width: 100%;
+    background-color: slategrey;
+    height: 4rem;
+}
+
+footer > p {
+    float: left;
+    margin: 1rem 2rem;
+    line-height: 2rem;
+}
+
+footer li {
+    display: inline-block;
+    padding-left: 2rem;
+    font-size: 2rem;
+    margin: 1rem;
+    line-height: 2rem;
+}
