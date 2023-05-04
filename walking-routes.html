@@ -13,7 +13,7 @@
 </head>
 <body>
 
-    <!-- Header -->
+<!-- Header -->
     <header>
         <a href="index.html" id="logo">Site logo</a>
         <nav>
@@ -26,7 +26,63 @@
         </nav>
     </header>
 
-    <!-- Footer -->
+<!-- Main section containing walking routes -->
+    <main>
+        <h2>Walking Routes</h2>
+        <article>
+            <!-- hgroup element came across when reading the HTML Living Standard – 28 April 2023 
+                https://html.spec.whatwg.org)-->
+            <hgroup>
+                <h3>Walk name</h3>
+                <p>Fells included</p>
+            </hgroup>
+            Three images of the walk
+            <!-- https://www.w3.org/WAI/tutorials/tables/ was used to gain a better understanding 
+                of creating accessible tables -->
+            <table>
+                <caption>Key facts</caption>
+                <tr>
+                    <th>Difficulty:</th>
+                    <td>Easy, Medium, Advanced</td>
+                </tr>
+                <tr>
+                    <th>Length:</th>
+                    <td>In miles and km</td>
+                </tr>
+                <tr>
+                    <th>Average time:</th>
+                    <td>?hrs at an av.pace of ?</td>
+                </tr>
+                <tr>
+                    <th>Ascent:</th>
+                    <td>In feet and metres</td>
+                </tr>
+            </table>
+            <p>Brief description of the walk including key things to note. Styling to be used to 
+                help make key walk features stand out during skim reading. Links could also be 
+                provide so that users can learn more about features.</p>
+            <Map></Map>
+            <p>Details of start and end point</p>
+        </article>
+    </main>    
+
+<!-- Aside section containing walking tips -->
+    <aside>
+        <h2>Walking tips</h2>
+        Image of prepared and happy fell walkers
+        <p>Introduction</p>
+        <ul>
+            <li>Plan your route</li>
+            <li>Check the weather</li>
+            <li>Pack your bag</li>
+            <li>Inform others</li>
+            <li>Know when to ring 999</li>
+        </ul>
+        I-frame of the weatherline weather information
+        Link to mountain rescue
+    </aside>
+
+ <!-- Footer -->
     <footer>
         <div id="copyright">
             <p>Page created by Georgina Carlisle with photos from KeswickLimey 2023</p>
@@ -54,7 +110,7 @@
         
     </footer>
 
-    <!-- Script for fontawesome icons -->
+<!-- Script for fontawesome icons -->
     <script src="https://kit.fontawesome.com/ab3127d928.js" crossorigin="anonymous"></script>
 
 </body>
