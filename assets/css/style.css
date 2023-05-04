@@ -1,0 +1,50 @@
+/* Across page styling */
+
+body {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Styling for the header */
+/* Need to complete logo, build in break point styling, add styling for class=active, 
+style background, style text, add hover styling and focus styling */
+
+header {
+    width: 100%;
+    background-color: slategrey;
+    height: 4rem;
+    position: fixed;
+    top: 0;
+    z-index: 2;
+}
+
+header > a {
+    width: 33%;
+    float: left;
+}
+
+nav {
+    float: right;
+    width: 66%;
+    text-align: right;
+}
+
+nav ul {
+    display: flex;
+    justify-content:space-around;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    line-height: 2rem;
+    padding-left: 2rem;
+}
+
+.active {
+
+}
+
