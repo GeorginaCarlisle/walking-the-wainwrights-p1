@@ -449,10 +449,18 @@ Friends and family - Who filled in my target user survey.
 
 My fellow Code Institute peers - I have picked up numerous tips from other students within the course slack channel.
 
+<details>
+<summary>Acknowledgements for all the articles, tutorials etc. that contributed to the skill and knowledge demonstarted in this project.</summary>
+
 [Markdown Guide](https://www.markdownguide.org) - The majority of Markdown syntax used in this README was picked up from this site.
 
 [GitHub Docs: Basic writing and formatting syntax document](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - How to use the Markdown language was also picked up from this document.
 
+[Webinar: The world is your user agent: why semantic HTML is important for accessibility](https://www.deque.com/axe-con/sessions/the-world-is-your-user-agent-why-semantic-html-is-important-for-accessibility/) - I found this incredibly helpful in understanding what semantic html is and how to use it correctly to make my website accessible.
 
+[HTML living standard - 28 April 2023](https://html.spec.whatwg.org) - I found this document useful in further learning about semantic html.
+
+[W3C Tables tutorial](https://www.w3.org/WAI/tutorials/tables/) - I found this useful in further learning about creating accessible tables.
+</details>
 
 [Return to contents list](#contents)
