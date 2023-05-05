@@ -30,6 +30,12 @@ main {
 aside {
     margin: 0 2rem;
 }
+/* Look into different options for adding zoom to map */
+.map-container {
+    border: 1px solid black;
+    text-align: center;
+    margin: 1rem 0;
+}
 
 
 /* Styling for the header */
@@ -93,6 +99,13 @@ footer li {
     font-size: 2rem;
     margin: 1rem;
     line-height: 2rem;
+}
+
+/* Styling specific to wainwright-fells.html */
+
+#map-wainwright-fells {
+    width: 100%;
+    object-fit: contain;
 }
 
 /* Responsive design */
