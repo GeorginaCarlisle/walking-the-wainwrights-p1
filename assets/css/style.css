@@ -18,9 +18,8 @@ a {
     border-right: 1px solid black;
 }
 
-
 main {
-    margin-left: 2rem;
+    margin: 0 2rem;
 }
 
 .aside-container {
@@ -29,7 +28,7 @@ main {
 }
 
 aside {
-    margin-left: 2rem;
+    margin: 0 2rem;
 }
 
 
@@ -60,13 +59,13 @@ nav {
 nav ul {
     display: flex;
     justify-content:space-around;
-    padding: 0;
+    padding: 0 0 0 2rem;
 }
 
 nav li {
     display: inline-block;
     line-height: 2rem;
-    padding-left: 2rem;
+    padding-right: 2rem;
 }
 
 .active {
@@ -94,4 +93,54 @@ footer li {
     font-size: 2rem;
     margin: 1rem;
     line-height: 2rem;
+}
+
+/* Responsive design */
+
+@media screen and (max-width:800px){
+    /* Responsive header */
+    header {
+        height: 8rem;
+    }
+    header > a {
+        width: 100%;
+        clear: left;
+        text-align: center;
+    }
+    nav {
+        width: 100%;
+        clear: right;
+    }
+    nav li {
+        text-align: center;
+        line-height: 1rem;
+    }
+    /* Responsive page layout */
+    .page-content-container {
+        margin-top: 8rem;
+    }
+    .main-container {
+        clear: left;
+        width: 100%;
+        border-right: none;
+        text-align: center;
+    }
+    .aside-container {
+        clear: right;
+        width: 100%;
+        text-align: center;
+    }
+    
+}
+
+@media screen and (max-width:550px){
+    /* Responsive footer */
+    footer > p {
+        margin: 1rem 1rem;
+    }
+    footer li {
+        padding: 0;
+        font-size: 1.5rem;
+        margin: 1rem 0.2rem;
+    }
 }
