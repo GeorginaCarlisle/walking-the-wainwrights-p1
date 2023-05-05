@@ -42,7 +42,6 @@ aside {
     object-fit: contain;
 }
 
-
 /* Styling for the header */
 /* Need to complete logo, build in break point styling, add styling for class=active, 
 style background, style text, add hover styling and focus styling */
@@ -108,8 +107,9 @@ footer li {
 
 /* Styling specific to wainwright-fells.html */
 
-#map-wainwright-fells {
-    
+#map-castlerigg {
+    width: 80%;
+    margin: 0 auto;
 }
 
 
