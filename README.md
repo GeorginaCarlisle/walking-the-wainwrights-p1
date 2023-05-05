@@ -436,6 +436,7 @@ Specific credit for images, content and code not taken/written by myself is now 
 | --- | --- |
 | Template used to create this repository. | Code Institute ([ci-full-template](https://github.com/Code-Institute-Org/ci-full-template)) |
 | map-wainwright-fells.jpg | [Guide Us](https://guideus.co.uk/map-shop/wainwright-fells-map) |
+| route-map-castlerigg and route-map-coledale-horseshoe | [Ordnance Survey](https://www.ordnancesurvey.co.uk/) for the map and the software used to create the route |
 
 
 [Return to contents list](#contents)
