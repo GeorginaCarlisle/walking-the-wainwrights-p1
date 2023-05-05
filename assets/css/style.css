@@ -37,6 +37,11 @@ aside {
     margin: 1rem 0;
 }
 
+.map-image {
+    width: 100%;
+    object-fit: contain;
+}
+
 
 /* Styling for the header */
 /* Need to complete logo, build in break point styling, add styling for class=active, 
@@ -104,9 +109,10 @@ footer li {
 /* Styling specific to wainwright-fells.html */
 
 #map-wainwright-fells {
-    width: 100%;
-    object-fit: contain;
+    
 }
+
+
 
 /* Responsive design */
 
