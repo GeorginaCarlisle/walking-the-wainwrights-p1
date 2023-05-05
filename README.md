@@ -435,6 +435,7 @@ Specific credit for images, content and code not taken/written by myself is now 
 | Item | Credit to |
 | --- | --- |
 | Template used to create this repository. | Code Institute ([ci-full-template](https://github.com/Code-Institute-Org/ci-full-template)) |
+| map-wainwright-fells.jpg | [GuideUs.co.uk](https://guideus.co.uk/map-shop/wainwright-fells-map) |
 
 
 [Return to contents list](#contents)
