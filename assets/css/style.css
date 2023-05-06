@@ -106,7 +106,42 @@ footer li {
 }
 
 /* Styling specific to wainwright-fells.html */
+.container-fell-lists {
+    display: flex;
+    margin: 1rem 0;
+}
 
+.fell-list {
+    font-size: 0.9rem;
+    border: 1px solid black;
+    padding: 1rem;
+}
+
+.top-fell-list {
+    width: 33.3%;
+}
+
+.bottom-fell-list {
+    width: 25%;
+}
+
+.fell-list > ol {
+    padding-left: 1.4rem;
+    
+}
+
+.fell-list > ol li {
+    margin: 1rem 0;
+}
+
+.fell-list > h3 {
+    text-align: center;
+    margin: 0 0 2rem 0;
+    font-size: 1.2rem;
+}
+
+
+/* Styling specific to walking-routes.html */
 #map-castlerigg {
     width: 80%;
     margin: 0 auto;
@@ -143,6 +178,8 @@ footer li {
         width: 100%;
         border-right: none;
         text-align: center;
+    /* Need to look at text-align. Doesn't work for lists. They need to remain
+    text-align left */
     }
     .aside-container {
         clear: right;
