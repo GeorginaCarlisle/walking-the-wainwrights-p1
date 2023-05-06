@@ -436,8 +436,8 @@ Specific credit for images, content and code not taken/written by myself is now 
 | --- | --- |
 | Template used to create this repository. | Code Institute ([ci-full-template](https://github.com/Code-Institute-Org/ci-full-template)) |
 | map-wainwright-fells.jpg | [Guide Us](https://guideus.co.uk/map-shop/wainwright-fells-map) |
-| route-map-castlerigg and route-map-coledale-horseshoe | [Ordnance Survey](https://www.ordnancesurvey.co.uk/) for the map and the software used to create the route |
-
+| route-map-gowbarrow, route-map-castlerigg and route-map-coledale-horseshoe along with length, ascent and average time | [Ordnance Survey](https://www.ordnancesurvey.co.uk/) for the map and the software used to create the route |
+| Names and heights of the Wainwright fells | [GuideUs](https://guideus.co.uk/list-of-wainwright-fells) |
 
 [Return to contents list](#contents)
 
@@ -462,7 +462,7 @@ My fellow Code Institute peers - I have picked up numerous tips from other stude
 
 [HTML living standard - 28 April 2023](https://html.spec.whatwg.org) - I found this document useful in further learning about semantic html.
 
-[W3C Tables tutorial](https://www.w3.org/WAI/tutorials/tables/) - I found this useful in further learning about creating accessible tables.
+[W3C Tables tutorial](https://www.w3.org/WAI/tutorials/tables/) - I found this useful in learning further about creating an accessible website.
 </details>
 
 [Return to contents list](#contents)
