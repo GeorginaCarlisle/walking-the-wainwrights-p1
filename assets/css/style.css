@@ -130,9 +130,10 @@ footer li {
     
 }
 
-.fell-list > ol li {
+.fell-list li {
     margin: 1rem 0;
 }
+/* Look at ways to style the li so that numbers look like those on the map */ 
 
 .fell-list > h3 {
     text-align: center;
