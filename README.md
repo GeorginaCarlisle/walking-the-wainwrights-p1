@@ -438,6 +438,9 @@ Specific credit for images, content and code not taken/written by myself is now 
 | map-wainwright-fells.jpg | [Guide Us](https://guideus.co.uk/map-shop/wainwright-fells-map) |
 | route-map-gowbarrow, route-map-castlerigg and route-map-coledale-horseshoe along with length, ascent and average time | [Ordnance Survey](https://www.ordnancesurvey.co.uk/) for the map and the software used to create the route |
 | Names and heights of the Wainwright fells | [GuideUs](https://guideus.co.uk/list-of-wainwright-fells) |
+| book images | [Waterstones](https://www.waterstones.com/) a link to Waterstones has aslo been
+set up for each book image |
+
 
 [Return to contents list](#contents)
 
