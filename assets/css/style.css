@@ -141,6 +141,12 @@ footer li {
     font-size: 1.2rem;
 }
 
+.book-image {
+    width: 100%;
+    object-fit: contain;
+}
+/* Look at ways to style fell-list columns and/or book images so that the book 
+images always sit at the bottom of the list container */
 
 /* Styling specific to walking-routes.html */
 #map-castlerigg {
