@@ -145,6 +145,8 @@ footer li {
 }
 /* Look at ways to style the li so that numbers look like those on the map */ 
 
+/* Add styling to align all List headings and all book images */
+
 .fell-list > h3 {
     text-align: center;
     margin: 0 0 2rem 0;
