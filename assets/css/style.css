@@ -168,6 +168,34 @@ images always sit at the bottom of the list container */
     margin: 0 auto;
 }
 
+.container-route-images {
+    display: flex;
+    justify-content: space-around;
+}
+
+.outside-figure-gowbarrow {
+    width: 35.5%;
+}
+
+.inside-figure-gowbarrow {
+    width: 26.5%;
+}
+
+.outside-figure-ashness {
+    width: 34%;
+}
+
+.inside-figure-ashness {
+    width: 30.6%;
+}
+
+.outside-figure-coledale {
+    width: 34%;
+}
+
+.inside-figure-coledale {
+    width: 30.2%;
+}
 
 
 /* Responsive design */
