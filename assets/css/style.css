@@ -145,6 +145,13 @@ footer li {
     width: 100%;
     object-fit: contain;
 }
+
+/* Styling specific to looking after the fells */
+
+.table-advice {
+    border-spacing: 0.5rem 2rem;
+}
+
 /* Look at ways to style fell-list columns and/or book images so that the book 
 images always sit at the bottom of the list container */
 
