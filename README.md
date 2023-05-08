@@ -440,7 +440,7 @@ Specific credit for images, content and code not taken/written by myself is now 
 | Names and heights of the Wainwright fells | [GuideUs](https://guideus.co.uk/list-of-wainwright-fells) |
 | book images | [Waterstones](https://www.waterstones.com/) a link to Waterstones has aslo been
 set up for each book image |
-| photo-view-from-greatgable-DWL.jpg, photo-path-through-heather-DWL.jpg | [KeswickLimey Photography & Framing](https://www.keswicklimey.co.uk/) all photos also credited with a link to website within the caption for each photo |
+| photo-aira-beck.jpg, photo-aira-force.jpg, photo-bleaberryfell.jpg, photo-castlerigg-stone-circle.jpg, photo-path-through-heather.jpg, photo-tarn-at-leaves.jpg + photo-view-from-greatgable-DWL.jpg | [KeswickLimey Photography & Framing](https://www.keswicklimey.co.uk/) all photos also credited with a link to website within the caption for each photo |
 | Wording for the introduction text in the 'Looking after the fells' aside | [LakeDistrict.gov](https://www.lakedistrict.gov.uk/) |
 | Complete text under the id="credit-text-respect" within the 'Looking after the fells' aside | [LakeDistrict.gov](https://www.lakedistrict.gov.uk/visiting/countryside-code) |
 | Icons within the 'Looking after the fells' and ' Walking tips' asides | [Font Awesome](https://fontawesome.com/) |
