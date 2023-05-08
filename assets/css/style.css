@@ -42,6 +42,11 @@ aside {
     object-fit: contain;
 }
 
+.photo {
+    width: 100%;
+    object-fit: contain;
+}
+
 /* Styling for the header */
 /* Need to complete logo, build in break point styling, add styling for class=active, 
 style background, style text, add hover styling and focus styling */
@@ -150,6 +155,13 @@ footer li {
 
 .table-advice {
     border-spacing: 0.5rem 2rem;
+}
+
+.figure-look-after {
+    width: 100%;
+    font-size: 0.8rem;
+    margin: 2rem 0;
+    text-align: center;
 }
 
 /* Look at ways to style fell-list columns and/or book images so that the book 
