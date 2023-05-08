@@ -37,14 +37,16 @@ aside {
     margin: 1rem 0;
 }
 
-.map-image {
+.image {
     width: 100%;
     object-fit: contain;
 }
 
-.photo {
+figure {
     width: 100%;
-    object-fit: contain;
+    margin: 1rem 0;
+    text-align: center;
+    font-size: 0.8rem;
 }
 
 /* Styling for the header */
@@ -144,11 +146,6 @@ footer li {
     text-align: center;
     margin: 0 0 2rem 0;
     font-size: 1.2rem;
-}
-
-.book-image {
-    width: 100%;
-    object-fit: contain;
 }
 
 /* Styling specific to looking after the fells */
