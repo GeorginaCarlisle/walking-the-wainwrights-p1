@@ -35,6 +35,7 @@ aside {
     border: 1px solid black;
     text-align: center;
     margin: 1rem 0;
+    clear: both;
 }
 
 .image {
@@ -44,9 +45,10 @@ aside {
 
 figure {
     width: 100%;
-    margin: 2rem 0;
+    margin: 0 0 2rem 0;
     text-align: center;
     font-size: 0.8rem;
+    border: 1px solid;
 }
 
 h2 {
@@ -240,6 +242,56 @@ images always sit at the bottom of the list container */
     position: relative;
     top: -4rem;
     opacity: 0;
+}
+
+.route-table {
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 35%;
+    float: left;
+    margin-top: 2rem;
+}
+
+.route-table th {
+    border: 1px solid;
+    text-align: right;
+    padding: 0.3rem;
+}
+
+.route-table td {
+    border: 1px solid;
+    padding: 0.3rem;
+}
+
+.walk-info {
+    float: right;
+    width: 60%;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.walk-info > h4 {
+    margin-top: 0;
+}
+
+hgroup {
+    text-align: center;
+}
+
+article > h3 {
+    text-align: center;
+}
+
+hgroup > h3 {
+    margin-bottom: 0;
+}
+
+hgroup > p {
+    margin-top: 0;
+}
+
+article {
+    margin: 1rem 0;
 }
 
 /* Styling specific to get in touch */
