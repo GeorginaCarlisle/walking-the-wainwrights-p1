@@ -218,6 +218,12 @@ images always sit at the bottom of the list container */
     width: 30.2%;
 }
 
+#logo-mountain-rescue {
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+}
+
 /* Styling specific to get in touch */
 
 #page-container-getintouch {
