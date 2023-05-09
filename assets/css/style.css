@@ -233,6 +233,8 @@ images always sit at the bottom of the list container */
     z-index: -1;
 }
 
+/* The idea for the styling of container-form and some of the code came from Code
+Institutes 'Love Running' walkthrough */
 #container-form {
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
