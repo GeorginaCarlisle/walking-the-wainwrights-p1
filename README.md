@@ -449,6 +449,8 @@ set up for each book image |
 | Introduction paragraph to the walking tips | [lakedistrict.gov.uk](https://www.lakedistrict.gov.uk/visiting/things-to-do/walking/walking-safety-tips) |
 | Sections of the content within the table of walking tips (all clearly marked within the code) | [lakedistrict.gov.uk](https://www.lakedistrict.gov.uk/visiting/things-to-do/walking/walking-safety-tips) |
 | Sections of the content within the table of walking tips (all clearly marked within the code) | [The Lake District Search & Mountain Rescue Association](https://ldsamra.org.uk/advice.php) |
+| logo-countrysidecode | [gov.uk/countryside-code](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1052574/Countryside_Code_A5.pdf) the logo is used as a link to a pdf of 'The Countryside Code A5 Leaflet'|
+| logo-fixthefells | [Fix the fells](https://www.fixthefells.co.uk/) the logo is used as a link to the fix the fells website |
 
 
 [Return to contents list](#contents)
