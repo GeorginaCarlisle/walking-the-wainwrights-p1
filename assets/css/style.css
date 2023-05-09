@@ -218,6 +218,19 @@ images always sit at the bottom of the list container */
     width: 30.2%;
 }
 
+/* Styling specific to get in touch */
+
+#page-container-getintouch {
+    width: 100%;
+    height: 700px;
+    /* credit for the background-image goes to KeswickLimey Photography & Framing https://www.keswicklimey.co.uk/ */
+    background-image: url("../images/photo-loweswater.jpg");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    z-index: -1;
+}
 
 /* Responsive design */
 
