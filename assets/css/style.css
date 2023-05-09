@@ -224,6 +224,24 @@ images always sit at the bottom of the list container */
     width: 70%;
 }
 
+#aira-walk {
+    position: relative;
+    top: -4rem;
+    opacity: 0;
+}
+
+#castlerigg-walk {
+    position: relative;
+    top: -4rem;
+    opacity: 0;
+}
+
+#coledale-walk {
+    position: relative;
+    top: -4rem;
+    opacity: 0;
+}
+
 /* Styling specific to get in touch */
 
 #page-container-getintouch {
