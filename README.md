@@ -446,6 +446,9 @@ set up for each book image |
 | Icons within the 'Looking after the fells' and ' Walking tips' asides | [Font Awesome](https://fontawesome.com/) |
 | The idea for the styling of container-form and some of the code | [Code Institute's](https://codeinstitute.net) 'Love Running' walkthrough |
 | photo-prepared-walkers | Free download from [Guduru Ajay bhargav] (https://www.pexels.com/@ajaybhargavguduru/) this photo is also credited, within the caption, with a link to the author's pexel page |
+| Introduction paragraph to the walking tips | [lakedistrict.gov.uk](https://www.lakedistrict.gov.uk/visiting/things-to-do/walking/walking-safety-tips) |
+| Sections of the content within the table of walking tips (all clearly marked within the code) | [lakedistrict.gov.uk](https://www.lakedistrict.gov.uk/visiting/things-to-do/walking/walking-safety-tips) |
+| Sections of the content within the table of walking tips (all clearly marked within the code) | [The Lake District Search & Mountain Rescue Association](https://ldsamra.org.uk/advice.php) |
 
 
 [Return to contents list](#contents)
