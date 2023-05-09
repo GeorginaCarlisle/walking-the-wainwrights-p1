@@ -54,6 +54,13 @@ figure {
 h2 {
     text-align: center;
 }
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+    padding: 2rem;
+}
 /* Styling for the header */
 /* Need to complete logo, build in break point styling, add styling for class=active, 
 style background, style text, add hover styling and focus styling */
@@ -218,12 +225,6 @@ images always sit at the bottom of the list container */
 
 .inside-figure-coledale {
     width: 30.2%;
-}
-
-#logo-mountain-rescue {
-    display: block;
-    margin: 0 auto;
-    width: 70%;
 }
 
 #aira-walk {
