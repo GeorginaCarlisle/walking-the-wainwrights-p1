@@ -145,6 +145,12 @@ footer li {
     width: 100%;
     background: white;
 }
+
+#wainwright-video {
+    width: 32rem;
+    height: 18rem;
+}
+
 /* Styling specific to wainwright-fells.html */
 .container-fell-lists {
     display: flex;
