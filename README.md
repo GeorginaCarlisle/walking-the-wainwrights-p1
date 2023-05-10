@@ -451,7 +451,8 @@ set up for each book image |
 | Sections of the content within the table of walking tips (all clearly marked within the code) | [The Lake District Search & Mountain Rescue Association](https://ldsamra.org.uk/advice.php) |
 | logo-countrysidecode | [gov.uk/countryside-code](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1052574/Countryside_Code_A5.pdf) the logo is used as a link to a pdf of 'The Countryside Code A5 Leaflet'|
 | logo-fixthefells | [Fix the fells](https://www.fixthefells.co.uk/) the logo is used as a link to the fix the fells website |
-
+| tips-video | Lake District National Park - [Youtube](https://www.youtube.com/watch?v=NlfuNgqzz3M) |
+| wainwright-video | BBC4 - Garry Pickles - [Youtube](https://www.youtube.com/watch?v=QbzIZuyGa0s&t=1s) |
 
 [Return to contents list](#contents)
 
@@ -479,6 +480,8 @@ My fellow Code Institute peers - I have picked up numerous tips from other stude
 [HTML living standard - 28 April 2023](https://html.spec.whatwg.org) - I found this document useful in further learning about semantic html.
 
 [W3C Tables tutorial](https://www.w3.org/WAI/tutorials/tables/) - I found this useful in learning further about creating an accessible website.
+
+Youtube - Wed dev tutorials [HTML & CSS - How to Embed a YouTube Video in Your Website](https://www.youtube.com/watch?v=ly36kn0ug4k) - I followed this tutorial when looking to include youtube videos on the website.
 </details>
 
 [Return to contents list](#contents)
