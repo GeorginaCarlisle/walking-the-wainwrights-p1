@@ -141,6 +141,30 @@ footer li {
     height: 600px;
 }
 
+#walker-quotes {
+    width: 30%;
+    float: right;
+    background-color: rgba(60, 60, 60, 0.6);
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.quote {
+
+}
+
+.quote-from {
+    display: inline-block;
+}
+
+#wainwright-quote {
+    clear: both;
+    color: #fff;
+}
+
+
+
 #container-wainwright {
     width: 100%;
     background: white;
