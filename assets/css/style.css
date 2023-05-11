@@ -142,12 +142,13 @@ footer li {
 }
 
 #walker-quotes {
-    width: 30%;
+    width: 35%;
     float: right;
     background-color: rgba(60, 60, 60, 0.6);
     color: white;
     text-align: center;
     border-radius: 5px;
+    margin-top: 11rem;
 }
 
 .quote {
@@ -163,7 +164,10 @@ footer li {
     color: #fff;
 }
 
-
+#container-main-introduction {
+    width: 50%;
+    float: left;
+}
 
 #container-wainwright {
     width: 100%;
