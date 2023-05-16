@@ -409,13 +409,15 @@ Institutes 'Love Running' walkthrough */
 #container-thankyou {
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
-    width: 38rem;
+    width: 25rem;
     padding: 0.5rem 2rem;
     position: relative;
     left: 5%;
-    top: 12rem;
+    top: 15rem;
     margin-bottom: 13rem;
+    text-align: center;
 }
+
 
 /* Responsive design */
 
