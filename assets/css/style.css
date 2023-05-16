@@ -218,7 +218,7 @@ footer li {
 .fell-list {
     font-size: 0.9rem;
     border: 1px solid black;
-    padding: 1rem;
+    padding: 0.5rem;
 }
 
 .top-fell-list {
@@ -425,6 +425,9 @@ Institutes 'Love Running' walkthrough */
     #container-wainwright {
         font-size: 1.1rem;
     }
+    .fell-list {
+    padding: 1rem;
+    }
 }
 
 @media screen and (max-width:800px){
@@ -467,6 +470,11 @@ Institutes 'Love Running' walkthrough */
     /* Responsivity specific to alfred section index.html */
     #image-wainwright {
         margin: 2rem 0;
+    }
+
+    /* Responsivity specific to fell lists */
+    .container-fell-lists {
+        text-align: left;
     }
 
     /* Responsivity specific to walking tips */
@@ -521,6 +529,39 @@ Institutes 'Love Running' walkthrough */
         float: none;
         width: 100%;
     }
+
+    /* Responsivity specific to Wainwright fells */
+    .container-fell-lists {
+        display: block;
+        width: 100%;
+        margin: 0;
+    }
+
+    #northern-fells {
+        width: 100%;
+    }
+
+    
+.fell-list {
+    display: inline-block;
+    font-size: 0.9rem;
+    border: 1px solid black;
+    width: 49%;
+    padding: 0;
+    margin-bottom: 2rem;
+}
+
+
+
+.fell-list > ol {
+    padding-left: 1.4rem;
+    
+}
+
+.fell-list li {
+    margin: 1rem 0;
+}
+
     /* Responsivity specific to walking-routes */
     .route-table {
         width: 100%;
