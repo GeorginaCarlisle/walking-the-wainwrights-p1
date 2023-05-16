@@ -1,4 +1,4 @@
-/* Across page styling */
+/* Across website styling */
 
 body {
     margin: 0;
@@ -6,10 +6,6 @@ body {
 
 .page-content-container {
     margin-top: 4rem;
-}
-
-a {
-    text-decoration: none;
 }
 
 .main-container {
@@ -30,17 +26,12 @@ main {
 aside {
     margin: 0 2rem;
 }
-/* Look into different options for adding zoom to map */
+
 .map-container {
     border: 1px solid black;
     text-align: center;
     margin: 1rem 0;
     clear: both;
-}
-
-.image {
-    width: 100%;
-    object-fit: contain;
 }
 
 figure {
@@ -51,19 +42,20 @@ figure {
     border: 1px solid;
 }
 
+.image {
+    width: 100%;
+    object-fit: contain;
+}
+
+a {
+    text-decoration: none;
+}
+
 h2 {
     text-align: center;
 }
 
-.logo {
-    display: block;
-    margin: 0 auto;
-    width: 70%;
-    padding: 2rem;
-}
-/* Styling for the header */
-/* Need to complete logo, build in break point styling, add styling for class=active, 
-style background, style text, add hover styling and focus styling */
+/* Header specific styling */
 
 header {
     width: 100%;
@@ -77,6 +69,13 @@ header {
 header > a {
     width: 33%;
     float: left;
+}
+
+.logo {
+    display: block;
+    margin: 0 auto;
+    width: 70%;
+    padding: 2rem;
 }
 
 nav {
@@ -101,7 +100,7 @@ nav li {
 
 }
 
-/* Styling for the footer */
+/* Footer specific styling */
 
 footer {
     clear: both;
@@ -124,7 +123,7 @@ footer li {
     line-height: 2rem;
 }
 
-/* Styling specific to index.html */
+/* Index.html specific styling */
 
 /* Styling specific to main section of index.html */
 #container-introduction {
@@ -143,6 +142,18 @@ footer li {
     height: 600px;
 }
 
+#container-main-introduction {
+    width: 50%;
+    float: left;
+}
+
+.quote {
+
+}
+
+.quote-from {
+    display: inline-block;
+}
 #walker-quotes {
     width: 35%;
     float: right;
@@ -153,22 +164,9 @@ footer li {
     margin-top: 11rem;
 }
 
-.quote {
-
-}
-
-.quote-from {
-    display: inline-block;
-}
-
 #wainwright-quote {
     clear: both;
     color: #fff;
-}
-
-#container-main-introduction {
-    width: 50%;
-    float: left;
 }
 
 /* Styling specific to aside section of index.html */
@@ -209,7 +207,9 @@ footer li {
     width: 35%;
 }
 
-/* Styling specific to wainwright-fells.html */
+/* Wainwright-fells.html specific styling */
+
+/* Styling specific to main section of wainwright-fells.html */
 .container-fell-lists {
     display: flex;
     margin: 1rem 0;
@@ -229,6 +229,12 @@ footer li {
     width: 25%;
 }
 
+.fell-list > h3 {
+    text-align: center;
+    margin: 0 0 2rem 0;
+    font-size: 1.2rem;
+}
+
 .fell-list > ol {
     padding-left: 1.4rem;
     
@@ -237,17 +243,8 @@ footer li {
 .fell-list li {
     margin: 1rem 0;
 }
-/* Look at ways to style the li so that numbers look like those on the map */ 
 
-/* Add styling to align all List headings and all book images */
-
-.fell-list > h3 {
-    text-align: center;
-    margin: 0 0 2rem 0;
-    font-size: 1.2rem;
-}
-
-/* Styling specific to looking after the fells */
+/* Styling specific to aside section 'looking after the fells' */
 
 .table-advice {
     border-spacing: 0.5rem 2rem;
@@ -258,16 +255,10 @@ footer li {
     height: 9rem;
     margin: 0 auto;
 }
-                    
-/* Look at ways to style fell-list columns and/or book images so that the book 
-images always sit at the bottom of the list container */
 
-/* Styling specific to walking-routes.html */
-#map-castlerigg {
-    width: 80%;
-    margin: 0 auto;
-}
+/* Walking-routes.html specific styling */
 
+/* Styling specific to main section of walking-routes.html */
 hgroup {
     text-align: center;
 }
@@ -287,6 +278,12 @@ hgroup > p {
 article {
     margin: 1rem 0;
 }
+
+#map-castlerigg {
+    width: 80%;
+    margin: 0 auto;
+}
+
 /* Styling specific to route images */
 .container-route-images {
     display: flex;
@@ -316,6 +313,7 @@ article {
 .inside-figure-coledale {
     width: 30.2%;
 }
+
 /* Styling specific to anchor link points */
 #aira-walk {
     position: relative;
@@ -334,6 +332,7 @@ article {
     top: -4rem;
     opacity: 0;
 }
+
 /* Styling specific to route tables */
 .route-table {
     border: 1px solid;
@@ -353,6 +352,7 @@ article {
     border: 1px solid;
     padding: 0.3rem;
 }
+
 /* Styling specific to walk information */
 .walk-info {
     float: right;
@@ -365,7 +365,7 @@ article {
     margin-top: 0;
 }
 
-/* Styling specific to get in touch */
+/* get-in-touch.html specific styling */
 
 #page-container-getintouch {
     width: 100%;
@@ -393,7 +393,7 @@ Institutes 'Love Running' walkthrough */
     margin-bottom: 13rem;
 }
 
-/* Styling specific to form thank you */
+/* form-thankyou.html specific styling */
 #page-container-form-thankyou {
     width: 100%;
     height: 750px;
@@ -417,7 +417,6 @@ Institutes 'Love Running' walkthrough */
     margin-bottom: 13rem;
     text-align: center;
 }
-
 
 /* Responsive design */
 
@@ -457,8 +456,6 @@ Institutes 'Love Running' walkthrough */
         width: 100%;
         border-right: none;
         text-align: center;
-    /* Need to look at text-align. Doesn't work for lists. They need to remain
-    text-align left */
     }
     .aside-container {
         clear: right;
@@ -467,7 +464,7 @@ Institutes 'Love Running' walkthrough */
         float: none;
     } 
 
-    /* Responsivity specific to alfred section index.html */
+    /* Responsivity specific to aside section index.html */
     #image-wainwright {
         margin: 2rem 0;
     }
@@ -489,15 +486,18 @@ Institutes 'Love Running' walkthrough */
     footer > p {
         margin: 1rem 1rem;
     }
+
     footer li {
         padding: 0;
         font-size: 1.5rem;
         margin: 1rem 0.2rem;
     }
+
     /* Cross page responsivity rules */
     .aside-container {
         width: 100%;
     } 
+
     /* Responsivity specific to Wainwright section index.html */
     #container-wainwright {
         width: 100%;
@@ -505,6 +505,7 @@ Institutes 'Love Running' walkthrough */
         background: white;
     padding: 0.5rem 0;
     }
+
     #image-wainwright {
         float: none;
         width: 100%;
@@ -540,27 +541,13 @@ Institutes 'Love Running' walkthrough */
     #northern-fells {
         width: 100%;
     }
-
-    
-.fell-list {
-    display: inline-block;
-    font-size: 0.9rem;
-    border: 1px solid black;
-    width: 49%;
-    padding: 0;
-    margin-bottom: 2rem;
-}
-
-
-
-.fell-list > ol {
-    padding-left: 1.4rem;
-    
-}
-
-.fell-list li {
-    margin: 1rem 0;
-}
+   
+    .fell-list {
+        display: inline-block;
+        width: 49%;
+        padding: 0;
+        margin-bottom: 2rem;
+    }
 
     /* Responsivity specific to walking-routes */
     .route-table {
@@ -568,11 +555,13 @@ Institutes 'Love Running' walkthrough */
         float: none;
         margin-top: 0;
     }
+
     .walk-info {
         float: none;
         width: 100%;
         margin-top: 2rem;
     }
+    
      /* Responsivity specific to walking tips */
     .icon {
         font-size: 1rem;
