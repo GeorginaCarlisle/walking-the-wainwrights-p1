@@ -31,7 +31,7 @@
         <div id="page-container-getintouch"></div>
         <section id="container-form">
             <h2>Get in touch</h2>
-            <form method="" action="" class="">
+            <form method="POST" action="https://formdump.codeinstitute.net/" class="get-in-touch-form">
                 <p>Explanation of the purpose of the form and what will happen with the information submitted.</p>
                 
                 <label for="name">Name:</label>
@@ -49,9 +49,15 @@
                     name="email"
                     class=""
                     required >
-                
-                <p>How would you rate the content of this website? (Input - radio buttons? Explore other options)</p>
-                
+                <br>
+                <label for="content-rating">How would you rate the content of this website?</label>
+                <input
+                    type="range" 
+                    id="content-rating"
+                    name="content-rating"
+                    min="0"
+                    max="5">
+                <br>
                 <label for="content-feedback">What other content would you like to see?</label>
                 <br>
                 <textarea
@@ -60,9 +66,15 @@
                     rows="2"
                     name="content-feedback">
                 </textarea>
-
-                <p>How would you rate the user experience of this website (Input - radio buttons? Other options)</p>
-                
+                <br>
+                <label for="experience-rating">How would you rate the user experience of this website?</label>
+                <input
+                    type="range" 
+                    id="experience-rating"
+                    name="experience-rating"
+                    min="0"
+                    max="5">
+                <br>
                 <label for="experience-feedback">What would make it better?</label>
                 <br>
                 <textarea
@@ -71,13 +83,19 @@
                     rows="2"
                     name="experience-feedback"></textarea>
                 <br>
-                <label for="share-experience">Share your love of the Fells</label>
+                <label for="share-experience">What do you love about fell walking in the Lake District?</label>
                 <br>
                 <textarea
                     id="share-experience"
                     cols="60"
                     rows="2"
                     name="share-experience"></textarea>
+                <br>
+                <input 
+                    type="submit"
+                    value="Submit"
+                    id="submit-button"
+                    >
             </form>
         </section>
     </div>
