@@ -2,6 +2,7 @@
 
 body {
     margin: 0;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .page-content-container {
@@ -54,6 +55,10 @@ figure {
     object-fit: contain;
 }
 
+h1, h2, h3 {
+    font-family: 'Roboto Slab', serif;
+}
+
 a {
     text-decoration: none;
 }
@@ -71,6 +76,7 @@ header {
     position: fixed;
     top: 0;
     z-index: 2;
+    font-family: 'Roboto Slab', serif;
 }
 
 header > a {
@@ -170,6 +176,7 @@ footer li {
 #wainwright-quote {
     clear: both;
     color: #fff;
+    font-family: 'Klee One', cursive;
 }
 
 /* Styling specific to aside section of index.html */
@@ -208,6 +215,7 @@ footer li {
 #bottom-wainwright-quote {
     float: right;
     width: 35%;
+    font-family: 'Klee One', cursive;
 }
 
 /* Wainwright-fells.html specific styling */
