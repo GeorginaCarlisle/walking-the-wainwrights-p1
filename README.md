@@ -385,6 +385,18 @@ Notes on the 'Get In Touch' page:
 
 ### The Surface Plane
 
+#### Typography
+
+Three font styles are used throughout the site in order to make both the headings and the quotes stand out visually as different from the main body of text. 
+
+For the headings I wanted to draw some parallels with how Wainwright chose to style the headings within his guide books, all of which were handwritten. I therefore chose the serif font **Roboto Slab**.
+
+For the remaining text I wanted a font that would be easily readable (sans-serif) and still work alongside Roboto Slab. I therefore chose the sans-serif font **Montserrat**.
+
+For the Wainwright quotes I have included, I again wanted to draw parallels with how Wainwright chose to style the main body of text within his guidebooks. While the books were handwritten, Wainwright took great care to make his handwriting neat and legible. I therefore chose the cursive font **Klee One**.
+
+![Picture showing the handwritten text on the front of Wainwright's guide books](documentation/typography-wainwrights-guidebooks.jpg)
+
 [Return to contents list](#contents)
 
 ## Languages
@@ -438,8 +450,7 @@ Specific credit for images, content and code not taken/written by myself is now 
 | map-wainwright-fells.jpg | [Guide Us](https://guideus.co.uk/map-shop/wainwright-fells-map) |
 | route-map-gowbarrow, route-map-castlerigg and route-map-coledale-horseshoe along with length, ascent and average time | [Ordnance Survey](https://www.ordnancesurvey.co.uk/) for the map and the software used to create the route |
 | Names and heights of the Wainwright fells | [GuideUs](https://guideus.co.uk/list-of-wainwright-fells) |
-| book images | [Waterstones](https://www.waterstones.com/) a link to Waterstones has aslo been
-set up for each book image |
+| book images | [Waterstones](https://www.waterstones.com/) a link to Waterstones has aslo been set up for each book image |
 | photo-aira-beck.jpg, photo-aira-force.jpg, photo-bleaberryfell.jpg, photo-castlerigg-stone-circle.jpg, photo-path-through-heather.jpg, photo-loweswater.jpg, photo-tarn-at-leaves.jpg + photo-view-from-greatgable-DWL.jpg | Used with the permission of [KeswickLimey Photography & Framing](https://www.keswicklimey.co.uk/) all photos also credited with a link to website within the caption for each photo |
 | Wording for the introduction text in the 'Looking after the fells' aside | [LakeDistrict.gov](https://www.lakedistrict.gov.uk/) |
 | Complete text under the id="credit-text-respect" within the 'Looking after the fells' aside | [LakeDistrict.gov](https://www.lakedistrict.gov.uk/visiting/countryside-code) |
@@ -453,6 +464,9 @@ set up for each book image |
 | logo-fixthefells | [Fix the fells](https://www.fixthefells.co.uk/) the logo is used as a link to the fix the fells website |
 | tips-video | Lake District National Park - [Youtube](https://www.youtube.com/watch?v=NlfuNgqzz3M) |
 | wainwright-video | BBC4 - Garry Pickles - [Youtube](https://www.youtube.com/watch?v=QbzIZuyGa0s&t=1s) |
+| Font: Roboto Slab | Christian Robertson [Google Fonts](https://fonts.google.com/specimen/Roboto+Slab#styles) |
+| Font: Montserrat | Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly [Google Fonts](https://fonts.google.com/specimen/Montserrat?query=Mont) |
+| Font: Klee One | Fontworks Inc. [Google Fonts](https://fonts.google.com/specimen/Klee+One?query=Klee+One) |
 
 [Return to contents list](#contents)
 
@@ -471,6 +485,10 @@ My fellow Code Institute peers - I have picked up numerous tips from other stude
 <details>
 <summary>Acknowledgements for all the articles, tutorials etc. that contributed to the skill and knowledge demonstarted in this project.</summary>
 
+[W3 Schools](https://www.w3schools.com/) - I used this site throughout the creation of this project to check my understanding of html elements and css properties and learn about their associated values.
+
+[mdn web docs](https://developer.mozilla.org/) - I used this site throughout the creation of this project to check my understanding of html elements and css properties and learn about their associated values.
+
 [Markdown Guide](https://www.markdownguide.org) - The majority of Markdown syntax used in this README was picked up from this site.
 
 [GitHub Docs: Basic writing and formatting syntax document](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - How to use the Markdown language was also picked up from this document.
@@ -482,6 +500,9 @@ My fellow Code Institute peers - I have picked up numerous tips from other stude
 [W3C Tables tutorial](https://www.w3.org/WAI/tutorials/tables/) - I found this useful in learning further about creating an accessible website.
 
 Youtube - Wed dev tutorials [HTML & CSS - How to Embed a YouTube Video in Your Website](https://www.youtube.com/watch?v=ly36kn0ug4k) - I followed this tutorial when looking to include youtube videos on the website.
+
+[Typo-io](https://typ.io/fonts/roboto_slab) - I used this website in order to find a font for the main body of my text that would work alongside Roboto Slab.
+
 </details>
 
 [Return to contents list](#contents)
