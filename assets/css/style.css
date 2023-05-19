@@ -80,20 +80,25 @@ header {
 }
 
 header > a {
-    width: 33%;
+    width: 24%;
     float: left;
+    margin-left: 1rem;
 }
 
 .logo {
     display: block;
-    margin: 0 auto;
-    width: 70%;
     padding: 2rem;
+}
+
+.logo-text {
+    display: inline-block;
+    text-align: center;
+    font-size: 1.5rem;
 }
 
 nav {
     float: right;
-    width: 66%;
+    width: 74%;
     text-align: right;
 }
 
@@ -426,6 +431,16 @@ Institutes 'Love Running' walkthrough */
 /* Responsive design */
 
 @media screen and (min-width:1280px)  {
+    header > a {
+        width: 40%;
+    }
+    nav {
+        width: 55%;
+    }
+    .logo-text {
+        line-height: 4rem;
+        font-size: 2rem;
+    }
     #container-wainwright {
         font-size: 1.1rem;
     }
@@ -443,12 +458,13 @@ Institutes 'Love Running' walkthrough */
 @media screen and (max-width:800px){
     /* Responsive header */
     header {
-        height: 8rem;
+        height: 5rem;
     }
     header > a {
         width: 100%;
         clear: left;
         text-align: center;
+        margin: 0 auto;
     }
     nav {
         width: 100%;
@@ -460,7 +476,7 @@ Institutes 'Love Running' walkthrough */
     }
     /* Responsive page layout */
     .page-content-container {
-        margin-top: 8rem;
+        margin-top: 5rem;
     }
     .main-container {
         clear: left;
@@ -492,7 +508,32 @@ Institutes 'Love Running' walkthrough */
     }
 }
 
-@media screen and (max-width:550px){
+@media screen and (max-width:585px){
+    .page-content-container {
+        margin-top: 4rem;
+    }
+    /* Responsive header */
+    header {
+        height: 4rem;
+    }
+    header > a {
+        width: 100%;
+        clear: left;
+        text-align: center;
+    }
+    .logo-text {
+        font-size: 1rem;
+    }
+    nav ul {
+        margin: 0.7rem 0;
+        padding: 0 0 0 1rem;
+
+    }
+    nav li {
+        line-height: 0.8rem;
+        font-size: 0.8rem;
+        padding-right: 1rem;
+    }
     /* Responsive footer */
     footer > p {
         margin: 1rem 1rem;
