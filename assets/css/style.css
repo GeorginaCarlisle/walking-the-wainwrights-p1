@@ -472,7 +472,7 @@ Institutes 'Love Running' walkthrough */
     }
     #container-wainwright {
         font-size: 1.1rem;
-        height: 60rem;
+        height: 65rem;
     }
     #image-wainwright {
         height: 30rem;
@@ -650,6 +650,7 @@ Institutes 'Love Running' walkthrough */
     #about-wainwright {
         width: 100%;
         margin-top: 2rem;
+        text-align: center;
     }
     #image-wainwright {
         width: 80%;
@@ -693,6 +694,20 @@ Institutes 'Love Running' walkthrough */
         margin-right: 0rem;
     }
 }
+
+@media screen and (max-width:320px) {
+    #container-wainwright {
+        height: 145rem;
+    }
+    #container-wainwright-video {
+        width: 14rem;
+        height: 8rem;
+    }
+    footer {
+        height: 8rem;
+    }
+}
+
 @media screen and (max-height:750px) {
     .background-container {
         height: 550px;
