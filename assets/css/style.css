@@ -133,6 +133,10 @@ footer > p {
     line-height: 2rem;
 }
 
+footer > ul {
+    margin: 0;
+}
+
 footer li {
     display: inline-block;
     padding-left: 1rem;
@@ -534,9 +538,9 @@ Institutes 'Love Running' walkthrough */
     }
     footer > p {
         float: none;
-        margin: 1rem 0 0 0 ;
         width: 100%;
         text-align: center;
+        margin: 0;
     }
     footer > ul {   
         display: flex;
