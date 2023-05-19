@@ -278,8 +278,63 @@ h1 {
 
 .fell-list li {
     margin: 1rem 0;
+    list-style-type: none;
 }
 
+.number {
+    color: #fff;
+    padding: 0.1rem 0.3rem;
+    border-radius: 2px;
+}
+
+#northern-fells > h3 {
+    color: #6c2e21;
+}
+.northern-number {
+    background: #6c2e21;
+}
+
+#central-fells > h3 {
+    color: #328dd3;
+}
+.central-number {
+    background: #328dd3;
+}
+
+#southern-fells > h3 {
+    color: #eb5933;
+}
+.southern-number {
+    background: #eb5933;
+}
+
+#north-western-fells > h3 {
+    color: #f6b733;
+}
+.north-western-number {
+    background: #f6b733;
+}
+
+#western-fells > h3 {
+    color: #418344;
+}
+.western-number {
+    background: #418344;
+}
+
+#eastern-fells > h3 {
+    color: #6f9935;
+}
+.eastern-number {
+    background: #6f9935;
+}
+
+#far-eastern-fells > h3 {
+    color: #e73f3e;
+}
+.far-eastern-number {
+    background: #e73f3e;
+}
 /* Styling specific to aside section 'looking after the fells' */
 
 .table-advice {
