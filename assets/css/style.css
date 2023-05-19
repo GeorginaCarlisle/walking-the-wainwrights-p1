@@ -30,7 +30,7 @@ aside {
 
 .background-container {
     width: 100%;
-    height: 720px;
+    height: 650px;
     background-repeat: no-repeat;
     background-size: auto;
 }
@@ -144,6 +144,10 @@ footer li {
 /* Index.html specific styling */
 
 /* Styling specific to main section of index.html */
+#home-main {
+    margin: 0;
+}
+
 #background-container-introduction {
     /* credit for the background-image goes to KeswickLimey Photography & Framing https://www.keswicklimey.co.uk/ */
     background-image: url("../images/photo-tarn-at-leaves.jpg");
@@ -153,13 +157,26 @@ footer li {
 }
 
 #container-behind-introduction {
-    height: 720px;
+    height: 650px;
 }
-/* Acknowledgement */
+
+h1 {
+    text-align: center;
+}
+
 #container-main-introduction {
-    width: 50%;
-    float: left;
+    width: 25rem;
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 0.75rem;
+    border-radius: 5px;
+    text-align: center;
+    position: relative;
+    left: 1rem;
 }
+#container-main-introduction > p {
+    margin: 0;
+}
+
 
 .quote {
 
@@ -168,20 +185,19 @@ footer li {
 .quote-from {
     display: inline-block;
 }
-#walker-quotes {
-    width: 35%;
-    float: right;
-    background-color: rgba(60, 60, 60, 0.6);
-    color: white;
-    text-align: center;
-    border-radius: 5px;
-    margin-top: 11rem;
-}
 
 #wainwright-quote {
+    width: 100%;
     clear: both;
     color: #fff;
     font-family: 'Klee One', cursive;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+    background-color: rgba(60, 60, 60, 0.6);
+}
+#wainwright-quote > p {
+    margin: 1rem;
 }
 
 /* Styling specific to aside section of index.html */
@@ -431,6 +447,7 @@ Institutes 'Love Running' walkthrough */
 /* Responsive design */
 
 @media screen and (min-width:1280px)  {
+    /* Responsive header */
     header > a {
         width: 40%;
     }
@@ -441,6 +458,18 @@ Institutes 'Love Running' walkthrough */
         line-height: 4rem;
         font-size: 2rem;
     }
+    /* Responsive index.html */
+    #container-main-introduction {
+        width: 40rem;
+        font-size: 1.2rem;
+    }
+    #wainwright-quote {
+        font-size: 1.2rem;
+    }
+
+
+
+
     #container-wainwright {
         font-size: 1.1rem;
     }
@@ -568,6 +597,20 @@ Institutes 'Love Running' walkthrough */
     .aside-container {
         width: 100%;
     } 
+
+    /* Responsivity specific to index.html */
+    h1 {
+        font-size: 1.5rem;
+    }
+    #container-main-introduction {
+        width: 80%;
+        position: static;
+        margin: 0 auto;
+        font-size: 0.8rem;
+    }
+    #wainwright-quote {
+        font-size: 0.8rem;
+    }
 
     /* Responsivity specific to Wainwright section index.html */
     #container-wainwright {
