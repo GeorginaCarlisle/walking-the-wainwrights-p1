@@ -412,25 +412,21 @@ aside > ul > li {
 /* Walking-routes.html specific styling */
 
 /* Styling specific to main section of walking-routes.html */
+article {
+    padding: 1rem 0;
+}
 hgroup {
     text-align: center;
 }
-
 article > h3 {
     text-align: center;
     font-size: 1.25rem;
 }
-
 hgroup > h3 {
     margin-bottom: 0;
 }
-
 hgroup > p {
     margin-top: 0;
-}
-
-article {
-    padding: 1rem 0;
 }
 
 hr {
@@ -452,7 +448,6 @@ hr {
 .outside-figure-gowbarrow {
     width: 35.5%;
 }
-
 .inside-figure-gowbarrow {
     width: 26.5%;
 }
@@ -460,7 +455,6 @@ hr {
 .outside-figure-ashness {
     width: 34%;
 }
-
 .inside-figure-ashness {
     width: 30.6%;
 }
@@ -468,25 +462,12 @@ hr {
 .outside-figure-coledale {
     width: 34%;
 }
-
 .inside-figure-coledale {
     width: 30.2%;
 }
 
 /* Styling specific to anchor link points */
-#aira-walk {
-    position: relative;
-    top: -4rem;
-    opacity: 0;
-}
-
-#castlerigg-walk {
-    position: relative;
-    top: -4rem;
-    opacity: 0;
-}
-
-#coledale-walk {
+.anchor-point {
     position: relative;
     top: -4rem;
     opacity: 0;
@@ -633,6 +614,9 @@ Institutes 'Love Running' walkthrough */
     header {
         height: 5rem;
     }
+    .anchor-point {
+    top: -5rem;
+    }
     header > a {
         width: 100%;
         clear: left;
@@ -738,6 +722,9 @@ Institutes 'Love Running' walkthrough */
     header {
         height: 4rem;
     }
+    .anchor-point {
+        top: -4rem;
+    }
     header > a {
         width: 100%;
         clear: left;
@@ -824,10 +811,6 @@ Institutes 'Love Running' walkthrough */
     padding: 1rem;
     }
 
-
-    
-   
-
     /* Responsivity specific to walking-routes */
     .route-table {
         width: 100%;
@@ -839,6 +822,14 @@ Institutes 'Love Running' walkthrough */
         float: none;
         width: 100%;
         margin-top: 2rem;
+    }
+
+    .container-route-images {
+        display: block;
+    }
+    .route-image {
+        width: 100%;
+        box-sizing: border-box;
     }
 
      /* Responsivity specific to walking tips */
