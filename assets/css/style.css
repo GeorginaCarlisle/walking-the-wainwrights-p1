@@ -442,9 +442,8 @@ hr {
 .anchor-heading-extra {
     color: rgba(71, 44, 122, 0);
     position: absolute;
-    left: 4rem;
     font-size: 1.2rem;
-    font-family: font-family: 'Roboto Slab', serif;
+    font-family: 'Roboto Slab', serif;
     margin-top: 0;
     margin-bottom: 1rem;
 }
@@ -750,12 +749,12 @@ Institutes 'Love Running' walkthrough */
 
     .anchor-heading-extra {
         color: rgba(71, 44, 122, 1);
-        position: relative;
-        left: 4rem;
+        position: static;
         font-size: 1.2rem;
-        font-family: ;
-        margin-top: 0;
         }
+    main > figure {
+        margin-top: 2rem;
+    }
     main > h2 {
         margin-bottom: 0;
     }
