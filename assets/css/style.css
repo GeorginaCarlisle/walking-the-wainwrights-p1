@@ -600,6 +600,23 @@ Institutes 'Love Running' walkthrough */
     margin: 0.5rem 0;
 }
 
+/* 404 page specific styling */
+#page-container-404 {
+    height: 90vh;
+    background-color: #D4E3FA;
+    position: relative;
+}
+#container-404-message {
+    position: absolute;
+    top: 30%;
+    left: 35%;
+    text-align: center;
+    color: #216614;
+}
+#container-404-message > i {
+    font-size: 8rem;
+}
+
 /* Responsive design */
 
 @media screen and (min-width:1280px)  {
@@ -932,7 +949,10 @@ Institutes 'Love Running' walkthrough */
         font-size: 0.8rem;
         left: 2%;
     }
-
+    /* Responsivity specific to 404.html */
+    #container-404-message {
+        left: 20%;
+    }
 }
 
 @media screen and (max-width:470px) {
@@ -941,7 +961,6 @@ Institutes 'Love Running' walkthrough */
         height: 9rem;
     }
 }
-
 
 @media screen and (max-width:320px) {
     #container-wainwright {
@@ -953,6 +972,9 @@ Institutes 'Love Running' walkthrough */
     }
     footer {
         height: 8rem;
+    }
+    #container-404-message {
+        left: 10%;
     }
 }
 
