@@ -574,8 +574,7 @@ Institutes 'Love Running' walkthrough */
     padding: 0.5rem 2rem;
     position: relative;
     left: 5%;
-    top: 15rem;
-    margin-bottom: 13rem;
+    bottom: -25rem;
     text-align: center;
 }
 #container-thankyou > h2 {
@@ -893,9 +892,8 @@ Institutes 'Love Running' walkthrough */
     #container-thankyou {
         width: 16rem;
         padding: 0.2rem 0.4rem;
-        left: 4%;
-        top: 14rem;
         font-size: 0.8rem;
+        left: 2%;
     }
 
 }
@@ -918,5 +916,20 @@ Institutes 'Love Running' walkthrough */
     }
     footer {
         height: 8rem;
+    }
+}
+
+@media screen and (min-height:750px) {
+    .getintouch-background-container {
+        background-image: url("../images/photo-loweswater-big.jpg");
+    }
+}
+
+@media screen and (max-height:730px) {
+    #background-container-introduction {
+        height: 550px;
+    }
+    #container-behind-introduction {
+    height: 550px;
     }
 }
