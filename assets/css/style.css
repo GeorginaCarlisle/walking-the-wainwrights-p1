@@ -9,10 +9,15 @@ body {
     margin-top: 4rem;
 }
 
+.page-flex-container {
+    display: flex;
+    align-items: stretch;
+}
+
 .main-container {
-    float: left;
-    width: 64%;
+    width: 65%;
     border-right: 1px solid black;
+    box-sizing: border-box;
     background-color: #D4E3FA;
 }
 
@@ -21,7 +26,6 @@ main {
 }
 
 .aside-container {
-    float: right;
     width: 35%;
     background-color: #A0BFDB;
 
@@ -29,6 +33,7 @@ main {
 
 aside {
     margin: 0 2rem;
+    padding-top: 1rem;
 }
 
 .background-container {
@@ -78,6 +83,10 @@ a:hover {
 
 h2 {
     text-align: center;
+}
+
+main > h2 {
+    padding-top: 1rem;
 }
 
 /* Header specific styling */
@@ -221,6 +230,7 @@ h1 {
 }
 #container-wainwright h2 {
     padding-top: 2rem;
+    margin-top: 0;
 }
 
 #top-container-wainwright-info {
@@ -361,6 +371,9 @@ h1 {
     height: 9rem;
     margin: 0 auto;
 }
+.logo-links {
+    width: 80%;
+}
 
 /* Walking-routes.html specific styling */
 
@@ -383,7 +396,7 @@ hgroup > p {
 }
 
 article {
-    margin: 1rem 0;
+    padding: 1rem 0;
 }
 
 hr {
@@ -600,17 +613,20 @@ Institutes 'Love Running' walkthrough */
     .page-content-container {
         margin-top: 5rem;
     }
+
+    .page-flex-container {
+    display: block;
+    }
+
     .main-container {
-        clear: left;
         width: 100%;
         border-right: none;
         text-align: center;
+        padding-bottom: 1rem;
     }
+
     .aside-container {
-        clear: right;
-        width: 80%;
-        margin: 0 auto;
-        float: none;
+        width: 100%;
     } 
 
     /* Responsive Footer */
@@ -719,7 +735,7 @@ Institutes 'Love Running' walkthrough */
 
     /* Responsivity specific to Wainwright section index.html */
     #container-wainwright {
-        height: 115rem;
+        height: 120rem;
     }
     #container-wainwright-video {
         width: 16rem;
@@ -778,7 +794,7 @@ Institutes 'Love Running' walkthrough */
 
 @media screen and (max-width:320px) {
     #container-wainwright {
-        height: 145rem;
+        height: 150rem;
     }
     #container-wainwright-video {
         width: 14rem;
@@ -786,14 +802,5 @@ Institutes 'Love Running' walkthrough */
     }
     footer {
         height: 8rem;
-    }
-}
-
-@media screen and (max-height:750px) {
-    .background-container {
-        height: 550px;
-    }
-    #container-behind-introduction {
-    height: 550px;
     }
 }
