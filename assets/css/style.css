@@ -519,17 +519,39 @@ hr {
 Institutes 'Love Running' walkthrough */
 #container-form {
     color: #F0F2FF;
-    background-color: rgba(60, 60, 60, 0.6);
-    width: 38rem;
-    padding: 0.5rem 2rem;
+    background-color: rgba(60, 60, 60, 0.7);
+    width: 32rem;
+    padding: 0.5rem 1rem;
     position: relative;
     left: 5%;
-    top: 12rem;
-    margin-bottom: 13rem;
+    top: 14rem;
+    border-radius: 5px;
 }
 
 #container-form > h2 {
     color: #F0F2FF;
+    margin: 0.5rem 0;
+}
+
+.get-in-touch-form > p {
+    margin-bottom: 1.5rem;
+}
+
+.label-and-input {
+    margin-bottom: 1rem;
+}
+#name-box {
+    margin-right: 2rem;
+}
+#submit-button {
+    float: right;
+    font-size: 1.2rem;
+    color: #F0F2FF;
+    background-color: #472C7A;
+    border-radius: 5px;
+}
+#submit-button:hover {
+    background-color: #761E5F;
 }
 
 /* form-thankyou.html specific styling */
@@ -547,7 +569,7 @@ Institutes 'Love Running' walkthrough */
 }
 #container-thankyou {
     color: #F0F2FF;
-    background-color: rgba(60, 60, 60, 0.6);
+    background-color: rgba(60, 60, 60, 0.7);
     width: 25rem;
     padding: 0.5rem 2rem;
     position: relative;
@@ -555,6 +577,10 @@ Institutes 'Love Running' walkthrough */
     top: 15rem;
     margin-bottom: 13rem;
     text-align: center;
+}
+#container-thankyou > h2 {
+    color: #F0F2FF;
+    margin: 0.5rem 0;
 }
 
 /* Responsive design */
@@ -837,6 +863,41 @@ Institutes 'Love Running' walkthrough */
         font-size: 1rem;
         margin-right: 0rem;
     }
+
+    /* Responsivity specific to get-in-touch*/
+    #container-form {
+        width: 16rem;
+        padding: 0.2rem 0.4rem;
+        left: 4%;
+        top: 14rem;
+        font-size: 0.8rem;
+    }
+    #container-form > h2 {
+        margin: 0.2rem 0;
+    }
+    .get-in-touch-form > p {    
+        margin-bottom: 0.5rem;
+    }
+    .label-and-input {
+        margin-bottom: 0.5rem;
+    }
+    #name-box {
+        display: block;
+        margin-bottom: 0.5rem;
+    }
+    #submit-button {
+        float: none;
+        font-size: 1rem;
+    }
+    /* Responsivity specific to form-thankyou */
+    #container-thankyou {
+        width: 16rem;
+        padding: 0.2rem 0.4rem;
+        left: 4%;
+        top: 14rem;
+        font-size: 0.8rem;
+    }
+
 }
 
 @media screen and (max-width:470px) {
