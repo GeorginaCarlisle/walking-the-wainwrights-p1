@@ -459,39 +459,45 @@ Specific credit for images, content and code not taken/written by myself is now 
 
 | Item | Credit to |
 | --- | --- |
-| Template used to create this repository. | Code Institute ([ci-full-template](https://github.com/Code-Institute-Org/ci-full-template)) |
-| map-wainwright-fells.jpg | [Guide Us](https://guideus.co.uk/map-shop/wainwright-fells-map) |
-| route-map-gowbarrow, route-map-castlerigg and route-map-coledale-horseshoe along with length, ascent and average time | [Ordnance Survey](https://www.ordnancesurvey.co.uk/) for the map and the software used to create the route |
-| Names and heights of the Wainwright fells | [GuideUs](https://guideus.co.uk/list-of-wainwright-fells) |
-| book images | [Waterstones](https://www.waterstones.com/) a link to Waterstones has aslo been set up for each book image |
-| photo-aira-beck.jpg, photo-aira-force.jpg, photo-bleaberryfell.jpg, photo-castlerigg-stone-circle.jpg, photo-path-through-heather.jpg, photo-loweswater.jpg, photo-tarn-at-leaves.jpg + photo-view-from-greatgable-DWL.jpg | Used with the permission of [KeswickLimey Photography & Framing](https://www.keswicklimey.co.uk/) all photos also credited with a link to website within the caption for each photo |
-| Wording for the introduction text in the 'Looking after the fells' aside | [LakeDistrict.gov](https://www.lakedistrict.gov.uk/) |
-| Complete text under the id="credit-text-respect" within the 'Looking after the fells' aside | [LakeDistrict.gov](https://www.lakedistrict.gov.uk/visiting/countryside-code) |
-| Icons within the 'Looking after the fells' and ' Walking tips' asides | [Font Awesome](https://fontawesome.com/) |
-| The idea for the styling of container-form and some of the code | [Code Institute's](https://codeinstitute.net) 'Love Running' walkthrough |
-| photo-prepared-walkers | Free download from [Guduru Ajay bhargav] (https://www.pexels.com/@ajaybhargavguduru/) this photo is also credited, within the caption, with a link to the author's pexel page |
-| Introduction paragraph to the walking tips | [lakedistrict.gov.uk](https://www.lakedistrict.gov.uk/visiting/things-to-do/walking/walking-safety-tips) |
-| Sections of the content within the table of walking tips (all clearly marked within the code) | [lakedistrict.gov.uk](https://www.lakedistrict.gov.uk/visiting/things-to-do/walking/walking-safety-tips) |
-| Sections of the content within the table of walking tips (all clearly marked within the code) | [The Lake District Search & Mountain Rescue Association](https://ldsamra.org.uk/advice.php) |
-| logo-countrysidecode | [gov.uk/countryside-code](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1052574/Countryside_Code_A5.pdf) the logo is used as a link to a pdf of 'The Countryside Code A5 Leaflet'|
-| logo-fixthefells | [Fix the fells](https://www.fixthefells.co.uk/) the logo is used as a link to the fix the fells website |
-| tips-video | Lake District National Park - [Youtube](https://www.youtube.com/watch?v=NlfuNgqzz3M) |
-| wainwright-video | BBC4 - Garry Pickles - [Youtube](https://www.youtube.com/watch?v=QbzIZuyGa0s&t=1s) |
-| Font: Roboto Slab | Christian Robertson [Google Fonts](https://fonts.google.com/specimen/Roboto+Slab#styles) |
-| Font: Montserrat | Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly [Google Fonts](https://fonts.google.com/specimen/Montserrat?query=Mont) |
-| Font: Klee One | Fontworks Inc. [Google Fonts](https://fonts.google.com/specimen/Klee+One?query=Klee+One) |
-| colour-scheme.png colour-scheme-hover.png | Created using [Adobe Color](https://color.adobe.com/create/color-wheel)|
+| **Template** used to create this repository. | Code Institute ([ci-full-template](https://github.com/Code-Institute-Org/ci-full-template)) |
+| **Image**: map-wainwright-fells.jpg | [Guide Us](https://guideus.co.uk/map-shop/wainwright-fells-map) |
+| **Images**: route-map-gowbarrow, route-map-castlerigg and route-map-coledale-horseshoe along with length, ascent and average time | [Ordnance Survey](https://www.ordnancesurvey.co.uk/) for the map and the software used to create the route |
+| **Names and heights** of the Wainwright fells | [GuideUs](https://guideus.co.uk/list-of-wainwright-fells) |
+| **Images**: book covers | [Waterstones](https://www.waterstones.com/) a link to Waterstones has aslo been set up for each book image |
+| **Images**: photo-aira-beck.jpg, photo-aira-force.jpg, photo-bleaberryfell.jpg, photo-castlerigg-stone-circle.jpg, photo-path-through-heather.jpg, photo-loweswater.jpg, photo-tarn-at-leaves.jpg + photo-view-from-greatgable-DWL.jpg | Used with the permission of [KeswickLimey Photography & Framing](https://www.keswicklimey.co.uk/) all photos also credited with a link to website within the caption for each photo |
+| **Text**: Wording for the introduction text in the 'Looking after the fells' aside | [LakeDistrict.gov](https://www.lakedistrict.gov.uk/) |
+| **Text** under the id="credit-text-respect" within the 'Looking after the fells' aside | [LakeDistrict.gov](https://www.lakedistrict.gov.uk/visiting/countryside-code) |
+| **Icons** throughout the site | [Font Awesome](https://fontawesome.com/) |
+| **Coding idea** for the styling of container-form and some of the code | [Code Institute's](https://codeinstitute.net) 'Love Running' walkthrough |
+| **Image** photo-prepared-walkers | Free download from [Guduru Ajay bhargav] (https://www.pexels.com/@ajaybhargavguduru/) this photo is also credited, within the caption, with a link to the author's pexel page |
+| **Text**: Introduction paragraph to the walking tips | [lakedistrict.gov.uk](https://www.lakedistrict.gov.uk/visiting/things-to-do/walking/walking-safety-tips) |
+| **Text**: Sections of the content within the list of walking tips (all clearly marked within the code) | [lakedistrict.gov.uk](https://www.lakedistrict.gov.uk/visiting/things-to-do/walking/walking-safety-tips) |
+| **Text**: Sections of the content within the list of walking tips (all clearly marked within the code) | [The Lake District Search & Mountain Rescue Association](https://ldsamra.org.uk/advice.php) |
+| **Image**: logo-countrysidecode | [gov.uk/countryside-code](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1052574/Countryside_Code_A5.pdf) the logo is used as a link to a pdf of 'The Countryside Code A5 Leaflet'|
+| **Image**: logo-fixthefells | [Fix the fells](https://www.fixthefells.co.uk/) the logo is used as a link to the fix the fells website |
+| **You-tube video**: tips-video | Lake District National Park - [Youtube](https://www.youtube.com/watch?v=NlfuNgqzz3M) |
+| **You-tube video**:wainwright-video | BBC4 - Garry Pickles - [Youtube](https://www.youtube.com/watch?v=QbzIZuyGa0s&t=1s) |
+| **Font**: Roboto Slab | Christian Robertson [Google Fonts](https://fonts.google.com/specimen/Roboto+Slab#styles) |
+| **Font**: Montserrat | Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly [Google Fonts](https://fonts.google.com/specimen/Montserrat?query=Mont) |
+| **Font**: Klee One | Fontworks Inc. [Google Fonts](https://fonts.google.com/specimen/Klee+One?query=Klee+One) |
+| **Images** colour-scheme.png colour-scheme-hover.png | Created using [Adobe Color](https://color.adobe.com/create/color-wheel)|
+| **Coding idea**: map-container:hover styling | I referred to the following article when creating this styling: How to zoom an image on mouse hover using CSS by [Geeks for Geeks](https://www.geeksforgeeks.org/how-to-zoom-an-image-on-mouse-hover-using-css/amp/) |
+
 [Return to contents list](#contents)
 
 ## Acknowledgements
 
-My husband and two young boys
+My husband - There throughout the building of this project and always able to spare a few minutes to look at every new section of the site as it came into being.
+
+My two young boys - For their support throughout and complimentary words.
 
 My Dad (KeswickLimey Photograpy & Framing) - The inspiration for my love of fell walking in the Lake District. You have joined me on many a walk and your spectacular photographs are a window for all to experience the beauty of the Lake District.
 
-Friends and family - Who filled in my target user survey.
+Friends and family - Who filled in my target user survey and checked out my site giving me valuable feedback.
 
 [Code Institute](https://codeinstitute.net) - The majority of the coding skills, knowledge and understanding showcased in this project have been learnt through the 'Diploma of Full stack software development' that I am completing with Code Institute.
+
+My Mentor Gurjot - For patiently listening to all my questions and giving me some much appreciated pointers in the right direction.
 
 My fellow Code Institute peers - I have picked up numerous tips from other students within the course slack channel.
 
@@ -510,7 +516,7 @@ My fellow Code Institute peers - I have picked up numerous tips from other stude
 
 [HTML living standard - 28 April 2023](https://html.spec.whatwg.org) - I found this document useful in further learning about semantic html.
 
-[W3C Tables tutorial](https://www.w3.org/WAI/tutorials/tables/) - I found this useful in learning further about creating an accessible website.
+[W3C tutorials](https://www.w3.org/WAI/tutorials/) - I found this useful in learning further about creating an accessible website.
 
 Youtube - Wed dev tutorials [HTML & CSS - How to Embed a YouTube Video in Your Website](https://www.youtube.com/watch?v=ly36kn0ug4k) - I followed this tutorial when looking to include youtube videos on the website.
 
