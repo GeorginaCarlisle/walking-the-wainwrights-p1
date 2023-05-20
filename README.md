@@ -397,6 +397,18 @@ For the Wainwright quotes I have included, I again wanted to draw parallels with
 
 ![Picture showing the handwritten text on the front of Wainwright's guide books](documentation/typography-wainwrights-guidebooks.jpg)
 
+#### Colour Scheme
+
+![Image showing the colour scheme](documentation/colour-scheme.png)
+
+Inspiration for the background colours (C-Header, D-Aside, E-Main) came from the lakes, tarns, rivers and streams of The Lake District.
+
+The colour (B) for all headings across the site links to the forests, woods, ferns and bracken of The Lake District.
+
+Finally, all anchor links across the site take on the colour (A) of heather in flower. In the image below you can see how anchor links will change colour when active or on hover.
+
+![Image showing the colour scheme with the colour change for hover](documentation/colour-scheme-hover.png)
+
 [Return to contents list](#contents)
 
 ## Languages
@@ -414,6 +426,7 @@ For the Wainwright quotes I have included, I again wanted to draw parallels with
 - VScode with extensions: Markdown Preview GitHub Styling, Live Server, Dev Containers, GitHub Pull Requests and Issues
 - Google forms
 - [Balsamiq wireframes](https://balsamiq.com/)
+- [Adobe Color](https://color.adobe.com/create/color-wheel)
 
 [Return to contents list](#contents)
 
@@ -467,7 +480,7 @@ Specific credit for images, content and code not taken/written by myself is now 
 | Font: Roboto Slab | Christian Robertson [Google Fonts](https://fonts.google.com/specimen/Roboto+Slab#styles) |
 | Font: Montserrat | Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly [Google Fonts](https://fonts.google.com/specimen/Montserrat?query=Mont) |
 | Font: Klee One | Fontworks Inc. [Google Fonts](https://fonts.google.com/specimen/Klee+One?query=Klee+One) |
-
+| colour-scheme.png colour-scheme-hover.png | Created using [Adobe Color](https://color.adobe.com/create/color-wheel)|
 [Return to contents list](#contents)
 
 ## Acknowledgements
@@ -502,6 +515,8 @@ My fellow Code Institute peers - I have picked up numerous tips from other stude
 Youtube - Wed dev tutorials [HTML & CSS - How to Embed a YouTube Video in Your Website](https://www.youtube.com/watch?v=ly36kn0ug4k) - I followed this tutorial when looking to include youtube videos on the website.
 
 [Typo-io](https://typ.io/fonts/roboto_slab) - I used this website in order to find a font for the main body of my text that would work alongside Roboto Slab.
+
+[CSS-Tricks: A complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - I found this article useful in learning more about flexbox layout, which I have then used in the aside section about Wainwright in index.html.
 
 </details>
 
