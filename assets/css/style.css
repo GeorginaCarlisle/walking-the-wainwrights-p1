@@ -42,12 +42,21 @@ aside {
     background-repeat: no-repeat;
     background-size: auto;
 }
-
+/* I used the following article when adding a hover zoom function to the maps 
+https://www.geeksforgeeks.org/how-to-zoom-an-image-on-mouse-hover-using-css/amp/ */
 .map-container {
     border: 1px solid black;
     text-align: center;
     margin: 1rem 0;
     clear: both;
+}
+.map-container img {
+    transition: 0.2s all ease-in-out;
+}
+.map-container:hover img {
+    transform: scale(1.5);
+    position: relative;
+    left: 8rem;
 }
 
 figure {
@@ -684,6 +693,13 @@ Institutes 'Love Running' walkthrough */
     .aside-container {
         width: 100%;
     } 
+
+    .map-container {
+        overflow: hidden;
+    }
+    .map-container:hover img {
+        left: 0rem;
+    }
 
     /* Responsive Footer */
     footer {
