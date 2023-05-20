@@ -439,6 +439,16 @@ hr {
     margin: 0 auto;
 }
 
+.anchor-heading-extra {
+    color: rgba(71, 44, 122, 0);
+    position: absolute;
+    left: 4rem;
+    font-size: 1.2rem;
+    font-family: font-family: 'Roboto Slab', serif;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
+
 /* Styling specific to route images */
 .container-route-images {
     display: flex;
@@ -736,6 +746,18 @@ Institutes 'Love Running' walkthrough */
     }
     #rescue-logo {
         margin: 0 auto;
+    }
+
+    .anchor-heading-extra {
+        color: rgba(71, 44, 122, 1);
+        position: relative;
+        left: 4rem;
+        font-size: 1.2rem;
+        font-family: ;
+        margin-top: 0;
+        }
+    main > h2 {
+        margin-bottom: 0;
     }
 }
 
