@@ -278,7 +278,6 @@ h1 {
 .fell-list {
     font-size: 0.9rem;
     border: 1px solid black;
-    padding: 0.5rem;
     background-color: #F0F2FF;
 }
 
@@ -292,13 +291,12 @@ h1 {
 
 .fell-list > h3 {
     text-align: center;
-    margin: 0 0 2rem 0;
+    margin: 1rem 0 2rem 0;
     font-size: 1.2rem;
 }
 
 .fell-list > ol {
-    padding-left: 1.4rem;
-    
+    padding-left: 0.5rem;
 }
 
 .fell-list li {
@@ -307,9 +305,25 @@ h1 {
 }
 
 .number {
+    display: inline-block;
     color: #fff;
     padding: 0.1rem 0.3rem;
     border-radius: 2px;
+    width: 1.5rem;
+    text-align: center;
+}
+
+#top-book-container {
+    display: flex;
+    width: 100%;
+}
+#bottom-book-container {
+    display: flex;
+    width: 100%;
+}
+.book-image {
+    border: 1px solid black;
+    box-sizing: border-box;
 }
 
 #northern-fells > h3 {
@@ -757,20 +771,18 @@ Institutes 'Love Running' walkthrough */
     /* Responsivity specific to Wainwright fells */
     .container-fell-lists {
         display: block;
+        margin: 1rem 0;
+}
+    .fell-list {
         width: 100%;
-        margin: 0;
+    }
+    .fell-list > ol {
+    padding-left: 2rem;
     }
 
-    #northern-fells {
-        width: 100%;
-    }
+
+    
    
-    .fell-list {
-        display: inline-block;
-        width: 49%;
-        padding: 0;
-        margin-bottom: 2rem;
-    }
 
     /* Responsivity specific to walking-routes */
     .route-table {
