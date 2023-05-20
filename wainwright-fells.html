@@ -467,39 +467,54 @@
                     eroding the landscape, disturbing the flora and fauna and polluting the environment. But, with a few changes you 
                     can lessen your impact:     
                 </p>
-                
-                <table class="table-advice">
-                    <tr>
-                        <td><i class="fa-solid fa-dumpster"></i></td>
-                        <td>Leave nothing behind. Take <strong>All</strong> your litter home, even those biodegradable apples cores 
-                        (they are not natural to a high fells environment).</td>
-                    </tr>
-                    <tr>
-                        <td><i class="fa-solid fa-hand-point-right"></i></td>
-                        <td>Where there is a clear path, please stick to it. Your footfalls can erode the landscape and prevent/stunt
-                        the growth of plants.</td>
-                    </tr>
-                    <tr>
-                        <td><i class="fa-solid fa-seedling"></i></td>
-                        <td>Be respectful and considerate to any plant or animal life that you encounter. Quietly observe and enjoy, taking care 
-                        not to disturb or damage.</td>
-                    </tr>
-                    <tr>
-                        <td><i class="fa-regular fa-face-smile"></i>
-                            <i class="fa-solid fa-comments"></i></td>
-                        <!-- Credit for the content of the <td> below is given to https://www.lakedistrict.gov.uk/visiting/countryside-code -->
-                        <td id="credit-text-respect">Be respectful and considerate to those living in, working in and enjoying the countryside. 
-                        Be nice, say hello, share the space and leave gates and property as you find them.</td>
-                    </tr>
-                    <tr>
-                        <td><i class="fa-solid fa-dog"></i></td>
-                        <td>Please keep any dogs under close control. Sheep and other animals can be easily worried and disturbed.</td>
-                    </tr>
-                    <tr>
-                        <td><i class="fa-solid fa-fire"></i></td>
-                        <td>Don't light any fires or barbeques.</td>
-                    </tr>
-                </table>
+
+                <ul>
+                    <li>
+                        <div class="list-item">
+                            <i class="fa-solid fa-dumpster"></i>
+                            <span>Leave nothing behind. Take <strong>All</strong> your litter home, even those biodegradable apples cores 
+                        (they are not natural to a high fells environment).</span>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="list-item">
+                            <i class="fa-solid fa-hand-point-right"></i>
+                            <span>Where there is a clear path, please stick to it. Your footfalls can erode the landscape and prevent/stunt
+                        the growth of plants.</span>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="list-item">
+                            <i class="fa-solid fa-seedling"></i>
+                            <span>Be respectful and considerate to any plant or animal life that you encounter. Quietly observe and enjoy, taking care 
+                        not to disturb or damage.</span>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="list-item">
+                            <div id="double-icons">
+                                <i class="fa-regular fa-face-smile"></i>
+                                <i class="fa-solid fa-comments"></i>
+                            </div>
+                            <!-- Credit for the content of the <span> below is given to https://www.lakedistrict.gov.uk/visiting/countryside-code -->
+                            <span id="credit-text-respect">Be respectful and considerate to those living in, working in and enjoying the countryside. 
+                        Be nice, say hello, share the space and leave gates and property as you find them.</span>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="list-item">
+                            <i class="fa-solid fa-dog"></i>
+                            <span>Please keep any dogs under close control. Sheep and other animals can be easily worried and disturbed.</span>
+                        </div>
+                    </li>
+                    <li>
+                        <div class="list-item">
+                            <i class="fa-solid fa-fire"></i>
+                            <span>Don't light any fires or barbeques.</span>
+                        </div>
+                    </li>
+                </ul>
+    
                 <!-- Credit for tips-video to Lake District National Park -->
                 <!-- Acknowledgement to Wed dev tutorials for their youtube video - HTML & CSS - How to Embed a YouTube Video in Your Website
                     which I used to learn how to embed a youtube video https://www.youtube.com/watch?v=ly36kn0ug4k -->
@@ -513,30 +528,33 @@
                         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
                 </iframe>
                 </div>
-                
-                <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1052574/Countryside_Code_A5.pdf" 
-                    target="_blank" 
-                    rel="noopener" 
-                    aria-label="Link to 'The Countryside Code A5 Leaflet' (opens in a new tab)">
-                    <!-- Credit for logo to gov.uk/countryside-code. Image used for educational purposes only -->
-                    <img
-                        src="assets/images/logo-countrysidecode.jpeg"
-                        alt="Logo image. Circular design with the words 'The Countryside Code - Respect - Protect - Enjoy'
-                        around the outside and coloured shapes depicting the sky, two crossing fells and a field with a path 
-                        winding through"
-                        class="logo-links">
-                </a> 
-                <a href="https://www.fixthefells.co.uk/" 
-                    target="_blank" 
-                    rel="noopener" 
-                    aria-label="Find out more about the charity 'Fix the fells' (opens in a new tab)">
-                    <!-- Credit for logo to fix the fells. Image used for educational purposes only -->
-                    <img
-                        src="assets/images/logo-fixthefells.jpeg"
-                        alt="Logo image. Two green boot soles crossing to form the shape of the fells with the text 
-                        'Fix the Fells' running over the top"
-                        class="logo-links">
-                </a> 
+                <div id="logo-pair">
+                    <a href="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1052574/Countryside_Code_A5.pdf" 
+                        target="_blank" 
+                        rel="noopener" 
+                        aria-label="Link to 'The Countryside Code A5 Leaflet' (opens in a new tab)">
+                        <!-- Credit for logo to gov.uk/countryside-code. Image used for educational purposes only -->
+                        <img
+                            src="assets/images/logo-countrysidecode.jpeg"
+                            alt="Logo image. Circular design with the words 'The Countryside Code - Respect - Protect - Enjoy'
+                            around the outside and coloured shapes depicting the sky, two crossing fells and a field with a path 
+                            winding through"
+                            id="countryside-logo"
+                            class="logo-links">
+                    </a> 
+                    <a href="https://www.fixthefells.co.uk/" 
+                        target="_blank" 
+                        rel="noopener" 
+                        aria-label="Find out more about the charity 'Fix the fells' (opens in a new tab)">
+                        <!-- Credit for logo to fix the fells. Image used for educational purposes only -->
+                        <img
+                            src="assets/images/logo-fixthefells.jpeg"
+                            alt="Logo image. Two green boot soles crossing to form the shape of the fells with the text 
+                            'Fix the Fells' running over the top"
+                            id="fixfells-logo"
+                            class="logo-links">
+                    </a> 
+                </div>
             </aside>
         </div>
     </div>

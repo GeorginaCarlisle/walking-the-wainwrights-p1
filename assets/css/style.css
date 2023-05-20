@@ -374,19 +374,39 @@ h1 {
 .far-eastern-number {
     background: #e73f3e;
 }
-/* Styling specific to aside section 'looking after the fells' */
+/* Styling specific to aside sections 'looking after the fells' and 'walking tips' */
 
-.table-advice {
-    border-spacing: 0.5rem 2rem;
+aside > ul {
+    list-style-type: none;
+    padding: 0;
 }
 
+aside > ul > li {
+     margin: 1rem 0;
+}
+
+.list-item {
+    display: flex;
+    align-items: center;
+}
+
+.list-item > i {
+    padding: 1rem;
+}
+
+#double-icons > i {
+    display: block;
+    padding: 1rem;
+}
 #tips-video {
     width: 16rem;
     height: 9rem;
     margin: 0 auto;
 }
 .logo-links {
-    width: 80%;
+    width: 100%;
+    padding: 3rem;
+    box-sizing: border-box;
 }
 
 /* Walking-routes.html specific styling */
@@ -590,8 +610,6 @@ Institutes 'Love Running' walkthrough */
         width: 40rem;
         height: 22.5rem;
     }
-
-
     .fell-list {
         padding: 1rem;
     }
@@ -603,6 +621,12 @@ Institutes 'Love Running' walkthrough */
     }
 }
 
+@media screen and (max-width:925px){
+    #tips-video {
+        width: 14.2rem;
+        height: 8rem;
+    }
+}
 
 @media screen and (max-width:800px){
     /* Responsive header */
@@ -686,10 +710,23 @@ Institutes 'Love Running' walkthrough */
         text-align: left;
     }
 
-    /* Responsivity specific to walking tips */
+    /* Responsivity specific to walking tips and look after the fells */
     .icon {
         font-size: 2.5rem;
         margin-right: 2rem;
+    }
+    #tips-video {
+        width: 32rem;
+        height: 18rem;
+    }
+    .logo-links {
+        width: 50%;
+    }
+    #countryside-logo {
+        float: left;
+    }
+    #rescue-logo {
+        margin: 0 auto;
     }
 }
 
@@ -779,6 +816,13 @@ Institutes 'Love Running' walkthrough */
     .fell-list > ol {
     padding-left: 2rem;
     }
+    #tips-video {
+        width: 24rem;
+        height: 13.5rem;
+    }
+    .logo-links {
+    padding: 1rem;
+    }
 
 
     
@@ -803,6 +847,14 @@ Institutes 'Love Running' walkthrough */
         margin-right: 0rem;
     }
 }
+
+@media screen and (max-width:470px) {
+    #tips-video {
+        width: 16rem;
+        height: 9rem;
+    }
+}
+
 
 @media screen and (max-width:320px) {
     #container-wainwright {
