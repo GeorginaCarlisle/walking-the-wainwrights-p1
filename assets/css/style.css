@@ -42,6 +42,7 @@ aside {
     background-repeat: no-repeat;
     background-size: auto;
 }
+
 /* I used the following article when adding a hover zoom function to the maps 
 https://www.geeksforgeeks.org/how-to-zoom-an-image-on-mouse-hover-using-css/amp/ */
 .map-container {
@@ -50,9 +51,11 @@ https://www.geeksforgeeks.org/how-to-zoom-an-image-on-mouse-hover-using-css/amp/
     margin: 1rem 0;
     clear: both;
 }
+
 .map-container img {
     transition: 0.2s all ease-in-out;
 }
+
 .map-container:hover img {
     transform: scale(1.5);
     position: relative;
@@ -81,15 +84,6 @@ h1, h2, h3, h4 {
     color: #216614;
 }
 
-a {
-    text-decoration: none;
-    color: #472C7A;
-}
-a:hover {
-    color: #761E5F;
-    font-weight: bolder;
-}
-
 h2 {
     text-align: center;
 }
@@ -98,8 +92,17 @@ main > h2 {
     padding-top: 1rem;
 }
 
-/* Header specific styling */
+a {
+    text-decoration: none;
+    color: #472C7A;
+}
 
+a:hover {
+    color: #761E5F;
+    font-weight: bolder;
+}
+
+/* Header specific styling */
 header {
     width: 100%;
     background-color: #6E8EAC;
@@ -151,7 +154,6 @@ nav li {
 }
 
 /* Footer specific styling */
-
 footer {
     clear: both;
     width: 100%;
@@ -178,7 +180,6 @@ footer li {
 }
 
 /* Index.html specific styling */
-
 /* Styling specific to main section of index.html */
 #home-main {
     margin: 0;
@@ -209,6 +210,7 @@ h1 {
     position: relative;
     left: 1rem;
 }
+
 #container-main-introduction > p {
     margin: 0;
 }
@@ -227,6 +229,7 @@ h1 {
     text-align: center;
     background-color: rgba(60, 60, 60, 0.6);
 }
+
 #wainwright-quote > p {
     margin: 1rem;
 }
@@ -237,6 +240,7 @@ h1 {
     height: 70rem;
     background: #D4E3FA;
 }
+
 #container-wainwright h2 {
     padding-top: 2rem;
     margin-top: 0;
@@ -247,15 +251,18 @@ h1 {
     align-items: center;
     justify-content: space-between;
 }
+
 #image-wainwright {
     width: 35%;
     object-fit: contain;
     order: 2;
 }
+
 #about-wainwright {
     width: 60%;
     order: 1;
 }
+
 #about-wainwright > p {
     margin: 0 0 1rem 0;
 }
@@ -265,18 +272,18 @@ h1 {
     align-items: center;
     justify-content: space-between;
 }
+
 #container-wainwright-video {
     width: 32rem;
     height: 18rem;
 }
+
 #bottom-wainwright-quote {
     width: 50%;
     font-family: 'Klee One', cursive;
     text-align: left;
     margin-left: 2rem;
 }
-
-/* Wainwright-fells.html specific styling */
 
 /* Styling specific to main section of wainwright-fells.html */
 .container-fell-lists {
@@ -326,10 +333,12 @@ h1 {
     display: flex;
     width: 100%;
 }
+
 #bottom-book-container {
     display: flex;
     width: 100%;
 }
+
 .book-image {
     border: 1px solid black;
     box-sizing: border-box;
@@ -338,6 +347,7 @@ h1 {
 #northern-fells > h3 {
     color: #6c2e21;
 }
+
 .northern-number {
     background: #6c2e21;
 }
@@ -345,6 +355,7 @@ h1 {
 #central-fells > h3 {
     color: #328dd3;
 }
+
 .central-number {
     background: #328dd3;
 }
@@ -352,6 +363,7 @@ h1 {
 #southern-fells > h3 {
     color: #eb5933;
 }
+
 .southern-number {
     background: #eb5933;
 }
@@ -359,6 +371,7 @@ h1 {
 #north-western-fells > h3 {
     color: #f6b733;
 }
+
 .north-western-number {
     background: #f6b733;
 }
@@ -366,6 +379,7 @@ h1 {
 #western-fells > h3 {
     color: #418344;
 }
+
 .western-number {
     background: #418344;
 }
@@ -373,6 +387,7 @@ h1 {
 #eastern-fells > h3 {
     color: #6f9935;
 }
+
 .eastern-number {
     background: #6f9935;
 }
@@ -380,11 +395,12 @@ h1 {
 #far-eastern-fells > h3 {
     color: #e73f3e;
 }
+
 .far-eastern-number {
     background: #e73f3e;
 }
-/* Styling specific to aside sections 'looking after the fells' and 'walking tips' */
 
+/* Styling specific to aside sections 'looking after the fells' and 'walking tips' */
 aside > ul {
     list-style-type: none;
     padding: 0;
@@ -407,33 +423,37 @@ aside > ul > li {
     display: block;
     padding: 1rem;
 }
+
 #tips-video {
     width: 16rem;
     height: 9rem;
     margin: 0 auto;
 }
+
 .logo-links {
     width: 100%;
     padding: 3rem;
     box-sizing: border-box;
 }
 
-/* Walking-routes.html specific styling */
-
 /* Styling specific to main section of walking-routes.html */
 article {
     padding: 1rem 0;
 }
+
 hgroup {
     text-align: center;
 }
+
 article > h3 {
     text-align: center;
     font-size: 1.25rem;
 }
+
 hgroup > h3 {
     margin-bottom: 0;
 }
+
 hgroup > p {
     margin-top: 0;
 }
@@ -466,6 +486,7 @@ hr {
 .outside-figure-gowbarrow {
     width: 35.5%;
 }
+
 .inside-figure-gowbarrow {
     width: 26.5%;
 }
@@ -473,6 +494,7 @@ hr {
 .outside-figure-ashness {
     width: 34%;
 }
+
 .inside-figure-ashness {
     width: 30.6%;
 }
@@ -480,6 +502,7 @@ hr {
 .outside-figure-coledale {
     width: 34%;
 }
+
 .inside-figure-coledale {
     width: 30.2%;
 }
@@ -525,7 +548,6 @@ hr {
 }
 
 /* get-in-touch.html specific styling */
-
 .getintouch-background-container {
     /* credit for the background-image goes to KeswickLimey Photography & Framing https://www.keswicklimey.co.uk/ */
     background-image: url("../images/photo-loweswater.jpg");
@@ -558,9 +580,11 @@ Institutes 'Love Running' walkthrough */
 .label-and-input {
     margin-bottom: 1rem;
 }
+
 #name-box {
     margin-right: 2rem;
 }
+
 #submit-button {
     float: right;
     font-size: 1.2rem;
@@ -568,6 +592,7 @@ Institutes 'Love Running' walkthrough */
     background-color: #472C7A;
     border-radius: 5px;
 }
+
 #submit-button:hover {
     background-color: #761E5F;
 }
@@ -585,6 +610,7 @@ Institutes 'Love Running' walkthrough */
     top: -2rem;
     z-index: -1;
 }
+
 #container-thankyou {
     color: #F0F2FF;
     background-color: rgba(60, 60, 60, 0.7);
@@ -595,6 +621,7 @@ Institutes 'Love Running' walkthrough */
     bottom: -25rem;
     text-align: center;
 }
+
 #container-thankyou > h2 {
     color: #F0F2FF;
     margin: 0.5rem 0;
@@ -606,6 +633,7 @@ Institutes 'Love Running' walkthrough */
     background-color: #D4E3FA;
     position: relative;
 }
+
 #container-404-message {
     position: absolute;
     top: 30%;
@@ -613,12 +641,12 @@ Institutes 'Love Running' walkthrough */
     text-align: center;
     color: #216614;
 }
+
 #container-404-message > i {
     font-size: 8rem;
 }
 
 /* Responsive design */
-
 @media screen and (min-width:1280px)  {
     /* Responsive header */
     header > a {
@@ -631,6 +659,7 @@ Institutes 'Love Running' walkthrough */
         line-height: 4rem;
         font-size: 2rem;
     }
+
     /* Responsive index.html */
     #container-main-introduction {
         width: 40rem;
@@ -691,26 +720,23 @@ Institutes 'Love Running' walkthrough */
         text-align: center;
         line-height: 1rem;
     }
+
     /* Responsive page layout */
     .page-content-container {
         margin-top: 5rem;
     }
-
     .page-flex-container {
     display: block;
     }
-
     .main-container {
         width: 100%;
         border-right: none;
         text-align: center;
         padding-bottom: 1rem;
     }
-
     .aside-container {
         width: 100%;
     } 
-
     .map-container {
         overflow: hidden;
     }
@@ -779,7 +805,6 @@ Institutes 'Love Running' walkthrough */
     #rescue-logo {
         margin: 0 auto;
     }
-
     .anchor-heading-extra {
         color: rgba(71, 44, 122, 1);
         position: static;
@@ -794,9 +819,14 @@ Institutes 'Love Running' walkthrough */
 }
 
 @media screen and (max-width:585px){
+    /* Responsive page layout */
     .page-content-container {
         margin-top: 4rem;
     }
+    .aside-container {
+        width: 100%;
+    } 
+
     /* Responsive header */
     header {
         height: 4rem;
@@ -831,11 +861,6 @@ Institutes 'Love Running' walkthrough */
         line-height: 1.5rem;
     }
     
-    /* Cross page responsivity rules */
-    .aside-container {
-        width: 100%;
-    } 
-
     /* Responsivity specific to index.html */
     h1 {
         font-size: 1.5rem;
@@ -875,7 +900,7 @@ Institutes 'Love Running' walkthrough */
     .container-fell-lists {
         display: block;
         margin: 1rem 0;
-}
+    }
     .fell-list {
         width: 100%;
     }
@@ -896,13 +921,11 @@ Institutes 'Love Running' walkthrough */
         float: none;
         margin-top: 0;
     }
-
     .walk-info {
         float: none;
         width: 100%;
         margin-top: 2rem;
     }
-
     .container-route-images {
         display: block;
     }
@@ -942,6 +965,7 @@ Institutes 'Love Running' walkthrough */
         float: none;
         font-size: 1rem;
     }
+
     /* Responsivity specific to form-thankyou */
     #container-thankyou {
         width: 16rem;
@@ -949,6 +973,7 @@ Institutes 'Love Running' walkthrough */
         font-size: 0.8rem;
         left: 2%;
     }
+    
     /* Responsivity specific to 404.html */
     #container-404-message {
         left: 20%;
