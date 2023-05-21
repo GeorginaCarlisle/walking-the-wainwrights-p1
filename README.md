@@ -432,15 +432,6 @@ Finally, all anchor links across the site take on the colour (A) of heather in f
 
 ## Project Construction
 
-### Challenges
-
-The challenges I came across during construction have been recorded below in the order which they occured.
-
-| Problem/challenge encountered | Steps taken to overcome | Credit and acknowledgement |
-| --- | --- | --- |
-| The heading ids I had added in order to set up my content links showed up in the README displayed on GitHub rather than staying hidden as shown when working in VScode. | Online search - No need to use heading ids as the specific heading could be targeted straight through the link - tested on two links - changed all links. | Solution found on [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links) |
-| I wanted to create a drop down (I had seen elsewhere but didn't know what syntax to use) in order to include all my strategy plane research without my README becoming unwieldly. | Online search led me to the correct syntax to use. | Article [How to add Dropdown in Markdown ??](https://dev.to/asyraf/how-to-add-dropdown-in-markdown-o78) |
-
 ### Testing and Validation
 
 [Return to contents list](#contents)
@@ -453,35 +444,40 @@ The challenges I came across during construction have been recorded below in the
 
 ## Credits
 
-Where I have followed advice or have learnt something new, this has been acknowledged/creditted as appropriate in: [Challenges](#challenges), [Bugs and fixes](#bugs-and-fixes) or [Acknowledgements](#acknowledgements).
+Where I have followed advice or have learnt something new, this has been acknowledged in the  [Acknowledgements](#acknowledgements) section.
 
-Specific credit for images, content and code not taken/written by myself is now given, a comment has also been added in the code.
+The following is a list of specific credit for images, content and code not created by myself. A comment has also been added into the code in these instances.
 
-| Item | Credit to |
-| --- | --- |
-| **Template** used to create this repository. | Code Institute ([ci-full-template](https://github.com/Code-Institute-Org/ci-full-template)) |
-| **Image**: map-wainwright-fells.jpg | [Guide Us](https://guideus.co.uk/map-shop/wainwright-fells-map) |
-| **Images**: route-map-gowbarrow, route-map-castlerigg and route-map-coledale-horseshoe along with length, ascent and average time | [Ordnance Survey](https://www.ordnancesurvey.co.uk/) for the map and the software used to create the route |
-| **Names and heights** of the Wainwright fells | [GuideUs](https://guideus.co.uk/list-of-wainwright-fells) |
-| **Images**: book covers | [Waterstones](https://www.waterstones.com/) a link to Waterstones has aslo been set up for each book image |
-| **Images**: photo-aira-beck.jpg, photo-aira-force.jpg, photo-bleaberryfell.jpg, photo-castlerigg-stone-circle.jpg, photo-path-through-heather.jpg, photo-loweswater.jpg, photo-tarn-at-leaves.jpg + photo-view-from-greatgable-DWL.jpg | Used with the permission of [KeswickLimey Photography & Framing](https://www.keswicklimey.co.uk/) all photos also credited with a link to website within the caption for each photo |
-| **Text**: Wording for the introduction text in the 'Looking after the fells' aside | [LakeDistrict.gov](https://www.lakedistrict.gov.uk/) |
-| **Text** under the id="credit-text-respect" within the 'Looking after the fells' aside | [LakeDistrict.gov](https://www.lakedistrict.gov.uk/visiting/countryside-code) |
-| **Icons** throughout the site | [Font Awesome](https://fontawesome.com/) |
-| **Coding idea** for the styling of container-form and some of the code | [Code Institute's](https://codeinstitute.net) 'Love Running' walkthrough |
-| **Image** photo-prepared-walkers | Free download from [Guduru Ajay bhargav] (https://www.pexels.com/@ajaybhargavguduru/) this photo is also credited, within the caption, with a link to the author's pexel page |
-| **Text**: Introduction paragraph to the walking tips | [lakedistrict.gov.uk](https://www.lakedistrict.gov.uk/visiting/things-to-do/walking/walking-safety-tips) |
-| **Text**: Sections of the content within the list of walking tips (all clearly marked within the code) | [lakedistrict.gov.uk](https://www.lakedistrict.gov.uk/visiting/things-to-do/walking/walking-safety-tips) |
-| **Text**: Sections of the content within the list of walking tips (all clearly marked within the code) | [The Lake District Search & Mountain Rescue Association](https://ldsamra.org.uk/advice.php) |
-| **Image**: logo-countrysidecode | [gov.uk/countryside-code](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1052574/Countryside_Code_A5.pdf) the logo is used as a link to a pdf of 'The Countryside Code A5 Leaflet'|
-| **Image**: logo-fixthefells | [Fix the fells](https://www.fixthefells.co.uk/) the logo is used as a link to the fix the fells website |
-| **You-tube video**: tips-video | Lake District National Park - [Youtube](https://www.youtube.com/watch?v=NlfuNgqzz3M) |
-| **You-tube video**:wainwright-video | BBC4 - Garry Pickles - [Youtube](https://www.youtube.com/watch?v=QbzIZuyGa0s&t=1s) |
-| **Font**: Roboto Slab | Christian Robertson [Google Fonts](https://fonts.google.com/specimen/Roboto+Slab#styles) |
-| **Font**: Montserrat | Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral, Jacques Le Bailly [Google Fonts](https://fonts.google.com/specimen/Montserrat?query=Mont) |
-| **Font**: Klee One | Fontworks Inc. [Google Fonts](https://fonts.google.com/specimen/Klee+One?query=Klee+One) |
-| **Images** colour-scheme.png colour-scheme-hover.png | Created using [Adobe Color](https://color.adobe.com/create/color-wheel)|
-| **Coding idea**: map-container:hover styling | I referred to the following article when creating this styling: How to zoom an image on mouse hover using CSS by [Geeks for Geeks](https://www.geeksforgeeks.org/how-to-zoom-an-image-on-mouse-hover-using-css/amp/) |
+- **Template** used to create this repository by Code Institute ([ci-full-template](https://github.com/Code-Institute-Org/ci-full-template)).
+
+- **Font**: Roboto Slab by Christian Robertson - [Google Fonts](https://fonts.google.com/specimen/Roboto+Slab#styles).
+- **Font**: Montserrat by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral and Jacques Le Bailly - [Google Fonts](https://fonts.google.com/specimen/Montserrat?query=Mont).
+- **Font**: Klee One by Fontworks Inc. - [Google Fonts](https://fonts.google.com/specimen/Klee+One?query=Klee+One).
+
+- **Icons** used throughout the site are from [Font Awesome](https://fontawesome.com/).
+
+- **Image**: map-wainwright-fells.jpg by [Guide Us](https://guideus.co.uk/map-shop/wainwright-fells-map).
+- **Images**: route-map-gowbarrow, route-map-castlerigg and route-map-coledale-horseshoe along with length, ascent and average time. Credit to [Ordnance Survey](https://www.ordnancesurvey.co.uk/) for the map and the software used to create the route.
+- **Images**: photo-aira-beck.jpg, photo-aira-force.jpg, photo-bleaberryfell.jpg, photo-castlerigg-stone-circle.jpg, photo-path-through-heather.jpg, photo-loweswater.jpg, photo-tarn-at-leaves.jpg and photo-view-from-greatgable-.jpg are used with the permission of [KeswickLimey Photography & Framing](https://www.keswicklimey.co.uk/) and all photos are also credited with a link to website within the figure caption.
+- **Images**: all book images from [Waterstones](https://www.waterstones.com/). A link to Waterstones has also been set up for each book image.
+- **Image**: photo-prepared-walkers was a free download from [Guduru Ajay bhargav](https://www.pexels.com/@ajaybhargavguduru/). This photo is also credited, within the caption, with a link to the author's pexel page.
+- **Image**: logo-countrysidecode was taken from [gov.uk/countryside-code](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1052574/Countryside_Code_A5.pdf). The logo is used as a link to a pdf of 'The Countryside Code A5 Leaflet'.
+- **Image**: logo-fixthefells taken from [Fix the fells](https://www.fixthefells.co.uk/). The logo is used as a link to the fix the fells website.
+- **Images** colour-scheme.png and colour-scheme-hover.png created using [Adobe Color](https://color.adobe.com/create/color-wheel).
+
+- **YouTube video**: tips-video was created by The Lake District National Park - [link to video](https://www.youtube.com/watch?v=NlfuNgqzz3M).
+- **YouTube video**: wainwright-video was cereated by BBC4 and posted to YouTube by Garry Pickles - [Link to video](https://www.youtube.com/watch?v=QbzIZuyGa0s&t=1s).
+
+- **Text**: Names and heights of the Wainwright fells copied from [GuideUs](https://guideus.co.uk/list-of-wainwright-fells).
+- **Text**: Wording for the introduction paragraph to the walking tips copied from the [lakedistrict.gov.uk](https://www.lakedistrict.gov.uk/visiting/things-to-do/walking/walking-safety-tips) website.
+- **Text**: Sections of the text within the list of walking tips (all clearly marked within the code) was copied from the [lakedistrict.gov.uk](https://www.lakedistrict.gov.uk/visiting/things-to-do/walking/walking-safety-tips) website.
+- **Text**: Sections of the text within the list of walking tips (all clearly marked within the code) was copied from [The Lake District Search & Mountain Rescue Association](https://ldsamra.org.uk/advice.php) website.
+- **Text**: Wording for the introduction text in the 'Looking after the fells' aside copied from the [LakeDistrict.gov](https://www.lakedistrict.gov.uk/) website.
+- **Text** within the 'Looking after the fells' aside under the id="credit-text-respect" copied from the [LakeDistrict.gov](https://www.lakedistrict.gov.uk/visiting/countryside-code) website.
+
+- **Coding idea** for the styling of container-form and some of the code was taken from [Code Institute's](https://codeinstitute.net) 'Love Running' walkthrough.
+- **Coding idea**: map-container:hover styling. I referred to the following article when creating this styling: How to zoom an image on mouse hover using CSS by [Geeks for Geeks](https://www.geeksforgeeks.org/how-to-zoom-an-image-on-mouse-hover-using-css/amp/).
+- **Coding idea**: embedded Youtube videos. I followed the following tutorial: HTML & CSS - How to Embed a YouTube Video in Your Website [Youtube - Wed dev tutorials](https://www.youtube.com/watch?v=ly36kn0ug4k).
 
 [Return to contents list](#contents)
 
@@ -501,8 +497,7 @@ My Mentor Gurjot - For patiently listening to all my questions and giving me som
 
 My fellow Code Institute peers - I have picked up numerous tips from other students within the course slack channel.
 
-<details>
-<summary>Acknowledgements for all the articles, tutorials etc. that contributed to the skill and knowledge demonstarted in this project.</summary>
+### Websites, articles and tutorials
 
 [W3 Schools](https://www.w3schools.com/) - I used this site throughout the creation of this project to check my understanding of html elements and css properties and learn about their associated values.
 
@@ -512,18 +507,16 @@ My fellow Code Institute peers - I have picked up numerous tips from other stude
 
 [GitHub Docs: Basic writing and formatting syntax document](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) - How to use the Markdown language was also picked up from this document.
 
+[Article:How to add Dropdown in Markdown ?? by Amirul Asyraf](https://dev.to/asyraf/how-to-add-dropdown-in-markdown-o78) - I used this article to learn how to create a dropdown in my README.
+
 [Webinar: The world is your user agent: why semantic HTML is important for accessibility](https://www.deque.com/axe-con/sessions/the-world-is-your-user-agent-why-semantic-html-is-important-for-accessibility/) - I found this incredibly helpful in understanding what semantic html is and how to use it correctly to make my website accessible.
 
 [HTML living standard - 28 April 2023](https://html.spec.whatwg.org) - I found this document useful in further learning about semantic html.
 
 [W3C tutorials](https://www.w3.org/WAI/tutorials/) - I found this useful in learning further about creating an accessible website.
 
-Youtube - Wed dev tutorials [HTML & CSS - How to Embed a YouTube Video in Your Website](https://www.youtube.com/watch?v=ly36kn0ug4k) - I followed this tutorial when looking to include youtube videos on the website.
-
 [Typo-io](https://typ.io/fonts/roboto_slab) - I used this website in order to find a font for the main body of my text that would work alongside Roboto Slab.
 
 [CSS-Tricks: A complete guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - I found this article useful in learning more about flexbox layout, which I have then used in the aside section about Wainwright in index.html.
-
-</details>
 
 [Return to contents list](#contents)
