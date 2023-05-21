@@ -3,28 +3,27 @@
 
 This website is under construction, with no live page at this time.
 
-## Project Description 
-
 ## Contents
-[Project Description](#project-description)
+[Features](#features)
 
-[User Experience Design](#user-experience-design)
+[Design](#design)
 - [The Strategy Plane](#the-strategy-plane)
 - [The Scope Plane](#the-scope-plane)
 - [The Structure Plane](#the-structure-plane)
 - [The Skeleton Plane](#the-skeleton-plane)
 - [The Surface Plane](#the-surface-plane)
 
+[Development](#development)
+
+[Testing and Validation](#testing-and-validation)
+
+[Bugs and fixes](#bugs-and-fixes)
+
+[Deployment](#deployment)
+
 [Languages](#languages)
 
 [Tools and Technologies](#tools-and-technologies)
-
-[Project Construction](#project-construction)
-- [Challenges](#challenges)
-- [Testing and Validation](#testing-and-validation)
-
-[Project Deployment](#project-deployment)
-- [Bugs and fixes](#bugs-and-fixes)
 
 [Credits](#credits)
 
@@ -32,7 +31,11 @@ This website is under construction, with no live page at this time.
 
 ***
 
-## User Experience Design
+## Features
+
+[Return to contents list](#contents)
+
+## Design
 
 ### The Strategy Plane
 
@@ -411,6 +414,20 @@ Finally, all anchor links across the site take on the colour (A) of heather in f
 
 [Return to contents list](#contents)
 
+## Development
+
+[Return to contents list](#contents)
+
+## Testing and Validation
+
+[Return to contents list](#contents)
+
+## Bugs and fixes
+
+[Return to contents list](#contents)
+
+## Deployment
+
 ## Languages
 
 - HTML
@@ -427,18 +444,6 @@ Finally, all anchor links across the site take on the colour (A) of heather in f
 - Google forms
 - [Balsamiq wireframes](https://balsamiq.com/)
 - [Adobe Color](https://color.adobe.com/create/color-wheel)
-
-[Return to contents list](#contents)
-
-## Project Construction
-
-### Testing and Validation
-
-[Return to contents list](#contents)
-
-## Project Deployment
-
-### Bugs and fixes
 
 [Return to contents list](#contents)
 
