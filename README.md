@@ -453,7 +453,21 @@ The finished website deviats from the original design in a number of ways:
 
 ### HTML Validation
 
+All html files have been checked and validated using the [NU Html checker](https://validator.w3.org/nu/) and all now return a 'No errors or warnings to show' message. 
+
+#### HTML errors on first testing
+
+The following errors came up on initial testing:
+- Stray start tags on all caption elements. I looked again at the figure element researching correct use: https://www.w3schools.com/tags/tag_figure.asp. I then replaced caption with figcaption in all instances.
+- Stray end tags on all caption elements. As above.
+- Bad values for width and height attributes on all iframe elements. Width and height attributes moved into style.css.
+- Frameborder attribute on all iframe elements is obsolete. Attribute removed with no ill effects.
+- Stray end tag for h2 (line 46 - walking-routes). Left in error and now removed.
+- Element ul not allowed as a child of a span (line 449 - walking routes). I re-looked at the code I had used to create the un-ordered lists in both walking-routes.html and wainwright-fells.html and replaced the span elements with the more appropriate p element throughout.
+
 ### CSS Validation
+
+The file style.css has been checked using [The W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/) and validates as CSS level 3 + SVG.
 
 ### Accessibility and performance
 
@@ -544,11 +558,11 @@ The following is a list of specific credit for images, content and code not crea
 - **Text**: Sections of the text within the list of walking tips (all clearly marked within the code) was copied from the [lakedistrict.gov.uk](https://www.lakedistrict.gov.uk/visiting/things-to-do/walking/walking-safety-tips) website.
 - **Text**: Sections of the text within the list of walking tips (all clearly marked within the code) was copied from [The Lake District Search & Mountain Rescue Association](https://ldsamra.org.uk/advice.php) website.
 - **Text**: Wording for the introduction text in the 'Looking after the fells' aside copied from the [LakeDistrict.gov](https://www.lakedistrict.gov.uk/) website.
-- **Text** within the 'Looking after the fells' aside under the id="credit-text-respect" copied from the [LakeDistrict.gov](https://www.lakedistrict.gov.uk/visiting/countryside-code) website.
+- **Text** Sections of the text within the 'Looking after the fells' aside copied from the [LakeDistrict.gov](https://www.lakedistrict.gov.uk/visiting/countryside-code) website.
 
 - **Coding idea** for the styling of container-form and some of the code was taken from [Code Institute's](https://codeinstitute.net) 'Love Running' walkthrough.
 - **Coding idea**: map-container:hover styling. I referred to the following article when creating this styling: How to zoom an image on mouse hover using CSS by [Geeks for Geeks](https://www.geeksforgeeks.org/how-to-zoom-an-image-on-mouse-hover-using-css/amp/).
-- **Coding idea**: embedded Youtube videos. I followed the following tutorial: HTML & CSS - How to Embed a YouTube Video in Your Website [Youtube - Wed dev tutorials](https://www.youtube.com/watch?v=ly36kn0ug4k).
+- **Coding idea**: embedded Youtube videos. I copied embed video code from YouTube (editing slightly) and also followed the tutorial: HTML & CSS - How to Embed a YouTube Video in Your Website [Youtube - Wed dev tutorials](https://www.youtube.com/watch?v=ly36kn0ug4k).
 
 [Return to contents list](#contents)
 
