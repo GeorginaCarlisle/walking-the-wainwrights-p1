@@ -1,7 +1,11 @@
 # Walking the Wainwrights 
 (Developer: Georgina Carlisle)
 
-This website is under construction, with no live page at this time.
+Responsive site images
+
+Project description
+
+Link to live page
 
 ## Contents
 [Features](#features)
@@ -32,6 +36,28 @@ This website is under construction, with no live page at this time.
 ***
 
 ## Features
+
+### Header
+
+### Footer
+
+### Page Introduction
+
+### Alfred Wainwright
+
+### The Wainwright Fells
+
+### Looking after the Fells
+
+### Walking Routes
+
+### Walking tips
+
+### Get in touch
+
+### 404
+
+### Features to be implemented
 
 [Return to contents list](#contents)
 
@@ -416,17 +442,57 @@ Finally, all anchor links across the site take on the colour (A) of heather in f
 
 ## Development
 
+The finished website deviats from the original design in a number of ways:
+
+1 -
+
+
 [Return to contents list](#contents)
 
 ## Testing and Validation
+
+### HTML Validation
+
+### CSS Validation
+
+### Accessibility and performance
+
+### Links (internal and external), media and forms
+
+All internal links have been tested. These take you to the specified location within the site.
+
+All external links have been tested and open in a new tab.
+
+The two videos have been tested and work to view in situ, full screen or on YouTube (this opens in a seperate tab).
+
+The 'Get in Touch' form has been tested. Submission is prevented when the name and email have not been filled in and prompts appear to the user. On clicking submit the user is taken to a thank you page. The form functions have also been separately tested using ......
+
+Insert screenshot 
+
+### Further testing
+
+This website has been tested on the following browsers and responds without issue:
+- Google Chrome
+- Safari
+
+This website has also been tested on the following smart phones:
+- iPhone 12 mini
+
+Numerous friends and family also tested the website, providing feedback on user experience.
 
 [Return to contents list](#contents)
 
 ## Bugs and fixes
 
+| Bug | Fix |
+| -- | -- |
+
+
 [Return to contents list](#contents)
 
 ## Deployment
+
+[Return to contents list](#contents)
 
 ## Languages
 
