@@ -471,6 +471,47 @@ The file style.css has been checked using [The W3C CSS Validation Service](https
 
 ### Accessibility and performance
 
+
+### Contrast
+
+The [WebAIM contrast checker](https://webaim.org/resources/contrastchecker/) has been used to ensure text is easy to read. 
+
+All text within the main sections passes as WCAG AAA. All text within the aside sections passes as WCAG AAA with the exception of the hover link text which passes at WCAG AA.
+Within the header all text passes at WCAG AA and above where the text is larger.
+Within the footer all text passes at WCAG AAA.
+
+<details>
+<summary>Contrast scores relating to the main sections of the website</summary>
+
+![Image showing the contrast between black text and the main sections](documentation/contrast-main-v-black.png)
+![Image showing the contrast between green headings and the main sections](documentation/contrast-main-v-green.png)
+![Image showing the contrast between purple links and the main sections](documentation/contrast-main-v-purple.png)
+![Image showing the contrast between pink hover links and the main sections](documentation/contrast-main-v-pink.png)
+
+</details>
+
+<details>
+<summary>Contrast scores relating to the aside sections of the website</summary>
+
+![Image showing the contrast between black text and the aside sections](documentation/contrast-aside-v-black.png)
+![Image showing the contrast between green headings and the aside sections](documentation/contrast-aside-v-green.png)
+![Image showing the contrast between purple links and the aside sections](documentation/contrast-aside-v-purple.png)
+![Image showing the contrast between pink hover links and the aside sections](documentation/contrast-aside-v-pink.png)
+
+</details>
+
+<details>
+<summary>Contrast scores relating to header and footer</summary>
+
+![Image showing the contrast between black text and the footer](documentation/contrast-footer-v-black.png)
+![Image showing the contrast between green logo and the header](documentation/contrast-header-v-green.png)
+![Image showing the contrast between purple links and the header/footer](documentation/contrast-header%3Afooter-v-purple.png)
+![Image showing the contrast between pink active/hover links and the header/footer](documentation/contrast-header%3Afooter-v-pink.png)
+
+</details>
+
+Note: Some adjustment of initial colour scheme was made in order to achieve better contrast.
+
 ### Links (internal and external), media and forms
 
 All internal links have been tested. These take you to the specified location within the site.
@@ -524,6 +565,7 @@ Numerous friends and family also tested the website, providing feedback on user 
 - Google forms
 - [Balsamiq wireframes](https://balsamiq.com/)
 - [Adobe Color](https://color.adobe.com/create/color-wheel)
+- [WebAIM contrast checker](https://webaim.org/resources/contrastchecker/)
 
 [Return to contents list](#contents)
 
