@@ -541,6 +541,10 @@ Numerous friends and family also tested the website, providing feedback on user 
 
 | Bug | Fix |
 | -- | -- |
+| Hover zoom function for the maps doesn't respond well on smart phones | |
+| Textarea boxes in the get in touch form appear to be partially filled | |
+| Logo link to the Mountain rescue is not centralising when the aside jumps to a full screen width | |
+| Having adjusted the list code to meet html validation the extra bullet points within the mobile phone list element now sit alongside instead of below | |
 
 
 [Return to contents list](#contents)
