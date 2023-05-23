@@ -589,7 +589,7 @@ Institutes 'Love Running' walkthrough */
     padding: 0.5rem 1rem;
     position: relative;
     left: 5%;
-    top: 14rem;
+    top: 12rem;
     border-radius: 5px;
 }
 
@@ -611,8 +611,10 @@ Institutes 'Love Running' walkthrough */
 }
 
 #submit-button {
-    float: right;
+    position: relative;
+    left: 10rem;
     font-size: 1.2rem;
+    padding: 0.5rem;
     color: #F0F2FF;
     background-color: #412F8F;
     border-radius: 5px;
@@ -984,27 +986,18 @@ Institutes 'Love Running' walkthrough */
 
     /* Responsivity specific to get-in-touch*/
     #container-form {
-        width: 16rem;
+        width: 22rem;
         padding: 0.2rem 0.4rem;
         left: 4%;
         top: 14rem;
         font-size: 0.8rem;
-    }
-    #container-form > h2 {
-        margin: 0.2rem 0;
-    }
-    .get-in-touch-form > p {    
-        margin-bottom: 0.5rem;
-    }
-    .label-and-input {
-        margin-bottom: 0.5rem;
     }
     #name-box {
         display: block;
         margin-bottom: 0.5rem;
     }
     #submit-button {
-        float: none;
+        left: 2rem;
         font-size: 1rem;
     }
 
@@ -1031,7 +1024,23 @@ Institutes 'Love Running' walkthrough */
     .logo-links {
     padding: 1rem;
     }
-
+    /* Responsivity specific to get-in-touch*/
+    .getintouch-background-container {
+        background-position: left top;
+    }
+    #container-form {
+        width: 90%;
+        top: 12rem;
+        padding: 0.2rem 0.6rem;
+        margin: 0 auto;
+        left: 0;
+    }
+    #submit-button {
+        display: block;
+        margin-top: 0.5rem;
+        left: 11rem;
+        font-size: 1rem;
+    }
 }
 
 @media screen and (max-width:320px) {
