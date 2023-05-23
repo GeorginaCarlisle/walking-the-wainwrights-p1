@@ -532,8 +532,11 @@ This website has been tested on the following browsers and responds without issu
 
 This website has also been tested on the following smart phones:
 - iPhone 12 mini
+- oneplus 70
 
-Numerous friends and family also tested the website, providing feedback on user experience.
+Testing throughout has been carried out using Chrome developer tools and the website responds without issue in the reponsive settings offered.
+
+Numerous friends and family have also tested the website, providing feedback on user experience.
 
 [Return to contents list](#contents)
 
