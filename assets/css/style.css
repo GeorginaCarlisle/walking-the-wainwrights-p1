@@ -934,7 +934,7 @@ Institutes 'Love Running' walkthrough */
         height: 13.5rem;
     }
     .logo-links {
-    padding: 1rem;
+    padding: 2rem;
     }
 
     /* Responsivity specific to walking-routes */
@@ -1007,6 +1007,10 @@ Institutes 'Love Running' walkthrough */
         width: 16rem;
         height: 9rem;
     }
+    .logo-links {
+    padding: 1rem;
+    }
+
 }
 
 @media screen and (max-width:320px) {
