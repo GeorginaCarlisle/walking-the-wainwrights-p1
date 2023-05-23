@@ -434,6 +434,7 @@ aside > ul > li {
     width: 16rem;
     height: 9rem;
     margin: 0 auto;
+    margin-bottom: 2rem;
 }
 
 #tips-video > iframe {
@@ -442,9 +443,11 @@ aside > ul > li {
 }   
 
 .logo-links {
-    width: 100%;
-    padding: 3rem;
+    width: 80%;
+    padding: 2rem;
     box-sizing: border-box;
+    display: flex;
+    margin: 0 auto;
 }
 
 /* Styling specific to main section of walking-routes.html */
@@ -670,6 +673,9 @@ Institutes 'Love Running' walkthrough */
     }
 
     /* Responsive index.html */
+    #background-container-introduction {
+        background-image: url("../images/photo-tarn-at-leaves-big.jpg");
+    }
     #container-main-introduction {
         width: 40rem;
         font-size: 1.2rem;
@@ -689,13 +695,19 @@ Institutes 'Love Running' walkthrough */
         width: 40rem;
         height: 22.5rem;
     }
+    /* Responsive fells.html*/
     .fell-list {
         padding: 1rem;
     }
-    #background-container-introduction {
-        background-image: url("../images/photo-tarn-at-leaves-big.jpg");
+    #countryside-logo {
+        float: left;
     }
-    .getintouch-background-container {
+    .logo-links {
+        width: 50%;
+    
+    }
+    /* Reesponsive get-in-touch and form-thankyou*/
+    .getintouch-background-container, #page-container-form-thankyou {
         background-image: url("../images/photo-loweswater-big.jpg");
     }
 }
@@ -793,6 +805,10 @@ Institutes 'Love Running' walkthrough */
     .container-fell-lists {
         text-align: left;
     }
+    #rescue-logo {
+        display: flex;
+        margin: 0 auto;
+    }
 
     /* Responsivity specific to walking tips and look after the fells */
     .icon {
@@ -805,14 +821,12 @@ Institutes 'Love Running' walkthrough */
     }
     .logo-links {
         width: 50%;
+        padding: 4rem;
     }
     #countryside-logo {
         float: left;
     }
-    #rescue-logo {
-        display: flex;
-        margin: 0 auto;
-    }
+    
     .anchor-heading-extra {
         color: rgba(71, 44, 122, 1);
         position: static;
