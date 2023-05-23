@@ -599,6 +599,7 @@ The following is a list of specific credit for images, content and code not crea
 - **YouTube video**: tips-video was created by The Lake District National Park - [link to video](https://www.youtube.com/watch?v=NlfuNgqzz3M).
 - **YouTube video**: wainwright-video was cereated by BBC4 and posted to YouTube by Garry Pickles - [Link to video](https://www.youtube.com/watch?v=QbzIZuyGa0s&t=1s).
 
+- **Text**: The first three paragraphs in the information about Wainwright are taken from the article [Why does Alfred Wainwright still loom large over the Lake District?](https://www.bbc.co.uk/news/uk-england-cumbria-57528980) written by Simon Armstrong (BBC News) and first published 5 September 2021.
 - **Text**: Names and heights of the Wainwright fells copied from [GuideUs](https://guideus.co.uk/list-of-wainwright-fells).
 - **Text**: Wording for the introduction paragraph to the walking tips copied from the [lakedistrict.gov.uk](https://www.lakedistrict.gov.uk/visiting/things-to-do/walking/walking-safety-tips) website.
 - **Text**: Sections of the text within the list of walking tips (all clearly marked within the code) was copied from the [lakedistrict.gov.uk](https://www.lakedistrict.gov.uk/visiting/things-to-do/walking/walking-safety-tips) website.
