@@ -474,18 +474,26 @@ The file style.css has been checked using [The W3C CSS Validation Service](https
 
 ### Contrast
 
-The [WebAIM contrast checker](https://webaim.org/resources/contrastchecker/) has been used to ensure text is easy to read. 
+The [WebAIM contrast checker](https://webaim.org/resources/contrastchecker/) has been used to ensure text is easy to read and some adjustment of initial colour scheme was made.
 
-All text within the main sections passes as WCAG AAA. All text within the aside sections passes as WCAG AAA with the exception of the hover link text which passes at WCAG AA.
+All text within the main sections (fell lists discussed separately) passes as WCAG AAA. All text within the aside sections passes as WCAG AAA with the exception of the hover link text which passes at WCAG AA.
 Within the header all text passes at WCAG AA and above where the text is larger.
 Within the footer all text passes at WCAG AAA.
+
+Text that sits in front of a background image has been given a secondary partially translucent background in order to aid readability.
+
+The colours used for the headings and reference numbers in the fell lists (with the exception of the northern fells at 10.24:1) do not pass. The contrast between text and background however does sit above 3:1 for all bar north western fells. These colours link directly with the book covers for Wainwright's seven guide books and with the numbers on the map and I have therefore chose to keep them. The main details within this section: the fell names and heights are in black which passes at WCAG AAA. 
 
 <details>
 <summary>Contrast scores relating to the main sections of the website</summary>
 
+Black text:
 ![Image showing the contrast between black text and the main sections](documentation/contrast-main-v-black.png)
+Green headings:
 ![Image showing the contrast between green headings and the main sections](documentation/contrast-main-v-green.png)
+Purple links:
 ![Image showing the contrast between purple links and the main sections](documentation/contrast-main-v-purple.png)
+Pink hover links:
 ![Image showing the contrast between pink hover links and the main sections](documentation/contrast-main-v-pink.png)
 
 </details>
@@ -493,9 +501,13 @@ Within the footer all text passes at WCAG AAA.
 <details>
 <summary>Contrast scores relating to the aside sections of the website</summary>
 
+Black text:
 ![Image showing the contrast between black text and the aside sections](documentation/contrast-aside-v-black.png)
+Green headings:
 ![Image showing the contrast between green headings and the aside sections](documentation/contrast-aside-v-green.png)
+Purple links:
 ![Image showing the contrast between purple links and the aside sections](documentation/contrast-aside-v-purple.png)
+Pink hover links:
 ![Image showing the contrast between pink hover links and the aside sections](documentation/contrast-aside-v-pink.png)
 
 </details>
@@ -503,14 +515,37 @@ Within the footer all text passes at WCAG AAA.
 <details>
 <summary>Contrast scores relating to header and footer</summary>
 
+Black text in footer:
 ![Image showing the contrast between black text and the footer](documentation/contrast-footer-v-black.png)
+Green logo in header:
 ![Image showing the contrast between green logo and the header](documentation/contrast-header-v-green.png)
+purple links in header:
 ![Image showing the contrast between purple links and the header/footer](documentation/contrast-header%3Afooter-v-purple.png)
+pink hover links in header:
 ![Image showing the contrast between pink active/hover links and the header/footer](documentation/contrast-header%3Afooter-v-pink.png)
 
 </details>
 
-Note: Some adjustment of initial colour scheme was made in order to achieve better contrast.
+<details>
+<summary>Contrast scores relating to the fell lists</summary>
+
+Northern fells colour:
+![Image showing the contrast between Northern fells and the background](documentation/contrast-northern.png)
+Central fells colour:
+![Image showing the contrast between Central fells and the background](documentation/contrast-central.png)
+Southern fells colour:
+![Image showing the contrast between Southern fells and the background](documentation/contrast-southern.png)
+North Western fells colour:
+![Image showing the contrast between North Western fells and the background](documentation/contrast-north-western.png)
+Western fells colour:
+![Image showing the contrast between Western fells and the background](documentation/contrast-western.png)
+Eastern fells colour:
+![Image showing the contrast between Eastern fells and the background](documentation/contrast-eastern.png)
+Far Eastern fells colour:
+![Image showing the contrast between Far Eastern fells and the background](documentation/contrast-far-eastern.png)
+
+</details>
+
 
 ### Links (internal and external), media and forms
 
