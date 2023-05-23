@@ -750,11 +750,9 @@ Institutes 'Love Running' walkthrough */
     .aside-container {
         width: 100%;
     } 
-    .map-container {
-        overflow: hidden;
-    }
     .map-container:hover img {
-        left: 0rem;
+    transform: none;
+    position: static;
     }
 
     /* Responsive Footer */
