@@ -494,6 +494,49 @@ The file style.css has been checked using [The W3C CSS Validation Service](https
 
 ### Accessibility and performance
 
+Lighthouse in Chrome developer tools has been used to test the main pages (form-thankyou and 404 not tested) at both desktop and mobile levels. 
+
+Scores in accessibility, best practices and SEO are 100 across all pages, with the following exceptions:
+- A slight dip in accessibility on wainwright-fells (97) which relates to the colours used in the fell lists (see contrast section).
+- A slight dip in SEO on get-in-touch mobile only (97). I will see if I have fixed this.
+
+Performance scores vary across the pages and between desktop and mobile. The best being 95 (Home page on desktop) and the poorest 35 (Wainwright Fells on mobile). 
+It is important to the scope of the site that it includes numerous high quality images and all images are sized to the smallest possible for the biggest screen sizes. I trialled converting all images to a webp format (suggestion from lighthouse to improve performance) and while this increased the performance at desktop level it drastically reduced performance at mobile level. I therefore chose to revert to jpeg and png formats.
+During the next phase of this websites development ways to improve the performance without compromising the user experience will be looked into.
+
+<details>
+<summary>Lighthouse scores for desktop</summary>
+
+Home page:
+![lighthouse scores for the home page](documentation/lighthouse-desktop-home.png)
+
+Wainwright Fells page:
+![Lighthouse scores for the Wainwright Fells page](documentation/lighthouse-desktop-fells.png)
+
+Walking routes page:
+![Lighthouse scores for the Walking Routes page](documentation/lighthouse-desktop-routes.png)
+
+Get in touch:
+![Lighthouse scores for the Get in touch page](documentation/lighthouse-desktop-getintouch.png)
+
+</details>
+
+<details>
+<summary>Lighthouse scores for mobile</summary>
+
+Home page:
+![lighthouse scores for the home page](documentation/lighthouse-mobile-home.png)
+
+Wainwright Fells page:
+![Lighthouse scores for the Wainwright Fells page](documentation/lighthouse-mobile-fells.png)
+
+Walking routes page:
+![Lighthouse scores for the Walking Routes page](documentation/lighthouse-mobile-routes.png)
+
+Get in touch:
+![Lighthouse scores for the Get in touch page](documentation/lighthouse-mobile-getintouch.png)
+
+</details>
 
 ### Contrast
 
