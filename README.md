@@ -428,6 +428,27 @@ For the Wainwright quotes I have included, I again wanted to draw parallels with
 
 #### Colour Scheme
 
+Main colour scheme: 
+- **A**: Header and Footer background 
+- **B**: Aside background 
+- **C**: Main background
+- **D**: Headings
+- **E**: Text
+
+![Image showing main colour scheme](documentation/colour-scheme-new.png)
+
+Links colour scheme:
+- **A**: Header and Footer background 
+- **B**: Aside background 
+- **C**: Main background
+- **D**: Link text
+- **E**: Link text on hover
+
+![Image](documentation/colour-scheme-new-links.png)
+
+<details>
+<summary>Initial colour scheme including reasons behind choices</summary>
+
 ![Image showing the colour scheme](documentation/colour-scheme.png)
 
 Inspiration for the background colours (C-Header, D-Aside, E-Main) came from the lakes, tarns, rivers and streams of The Lake District.
@@ -437,6 +458,8 @@ The colour (B) for all headings across the site links to the forests, woods, fer
 Finally, all anchor links across the site take on the colour (A) of heather in flower. In the image below you can see how anchor links will change colour when active or on hover.
 
 ![Image showing the colour scheme with the colour change for hover](documentation/colour-scheme-hover.png)
+
+</details>
 
 [Return to contents list](#contents)
 
