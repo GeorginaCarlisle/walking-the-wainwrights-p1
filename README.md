@@ -541,11 +541,9 @@ Numerous friends and family also tested the website, providing feedback on user 
 
 | Bug | Fix |
 | -- | -- |
-| Hover zoom function for the maps doesn't respond well on smart phones | |
-| Textarea boxes in the get in touch form appear to be partially filled | |
-| Logo link to the Mountain rescue is not centralising when the aside jumps to a full screen width | |
-| Having adjusted the list code to meet html validation the extra bullet points within the mobile phone list element now sit alongside instead of below | |
-
+| Hover zoom function for the maps doesn't respond well on smart phones | Zoom function disabled at widths below 800px. Creating a zoom feature using JavaScript to be looked at in future site updates |
+| Logo link to the Mountain rescue is not centralising when the aside jumps to a full screen width | Added style rules display:flex and margin: 0 auto. Logo now centralising |
+| Having adjusted the list code to meet html validation the extra bullet points within the mobile phone list element now sit alongside instead of below | Added an additional div to surround the paragraph and extra bullet points. Flex styling now recognises these two elements as one instead of separate. Bullet points now sit below as intended. |
 
 [Return to contents list](#contents)
 
