@@ -816,6 +816,7 @@ Institutes 'Love Running' walkthrough */
         float: left;
     }
     #rescue-logo {
+        display: flex;
         margin: 0 auto;
     }
     .anchor-heading-extra {
