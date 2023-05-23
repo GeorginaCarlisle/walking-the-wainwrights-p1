@@ -201,6 +201,17 @@ footer li {
 
 h1 {
     text-align: center;
+    margin: 0;
+}
+
+#container-title {
+    background-color: rgba(237, 243, 253, 0.7);
+    width: 30rem;
+    margin: 0 auto;
+    padding: 0.5rem;
+    border-radius: 5px;
+    position: relative;
+    top: 1rem;
 }
 
 #container-main-introduction {
@@ -211,6 +222,7 @@ h1 {
     text-align: center;
     position: relative;
     left: 1rem;
+    top: 3rem;
 }
 
 #container-main-introduction > p {
@@ -784,6 +796,11 @@ Institutes 'Love Running' walkthrough */
         line-height: 1rem;
     }
 
+    /* Responsivity specific to main section index.html */
+    #container-title {
+        width: 25rem;
+    }
+
     /* Responsivity specific to aside section index.html */
     #container-wainwright {
         height: 90rem;
@@ -887,9 +904,12 @@ Institutes 'Love Running' walkthrough */
     h1 {
         font-size: 1.5rem;
     }
+    #container-title {
+        width: 18.5rem;
+    }
     #container-main-introduction {
         width: 80%;
-        position: static;
+        left: 0;
         margin: 0 auto;
         font-size: 0.8rem;
     }
@@ -1003,6 +1023,7 @@ Institutes 'Love Running' walkthrough */
 }
 
 @media screen and (max-width:470px) {
+    /* fells.html */
     #tips-video {
         width: 16rem;
         height: 9rem;
@@ -1014,6 +1035,24 @@ Institutes 'Love Running' walkthrough */
 }
 
 @media screen and (max-width:320px) {
+    /* responsive header */
+    header {
+        height: 5rem;
+    }
+    .anchor-point {
+    top: -5rem;
+    }
+    .page-content-container {
+        margin-top: 5rem;
+    }
+    /* responsive footer */
+    footer {
+        height: 8rem;
+    }
+    /* index.html */
+    #container-title {
+        width: 10rem;
+    }
     #container-wainwright {
         height: 150rem;
     }
@@ -1021,9 +1060,7 @@ Institutes 'Love Running' walkthrough */
         width: 14rem;
         height: 8rem;
     }
-    footer {
-        height: 8rem;
-    }
+    /* 404 page*/
     #container-404-message {
         left: 10%;
     }
