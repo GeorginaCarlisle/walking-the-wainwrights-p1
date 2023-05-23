@@ -111,6 +111,8 @@ header {
     top: 0;
     z-index: 2;
     font-family: 'Roboto Slab', serif;
+    border-bottom: 1px solid black;
+    box-sizing: border-box;
 }
 
 header > a {
@@ -159,6 +161,8 @@ footer {
     width: 100%;
     background-color: #A1B6C9;
     height: 4rem;
+    border-top: 1px solid black;
+    box-sizing: border-box;
 }
 
 footer > p {
