@@ -191,7 +191,7 @@ footer li {
 
 #background-container-introduction {
     /* credit for the background-image goes to KeswickLimey Photography & Framing https://www.keswicklimey.co.uk/ */
-    background-image: url("../images/photo-tarn-at-leaves.webp");
+    background-image: url("../images/photo-tarn-at-leaves.jpg");
     background-position: left center;
     position: fixed;
     z-index: -1;
@@ -563,7 +563,7 @@ hr {
 /* get-in-touch.html specific styling */
 .getintouch-background-container {
     /* credit for the background-image goes to KeswickLimey Photography & Framing https://www.keswicklimey.co.uk/ */
-    background-image: url("../images/photo-loweswater.webp");
+    background-image: url("../images/photo-loweswater.jpg");
     background-position: center center;
     background-attachment: fixed;
 }
@@ -615,7 +615,7 @@ Institutes 'Love Running' walkthrough */
     width: 100%;
     height: 750px;
     /* credit for the background-image goes to KeswickLimey Photography & Framing https://www.keswicklimey.co.uk/ */
-    background-image: url("../images/photo-loweswater.webp");
+    background-image: url("../images/photo-loweswater.jpg");
     background-position: left;
     background-repeat: no-repeat;
     background-size: cover;
@@ -697,10 +697,10 @@ Institutes 'Love Running' walkthrough */
         padding: 1rem;
     }
     #background-container-introduction {
-        background-image: url("../images/photo-tarn-at-leaves-big.webp");
+        background-image: url("../images/photo-tarn-at-leaves-big.jpg");
     }
     .getintouch-background-container {
-        background-image: url("../images/photo-loweswater-big.webp");
+        background-image: url("../images/photo-loweswater-big.jpg");
     }
 }
 
