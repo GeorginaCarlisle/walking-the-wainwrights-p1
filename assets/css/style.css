@@ -610,6 +610,10 @@ Institutes 'Love Running' walkthrough */
     margin-right: 2rem;
 }
 
+#bottom-label-and-input {
+    margin-bottom: 0;
+}
+
 #submit-button {
     position: relative;
     left: 10rem;
@@ -999,6 +1003,7 @@ Institutes 'Love Running' walkthrough */
     #submit-button {
         left: 2rem;
         font-size: 1rem;
+        padding: 0.3rem;
     }
 
     /* Responsivity specific to form-thankyou */
@@ -1025,9 +1030,6 @@ Institutes 'Love Running' walkthrough */
     padding: 1rem;
     }
     /* Responsivity specific to get-in-touch*/
-    .getintouch-background-container {
-        background-position: left top;
-    }
     #container-form {
         width: 16rem;
         top: 12rem;
@@ -1035,14 +1037,17 @@ Institutes 'Love Running' walkthrough */
         margin: 0 auto;
         left: 0;
     }
-    #submit-button {
-        display: block;
-        margin-top: 0.5rem;
-        left: 11rem;
-        font-size: 1rem;
-    }
     .label-and-input {
         margin-bottom: 0.5rem;
+    }
+    #experience-rating {
+        margin-bottom: 0.5rem;
+    }
+    #submit-button {
+        display: flex;
+        margin: 0 auto;
+        font-size: 1rem;
+        left: 0;
     }
 }
 
@@ -1081,6 +1086,19 @@ Institutes 'Love Running' walkthrough */
 @media screen and (min-height:750px) {
     .getintouch-background-container {
         background-image: url("../images/photo-loweswater-big.jpg");
+        height: 900px;
+    }
+    #container-form {
+        top: 14rem;
+    }
+}
+
+@media screen and (min-height:950px) {
+    .getintouch-background-container {
+        height: 1060px;
+    }
+    #container-form {
+        top: 20rem;
     }
 }
 
