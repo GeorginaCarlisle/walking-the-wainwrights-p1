@@ -222,7 +222,7 @@ h1 {
     text-align: center;
     position: relative;
     left: 1rem;
-    top: 3rem;
+    top: 2rem;
 }
 
 #container-main-introduction > p {
@@ -1038,7 +1038,7 @@ Institutes 'Love Running' walkthrough */
     #submit-button {
         display: block;
         margin-top: 0.5rem;
-        left: 12rem;
+        left: 11rem;
         font-size: 1rem;
     }
     .label-and-input {
