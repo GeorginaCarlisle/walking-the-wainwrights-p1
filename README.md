@@ -3,9 +3,17 @@
 
 Responsive site images
 
-Project description
+Walking the Wainwrights is an informative website for fell walkers looking to summit the Wainwright fells in The Lake District National Park, England. Users will find information on Alfred Wainwright and the Wainwright fells, as well as inspiration for their next walk, walking tips and ways to lessen their impact on the Lake District landscape and it's flora and fauna.
 
-Link to live page
+High quality images throughout bring the page to life, with features such as Wainwright quotes, videos, route maps and walk details adding extra interest and value.
+
+The website is responsive across a range of devices, easy to navigate and aids accessibility for all.
+
+Walking the Wainwrights was created purely for educational purposes to showcase HTML and CSS in
+portfolio project one for the course 'Diploma in Full Stack Software Development' at Code Institute.
+
+Link to live page: 
+https://georginacarlisle.github.io/walking-the-wainwrights-p1/index.html
 
 ## Contents
 [Features](#features)
