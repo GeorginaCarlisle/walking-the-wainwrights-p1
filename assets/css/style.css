@@ -1029,7 +1029,7 @@ Institutes 'Love Running' walkthrough */
         background-position: left top;
     }
     #container-form {
-        width: 90%;
+        width: 16rem;
         top: 12rem;
         padding: 0.2rem 0.6rem;
         margin: 0 auto;
@@ -1038,8 +1038,11 @@ Institutes 'Love Running' walkthrough */
     #submit-button {
         display: block;
         margin-top: 0.5rem;
-        left: 11rem;
+        left: 12rem;
         font-size: 1rem;
+    }
+    .label-and-input {
+        margin-bottom: 0.5rem;
     }
 }
 
