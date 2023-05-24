@@ -1105,9 +1105,9 @@ Institutes 'Love Running' walkthrough */
 
 @media screen and (max-height:730px) {
     #background-container-introduction {
-        height: 550px;
+        height: 500px;
     }
     #container-behind-introduction {
-    height: 550px;
+    height: 500px;
     }
 }
