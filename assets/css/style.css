@@ -1010,8 +1010,9 @@ Institutes 'Love Running' walkthrough */
     #container-thankyou {
         width: 16rem;
         padding: 0.2rem 0.4rem;
-        font-size: 0.8rem;
-        left: 2%;
+        left: 0;
+        bottom: -21rem;
+        margin: 0 auto;
     }
     
     /* Responsivity specific to 404.html */
