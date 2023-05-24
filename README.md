@@ -45,29 +45,90 @@ https://georginacarlisle.github.io/walking-the-wainwrights-p1/index.html
 
 ## Features
 
+The features as displayed below show the layout on desktop. The layout of all features responds to screensize and changes accordingly.
+
 ### Header
+
+![Screenshot of header](documentation/features-header.png)
+
+The Header appears on all pages and its position is fixed, so as to be visible at all times when navigating the site.
+The styling of the links in the header mirrors all other links throughout the site for continuity, with all links changing colour on hover. The users current page is also given a colour change to make the it clear which part of the site they are in.
+The logo on the left links to the home page and font awesome icons have been added to increase recognition of what this site is about.
+As the header responds to screensize, clear gaps between the links are maintained at all times.
 
 ### Footer
 
+![Screenshot of footer](documentation/features-footer.png)
+
+The footer displays information linked to me as the creater of this website and makes clear that the website has been created for educational purposes only. It displays at the bottom of all pages.
+
 ### Page Introduction
+
+![Screenshot of page introduction](documentation/features-page-introduction.png)
+
+A background image has been used to draw the user in, make clear what the site is about and showcase the beauty of the Wainwright fells. A short paragraph builds the users expectations of what they will find in the site and the quote further inspires and draws the user in.
+Partially translucent backgrounds have been used behind the text to increase readability.
 
 ### Alfred Wainwright
 
+![Screenshot of Alfred Wainwright section](documentation/features-wainwright.png)
+
+A short and informative paragraph about Wainwright, clearly linking to the Wainwright fells and fell walkers today.
+The image of Wainwright and the video help to break up the text and make this section more visually appealling as well as adding to user value and user experience.
+The quote offers further insight into Wainwright and what walking the wainwrights can come to mean to fell walkers.
+
 ### The Wainwright Fells
+
+![Screenshot of The Wainwright Fells](documentation/features-fells1.png)
+
+![Screenshot of The Wainwright Fells](documentation/features-fells2.png)
+
+This information is given high importance as it scored highly when looking at the value users wanted to gain from the website (see strategy plane). 
+The image at the top showcases the fells, while the map shows the names and locations of all 214 of the Wainwright fells. In desktop, hovering over the map will cause it to enlargen allowing the user to more easily read the map (this has been disabled at mobile level - see bugs and fixes). In further updates to the website the ability for users to zoom into the map will be further improved.
+Below the map are lists detailing the names and heights of all the Wainwright fells. These are grouped by Wainwright's guide books of the same name/area and are coloured according to the corrosponding book covers. The colours and list numbers also link directly to the map, with the fells numbered in overall height order.
+Images of the corrosponding books appear below the lists and provide a link for the user to learn more about/purchase the books if they so choose.
 
 ### Looking after the Fells
 
+![Screenshot of Looking after the fells section](documentation/features-look-after1.png)
+
+![Screenshot of Looking after the fells section](documentation/features-look-after2.png)
+
+This section was of high value to the owner and includes a paragraph detailing the importance of The Lake district landscape and it's flora and fauna as well as ways in which the user can lessen their impact when fell walking. Images are used to further increase understanding as well as to make the section visually more appealing. Font awesome icons are used as a visual aid to the main focus of each point. A video has been added which quickly details how people can look after the Lake District in an appealing and memorable way. Links at the bottom are provide to the Country code and the charity fix the fells through their respective logos.
+On smaller screens, when this section sits below the Wainwright fells information, an additional title and link has been added to the top of the page to aid navigation and make clear to the user the information available. On desktops this section sits alongside the Wainwright fells information and is instantly visible.
+
 ### Walking Routes
+
+![Screenshot of Walking routes](documentation/features-routes1.png)
+
+![Screenshot of Walking routes](documentation/features-routes2.png)
+
+This information is given fairly high importance as it scored second highest when looking at the value users wanted to gain from the website (see strategy plane). 
+A paragraph at the top quickly explains the difference between the three routes provided and links to take the user straight to the route they are most interested in.
+The layout clearly separates the three routes as distinct and separate. Each route has a title which also clearly indictates the Wainwright fells included in the walk, and three images which showcase the walk. Each image has a caption clearly informing the user what the image is of. Key facts are given in a table to allow the user to quickly ascertain if the walk is for them. A short paragraph is given detailing the walk as well as a section encouraging the user to adapt the walk to better suit their needs and abilities. Finally a map is given showing a suggested route.
 
 ### Walking tips
 
+![Screenshot of Walking tips section](documentation/features-walkingtips1.png)
+
+![Screenshot of Walking tips section](documentation/features-walkingtips2.png)
+
+This section makes clear that fell walking does carry a risk of injury or worse and offers tips to to help users stay safe and increase the enjoyability of their walk. All tips have been taken from respectable sources who are an authority on the subject (lakedistrict.gov and the lake district mountain rescue association).
+An image has been included to promote being prepared as well as adding to the visual appeal of this section. Font awesome icons are used as a visual aid to the main focus of each point. A link to Weatherline, where users can find a weather forecast specific to the lake district that includes weather at altitude, is included. At the bottom the logo of the Lake District Mountain Rescue Association provides a link to their website where the user can learn more about keeping safe as well as the vital work of the mountain rescue.
+
 ### Get in touch
+
+![Screenshot of Get in touch](documentation/features-getintouch.png)
+
+![Screenshot of Form thankyou](documentation/features-form-thankyou.png)
+
+A get in touch page has been added encouraging users to feedback their experience as well as their wishes for further website development.  On completing the form they are taken to a thank you page.
 
 ### 404
 
-Further Improvement to the 404 page to be included in the next development phase of this website.
+![Screenshot of 404 page](documentation/features-404.png)
 
-### Features to be implemented
+A 404 page has been included, in case of future bugs within the code that prevent any links from working. Further Improvement to the 404 page to be included in the next development phase of this website.
 
 [Return to contents list](#contents)
 
