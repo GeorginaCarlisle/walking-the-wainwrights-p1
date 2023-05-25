@@ -130,6 +130,16 @@ A get in touch page has been added encouraging users to feedback their experienc
 
 A 404 page has been included, in case of future bugs within the code that prevent any links from working. Further Improvement to the 404 page to be included in the next development phase of this website.
 
+### Features to be implemented
+
+- Quotes from fell walkers sharing what they love about walking the wainwrights (scope plane idea 3)
+- Additional functions to the map of the Wainwright fells (scope plane idea 13)
+- Extra sections to the form allowing new users to send their fell walking stories, images and tips (scope plane idea 17)
+- Top tips from other fell walkers (scope plane idea 18)
+- In site link to the Weatherline app (scope plane idea 21)
+- Information about the geography, geology and history of the fells (scope plane idea 22)
+- Images of Wainwright's drawings of the fells (scope plane idea 28)
+
 [Return to contents list](#contents)
 
 ## Design
@@ -538,7 +548,7 @@ Finally, all anchor links across the site take on the colour (A) of heather in f
 
 The finished website deviats from the original design in a number of ways:
 
-1 -
+1 - 
 
 
 [Return to contents list](#contents)
