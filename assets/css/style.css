@@ -1144,3 +1144,15 @@ Institutes 'Love Running' walkthrough */
         height: 500px;
     }
 }
+
+/* Responisive backgrounds for extra large screens */
+@media screen and (min-height:1200px) {
+    .getintouch-background-container {
+        background-size: cover;
+    }
+}
+@media screen and (min-width:1900px) {
+    #background-container-introduction {
+        background-size: cover;
+    }
+}
