@@ -732,7 +732,7 @@ This website has also been tested on the following smart phones:
 
 Testing throughout has been carried out using Chrome developer tools and the website responds without issue in the reponsive settings offered.
 
-Numerous friends and family have also tested the website, providing feedback on user experience.
+Numerous friends, family and fellow students (through the slack peer code review channel)have also tested the website, providing feedback on user experience. 
 
 [Return to contents list](#contents)
 
@@ -743,7 +743,12 @@ Numerous friends and family have also tested the website, providing feedback on 
 | Hover zoom function for the maps doesn't respond well on smart phones | Zoom function disabled at widths below 800px. Creating a zoom feature using JavaScript to be looked at in future site updates |
 | Logo link to the Mountain rescue is not centralising when the aside jumps to a full screen width | Added style rules display:flex and margin: 0 auto. Logo now centralising |
 | Having adjusted the list code to meet html validation the extra bullet points within the mobile phone list element now sit alongside instead of below | Added an additional div to surround the paragraph and extra bullet points. Flex styling now recognises these two elements as one instead of separate. Bullet points now sit below as intended. |
-| On Surface Pro 7 gapping appears between the background picture and the header on the get-in-touch and form-thankyou pages | To be looked at in future site updates |
+| On Surface Pro 7 gapping appears between the background picture and the header on the get-in-touch and form-thankyou pages | Added a media query for screens min-height:1200px with the rule background-size: cover |
+| On some screen sizes the top of the Wainwright section isn't visible/visible enough and may be overlooked by users | Improved the media queries for screen height to ensure that the top of the Wainwright section is clearly visible on all screen sizes |
+| The book images start to loose alignment at screen widths above 1750px | I have tried changing object-fit to both cover and fill but this had no effect. I have instead added a justify-content:center rule so that when the books no longer fill the space they sit centrally rather than aligning left, which is visually more appealing. This will be further investigated in the next site update. |
+| The width of the table for the Coledale walk is slightly larger than the others and pushes the walk info text out of alignment at screen widths 800-830px | Changed width of walk info text for the coledale walk to 57% rather than 60% |
+| The textarea boxes in the get in touch form appear to be partially filled, with the user needing to delete empty space before typing a response | Remove cols and rows rules, and specifically styled the width of the textareas in style.css|
+
 
 [Return to contents list](#contents)
 

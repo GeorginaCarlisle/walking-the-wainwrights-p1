@@ -620,8 +620,8 @@ Institutes 'Love Running' walkthrough */
 }
 
 #name-box {
-float: left;
-width: 50%;
+    float: left;
+    width: 50%;
 }
 
 #email-box {
