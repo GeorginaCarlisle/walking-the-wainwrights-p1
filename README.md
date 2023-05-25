@@ -1,7 +1,7 @@
 # Walking the Wainwrights 
 (Developer: Georgina Carlisle)
 
-Responsive site images
+![Image showing the website responding well to different screen sizes](documentation/responsive-website.png)
 
 Walking the Wainwrights is an informative website for fell walkers looking to summit the Wainwright fells in The Lake District National Park, England. Users will find information on Alfred Wainwright and the Wainwright fells, as well as inspiration for their next walk, walking tips and ways to lessen their impact on the Lake District landscape and it's flora and fauna.
 
