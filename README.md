@@ -548,8 +548,13 @@ Finally, all anchor links across the site take on the colour (A) of heather in f
 
 The finished website deviats from the original design in a number of ways:
 
-1 - 
-
+1 - Quotes from fell walkers are not included on the home page. I originally incorporated these and they worked well on desktop, however on smaller screens there became too much information to fit on top of the background image. As I felt the value added by the quotes was minimal I chose to leave them out.
+2 - The Alfred Wainwright aside now sits below the page introduction on all screens, rather than alongside as originally planned. Visually it did not work having the two sat next to each other with the impact of the introduction background image also being lost. Height of the page introduction has been styled to allow the top of the aside to be visable on the majority of screens hinting to the user that there is further content below.
+3 - A fell walking story of each walking route has not been included. I felt this was not going to add enough value to the user to warrant increasing the length of the route information and giving the user more to read.
+4 - Planned secondary navigation (key words on the home page and links from fell names to the associated walk) has not been included. I felt the value gained by the key words didn't warrant the extra text that would need to go in the page introduction. I also felt that links from the fell lists to the walks would complicate the users navigation through the website and not end up providing the additional value intended.
+5 - Layout of page introduction text has been changed to work better with the background image chosen.
+6 - The fell list groups are always stacked in two or more sections and never sit together as one row. This change has been made in order to better fit the information into the screen width.
+7 - The contents of the get in touch form has been edited in order to aid user experience of filling in the form and to fit better with the current page features.
 
 [Return to contents list](#contents)
 
