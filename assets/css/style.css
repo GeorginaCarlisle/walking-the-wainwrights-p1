@@ -189,14 +189,15 @@ footer li {
 }
 
 #background-container-introduction {
-    background-image: url("../images/photo-tarn-at-leaves.jpg");
+    background-image: url("../images/photo-tarn-at-leaves-big.jpg");
     background-position: left center;
     position: fixed;
     z-index: -1;
+    height: 900px;
 }
 
 #container-behind-introduction {
-    height: 650px;
+    height: 900px;
 }
 
 h1 {
@@ -256,8 +257,8 @@ h1 {
 }
 
 #container-wainwright h2 {
-    padding-top: 2rem;
     margin-top: 0;
+    font-size: 2rem;
 }
 
 #top-container-wainwright-info {
@@ -575,9 +576,10 @@ hr {
 
 /* get-in-touch.html specific styling */
 .getintouch-background-container {
-    background-image: url("../images/photo-loweswater.jpg");
+    background-image: url("../images/photo-loweswater-big.jpg");
     background-position: center center;
     background-attachment: fixed;
+    height: 1060px;
 }
 
 /* The idea for the styling of container-form and some of the code came from Code
@@ -589,7 +591,7 @@ Institutes 'Love Running' walkthrough */
     padding: 0.5rem 1rem;
     position: relative;
     left: 5%;
-    top: 12rem;
+    top: 20rem;
     border-radius: 5px;
 }
 
@@ -676,7 +678,7 @@ Institutes 'Love Running' walkthrough */
     font-size: 8rem;
 }
 
-/* Responsive design */
+/* Responsive design linked to page width */
 @media screen and (min-width:1280px)  {
     /* Responsive header */
     header > a {
@@ -924,6 +926,10 @@ Institutes 'Love Running' walkthrough */
     }
 
     /* Responsivity specific to Wainwright section index.html */
+    #container-wainwright h2 {
+        font-size: 1rem;
+    }
+    
     #container-wainwright {
         height: 120rem;
     }
@@ -1084,30 +1090,53 @@ Institutes 'Love Running' walkthrough */
     }
 }
 
-@media screen and (min-height:750px) {
+/* Responsive design linked to page height */
+@media screen and (max-height:1000px) {
+    /* index.html */
+    #background-container-introduction {
+        background-image: url("../images/photo-tarn-at-leaves.jpg");
+        height: 650px;
+    }
+    #container-behind-introduction {
+        height: 650px;
+    }
+    #container-main-introduction {
+        display: block;
+        
+    }
+     /* get-in-touch.html */
     .getintouch-background-container {
-        background-image: url("../images/photo-loweswater-big.jpg");
-        height: 900px;
+        height: 750px;
     }
     #container-form {
         top: 14rem;
     }
 }
 
-@media screen and (min-height:950px) {
+@media screen and (max-height:800px) {
+    /* index.html */
+    #background-container-introduction {
+        height: 600px;
+    }
+    #container-behind-introduction {
+        height: 600px;
+    }
+    /* get-in-touch.html */
     .getintouch-background-container {
-        height: 1060px;
+        background-image: url("../images/photo-loweswater.jpg");
+        height: 650px;
     }
     #container-form {
-        top: 20rem;
+        top: 10rem;
     }
 }
 
-@media screen and (max-height:730px) {
+@media screen and (max-height:700px) {
+    /* index.html */
     #background-container-introduction {
         height: 500px;
     }
     #container-behind-introduction {
-    height: 500px;
+        height: 500px;
     }
 }
