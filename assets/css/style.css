@@ -351,11 +351,13 @@ h1 {
 #top-book-container {
     display: flex;
     width: 100%;
+    justify-content: center;
 }
 
 #bottom-book-container {
     display: flex;
     width: 100%;
+    justify-content: center;
 }
 
 .book-image {
@@ -1094,7 +1096,6 @@ Institutes 'Love Running' walkthrough */
 @media screen and (max-height:1000px) {
     /* index.html */
     #background-container-introduction {
-        background-image: url("../images/photo-tarn-at-leaves.jpg");
         height: 650px;
     }
     #container-behind-introduction {
@@ -1123,7 +1124,6 @@ Institutes 'Love Running' walkthrough */
     }
     /* get-in-touch.html */
     .getintouch-background-container {
-        background-image: url("../images/photo-loweswater.jpg");
         height: 650px;
     }
     #container-form {
