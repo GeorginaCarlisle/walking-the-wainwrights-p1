@@ -572,6 +572,10 @@ hr {
     margin-bottom: 1rem;
 }
 
+#walk-info-resize {
+    width: 57%;
+}
+
 .walk-info > h4 {
     margin-top: 0;
 }
