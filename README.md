@@ -763,11 +763,12 @@ The following is a list of specific credit for images, content and code not crea
 
 - **Template** used to create this repository by Code Institute ([ci-full-template](https://github.com/Code-Institute-Org/ci-full-template)).
 
-- **Font**: Roboto Slab by Christian Robertson - [Google Fonts](https://fonts.google.com/specimen/Roboto+Slab#styles).
-- **Font**: Montserrat by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral and Jacques Le Bailly - [Google Fonts](https://fonts.google.com/specimen/Montserrat?query=Mont).
-- **Font**: Klee One by Fontworks Inc. - [Google Fonts](https://fonts.google.com/specimen/Klee+One?query=Klee+One).
+- **Font and associated code**: Roboto Slab by Christian Robertson - [Google Fonts](https://fonts.google.com/specimen/Roboto+Slab#styles).
+- **Font and associated code**: Montserrat by Julieta Ulanovsky, Sol Matas, Juan Pablo del Peral and Jacques Le Bailly - [Google Fonts](https://fonts.google.com/specimen/Montserrat?query=Mont).
+- **Font and associated code**: Klee One by Fontworks Inc. - [Google Fonts](https://fonts.google.com/specimen/Klee+One?query=Klee+One).
 
-- **Icons** used throughout the site are from [Font Awesome](https://fontawesome.com/).
+- **Icons and associated code** used throughout the site are from [Font Awesome](https://fontawesome.com/).
+- **Favicon and associated code** was created using [Favicon](https://favicon.io).
 
 - **Image**: map-wainwright-fells.jpg by [Guide Us](https://guideus.co.uk/map-shop/wainwright-fells-map).
 - **Images**: route-map-gowbarrow, route-map-castlerigg and route-map-coledale-horseshoe along with length, ascent and average time. Credit to [Ordnance Survey](https://www.ordnancesurvey.co.uk/) for the map and the software used to create the route.
