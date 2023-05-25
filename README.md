@@ -715,9 +715,10 @@ All external links have been tested and open in a new tab.
 
 The two videos have been tested and work to view in situ, full screen or on YouTube (this opens in a seperate tab).
 
-The 'Get in Touch' form has been tested. Submission is prevented when the name and email have not been filled in and prompts appear to the user. On clicking submit the user is taken to a thank you page. The form functions have also been separately tested using ......
+The 'Get in Touch' form has been tested. Submission is prevented when the name and email have not been filled in and prompts appear to the user. On clicking submit the user is taken to a thank you page. 
+By temporarily changing the form method and action (currently disabled) the form has been further tested to make sure it is ready to correctly transfer data once this function is set up.
 
-Insert screenshot 
+![Form in action](documentation/form-action.png)
 
 ### Further testing
 
