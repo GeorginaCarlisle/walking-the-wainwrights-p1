@@ -607,25 +607,41 @@ Institutes 'Love Running' walkthrough */
 }
 
 .get-in-touch-form > p {
-    margin-bottom: 1.5rem;
+    margin-bottom: 1rem;
 }
 
 .label-and-input {
     margin-bottom: 1rem;
+    width: 100%;
+}
+
+.label-and-input > input {
+    width: 65%;
 }
 
 #name-box {
-    margin-right: 2rem;
+float: left;
+width: 50%;
+}
+
+#email-box {
+    display: inline;
+    float: right;
+    width: 50%;
 }
 
 #bottom-label-and-input {
     margin-bottom: 0;
 }
-
+textarea {
+    width: 95%;
+    height: 2.5rem;
+}
 #submit-button {
-    position: relative;
-    left: 10rem;
+    display: flex;
+    margin: 0 auto;
     font-size: 1.2rem;
+    margin-top: 0.5rem;
     padding: 0.5rem;
     color: #F0F2FF;
     background-color: #412F8F;
@@ -1009,11 +1025,12 @@ Institutes 'Love Running' walkthrough */
         font-size: 0.8rem;
     }
     #name-box {
-        display: block;
-        margin-bottom: 0.5rem;
+        width: 100%;
+    }
+    #email-box {
+        width: 100%;
     }
     #submit-button {
-        left: 2rem;
         font-size: 1rem;
         padding: 0.3rem;
     }
@@ -1053,14 +1070,8 @@ Institutes 'Love Running' walkthrough */
     .label-and-input {
         margin-bottom: 0.5rem;
     }
-    #experience-rating {
-        margin-bottom: 0.5rem;
-    }
-    #submit-button {
-        display: flex;
-        margin: 0 auto;
-        font-size: 1rem;
-        left: 0;
+    .label-and-input > input {
+    width: 55%;
     }
 }
 

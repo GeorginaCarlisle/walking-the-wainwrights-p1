@@ -51,15 +51,15 @@
                     <p>We would love to hear from you and welcome your feedback in order to further improve this site. 
                         <span>Please note that as this website is for educational purposes only, your responses will neither be saved nor used.</span>
                     </p>
-                    <div class="label-and-input">
-                        <span id="name-box"> 
-                            <label for="name">Name:</label>
-                            <input
-                               type="text"
-                               id="name"
-                                name="name"
-                                required >
-                        </span>
+                    <div class="label-and-input" id="name-box"> 
+                        <label for="name">Name:</label>
+                        <input
+                            type="text"
+                            id="name"
+                            name="name"
+                            required >     
+                    </div>
+                    <div class="label-and-input" id="email-box"> 
                         <label for="email">Email:</label>
                         <input
                             type="email"
@@ -73,8 +73,6 @@
                         <br>
                         <textarea
                             id="feedback-positives"
-                            cols="30"
-                            rows="2"
                             name="feedback-positives">
                         </textarea>
                     </div>
@@ -83,8 +81,6 @@
                         <label for="feedback-suggestions">What would make this website better?</label>
                         <textarea
                             id="feedback-suggestions"
-                            cols="30"
-                            rows="2"
                             name="feedback-suggestions">
                         </textarea>
                     </div>
@@ -100,12 +96,12 @@
                             min="0"
                             max="5">
                         <span>Excellent</span>
-                        <input 
+                    </div>
+                    
+                    <input 
                         type="submit"
                         value="Submit"
                         id="submit-button">
-                    </div>
-                    
                 </form>
 
             </section>
