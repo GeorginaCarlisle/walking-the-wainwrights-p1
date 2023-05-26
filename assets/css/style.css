@@ -633,10 +633,12 @@ Institutes 'Love Running' walkthrough */
 #bottom-label-and-input {
     margin-bottom: 0;
 }
+
 textarea {
     width: 95%;
     height: 2.5rem;
 }
+
 #submit-button {
     display: flex;
     margin: 0 auto;
@@ -737,6 +739,7 @@ textarea {
         width: 40rem;
         height: 22.5rem;
     }
+
     /* Responsive fells.html*/
     .fell-list {
         padding: 1rem;
@@ -873,7 +876,6 @@ textarea {
     #countryside-logo {
         float: left;
     }
-    
     .anchor-heading-extra {
         color: rgba(71, 44, 122, 1);
         position: static;
@@ -981,14 +983,14 @@ textarea {
         width: 100%;
     }
     .fell-list > ol {
-    padding-left: 2rem;
+        padding-left: 2rem;
     }
     #tips-video {
         width: 24rem;
         height: 13.5rem;
     }
     .logo-links {
-    padding: 2rem;
+        padding: 2rem;
     }
 
     /* Responsivity specific to walking-routes */
@@ -1057,8 +1059,9 @@ textarea {
         height: 9rem;
     }
     .logo-links {
-    padding: 1rem;
+        padding: 1rem;
     }
+
     /* Responsivity specific to get-in-touch*/
     #container-form {
         width: 16rem;
@@ -1071,7 +1074,7 @@ textarea {
         margin-bottom: 0.5rem;
     }
     .label-and-input > input {
-    width: 55%;
+        width: 55%;
     }
 }
 
@@ -1081,15 +1084,17 @@ textarea {
         height: 5rem;
     }
     .anchor-point {
-    top: -5rem;
+        top: -5rem;
     }
     .page-content-container {
         margin-top: 5rem;
     }
+
     /* responsive footer */
     footer {
         height: 8rem;
     }
+
     /* index.html */
     #container-title {
         width: 10rem;
@@ -1101,6 +1106,7 @@ textarea {
         width: 14rem;
         height: 8rem;
     }
+
     /* 404 page*/
     #container-404-message {
         left: 10%;
@@ -1118,8 +1124,8 @@ textarea {
     }
     #container-main-introduction {
         display: block;
-        
     }
+
      /* get-in-touch.html */
     .getintouch-background-container {
         height: 750px;
@@ -1137,6 +1143,7 @@ textarea {
     #container-behind-introduction {
         height: 600px;
     }
+
     /* get-in-touch.html */
     .getintouch-background-container {
         height: 650px;
@@ -1162,6 +1169,7 @@ textarea {
         background-size: cover;
     }
 }
+
 @media screen and (min-width:1900px) {
     #background-container-introduction {
         background-size: cover;
