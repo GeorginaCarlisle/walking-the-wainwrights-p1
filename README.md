@@ -13,7 +13,7 @@ Walking the Wainwrights was created purely for educational purposes to showcase 
 portfolio project one for the course 'Diploma in Full Stack Software Development' at Code Institute.
 
 Link to live page: 
-https://georginacarlisle.github.io/walking-the-wainwrights-p1/index.html
+https://georginacarlisle.github.io/walking-the-wainwrights-p1/
 
 ## Contents
 [Features](#features)
