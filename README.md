@@ -45,14 +45,14 @@ https://georginacarlisle.github.io/walking-the-wainwrights-p1/index.html
 
 ## Features
 
-The features as displayed below show the layout on desktop. The layout of all features responds to screensize and changes accordingly.
+The features as displayed below show the layout on desktop. The layout of all features responds to screensize and changes accordingly being fully responsive on mobiles, tablets and laptops as well as desktops.
 
 ### Header
 
 ![Screenshot of header](documentation/features-header.png)
 
 The Header appears on all pages and its position is fixed, so as to be visible at all times when navigating the site.
-The styling of the links in the header mirrors all other links throughout the site for continuity, with all links changing colour on hover. The users current page is also given a colour change to make the it clear which part of the site they are in.
+The styling of the links in the header mirror all other links throughout the site for continuity, with all links changing colour on hover. The users current page is also given a colour change to make the it clear which part of the site they are in.
 The logo on the left links to the home page and font awesome icons have been added to increase recognition of what this site is about.
 As the header responds to screensize, clear gaps between the links are maintained at all times.
 
@@ -60,22 +60,23 @@ As the header responds to screensize, clear gaps between the links are maintaine
 
 ![Screenshot of footer](documentation/features-footer.png)
 
-The footer displays information linked to me as the creater of this website and makes clear that the website has been created for educational purposes only. It displays at the bottom of all pages.
+The footer displays information about me as the creater of this website and makes clear that the website has been created for educational purposes only. It displays at the bottom of all pages.
 
 ### Page Introduction
 
 ![Screenshot of page introduction](documentation/features-page-introduction.png)
 
-A background image has been used to draw the user in, make clear what the site is about and showcase the beauty of the Wainwright fells. A short paragraph builds the users expectations of what they will find in the site and the quote further inspires and draws the user in.
+A background image has been used to draw the user in, make clear what the site is about and showcase the beauty of the Wainwright fells. A short paragraph makes clear the subject of this website.
 Partially translucent backgrounds have been used behind the text to increase readability.
 
 ### Alfred Wainwright
 
 ![Screenshot of Alfred Wainwright section](documentation/features-wainwright.png)
 
-A short and informative paragraph about Wainwright, clearly linking to the Wainwright fells and fell walkers today.
+A short and informative paragraph about Wainwright is included, clearly linking to the Wainwright fells and fell walkers today.
 The image of Wainwright and the video help to break up the text and make this section more visually appealling as well as adding to user value and user experience.
 The quote offers further insight into Wainwright and what walking the wainwrights can come to mean to fell walkers.
+This section sits below the main introduction on all screens, and it's existence is clearly hinted at by ensuring that the top of the section and the title is always visible regardless of screen height.
 
 ### The Wainwright Fells
 
@@ -83,7 +84,7 @@ The quote offers further insight into Wainwright and what walking the wainwright
 
 ![Screenshot of The Wainwright Fells](documentation/features-fells2.png)
 
-This information is given high importance as it scored highly when looking at the value users wanted to gain from the website (see strategy plane). 
+This information is given high importance as it scored highly when looking at the value users wanted to gain from the website (see strategy plane), and is the main focus of the second page (The Wainwright Fells).
 The image at the top showcases the fells, while the map shows the names and locations of all 214 of the Wainwright fells. In desktop, hovering over the map will cause it to enlargen allowing the user to more easily read the map (this has been disabled at mobile level - see bugs and fixes). In further updates to the website the ability for users to zoom into the map will be further improved.
 Below the map are lists detailing the names and heights of all the Wainwright fells. These are grouped by Wainwright's guide books of the same name/area and are coloured according to the corrosponding book covers. The colours and list numbers also link directly to the map, with the fells numbered in overall height order.
 Images of the corrosponding books appear below the lists and provide a link for the user to learn more about/purchase the books if they so choose.
@@ -94,8 +95,9 @@ Images of the corrosponding books appear below the lists and provide a link for 
 
 ![Screenshot of Looking after the fells section](documentation/features-look-after2.png)
 
-This section was of high value to the owner and includes a paragraph detailing the importance of The Lake district landscape and it's flora and fauna as well as ways in which the user can lessen their impact when fell walking. Images are used to further increase understanding as well as to make the section visually more appealing. Font awesome icons are used as a visual aid to the main focus of each point. A video has been added which quickly details how people can look after the Lake District in an appealing and memorable way. Links at the bottom are provide to the Country code and the charity fix the fells through their respective logos.
-On smaller screens, when this section sits below the Wainwright fells information, an additional title and link has been added to the top of the page to aid navigation and make clear to the user the information available. On desktops this section sits alongside the Wainwright fells information and is instantly visible.
+This section was of high value to the owner and includes a paragraph detailing the importance of The Lake district landscape and it's flora and fauna as well as ways in which the user can lessen their impact when fell walking. 
+It sits as an aside on The Wainwright Fells page as it links to the main focus of this page. On desktops this aside is clearly visible, sitting to the right of the main information. However, on smaller screens it's position is change to below the Wainwright fells information. At this point an extra heading and link is provided at the top of the page to alert users to the aside and allow them to navigate straight to the information.
+Images are used to further increase understanding as well as to make the section visually more appealing. Font awesome icons are used as a visual aid to the main focus of each point. A video has been added which quickly details how people can look after the Lake District in an appealing and memorable way. Links at the bottom are provide to the Country code and the charity fix the fells through their respective logos.
 
 ### Walking Routes
 
@@ -103,9 +105,9 @@ On smaller screens, when this section sits below the Wainwright fells informatio
 
 ![Screenshot of Walking routes](documentation/features-routes2.png)
 
-This information is given fairly high importance as it scored second highest when looking at the value users wanted to gain from the website (see strategy plane). 
+This information is given fairly high importance as it scored second highest when looking at the value users wanted to gain from the website (see strategy plane), and is the main focus of the third page (Walking routes).
 A paragraph at the top quickly explains the difference between the three routes provided and links to take the user straight to the route they are most interested in.
-The layout clearly separates the three routes as distinct and separate. Each route has a title which also clearly indictates the Wainwright fells included in the walk, and three images which showcase the walk. Each image has a caption clearly informing the user what the image is of. Key facts are given in a table to allow the user to quickly ascertain if the walk is for them. A short paragraph is given detailing the walk as well as a section encouraging the user to adapt the walk to better suit their needs and abilities. Finally a map is given showing a suggested route.
+The layout clearly separates the three routes as distinct and separate. Each route has a title which also clearly indictates the Wainwright fells included in the walk, and three images which showcase the walk. Each image has a caption clearly informing the user what the image is of. Key facts are given in a table to allow the user to quickly ascertain if the walk is for them. A short paragraph is given detailing the walk as well as a section encouraging the user to adapt the walk to better suit their needs and abilities. Finally a map is given showing a suggested route, with a hover function on larger screens that allows user to zoom into the map (this has been disabled at mobile level - see bugs and fixes). In further updates to the website the ability for users to zoom into the maps will be further improved.
 
 ### Walking tips
 
@@ -113,7 +115,8 @@ The layout clearly separates the three routes as distinct and separate. Each rou
 
 ![Screenshot of Walking tips section](documentation/features-walkingtips2.png)
 
-This section makes clear that fell walking does carry a risk of injury or worse and offers tips to to help users stay safe and increase the enjoyability of their walk. All tips have been taken from respectable sources who are an authority on the subject (lakedistrict.gov and the lake district mountain rescue association).
+This information sits as an aside on the Walking Routes page as it links to the main focus of this page. On desktops this aside is clearly visible, sitting to the right of the main information. However, on smaller screens it's position is change to below the Walking routes information. At this point an extra heading and link is provided at the top of the page to alert users to the aside and allow them to navigate straight to the information.
+This aside makes clear that fell walking does carry a risk of injury or worse and offers tips to to help users stay safe and increase the enjoyability of their walk. All tips have been taken from respectable sources who are an authority on the subject (lakedistrict.gov and the lake district mountain rescue association).
 An image has been included to promote being prepared as well as adding to the visual appeal of this section. Font awesome icons are used as a visual aid to the main focus of each point. A link to Weatherline, where users can find a weather forecast specific to the lake district that includes weather at altitude, is included. At the bottom the logo of the Lake District Mountain Rescue Association provides a link to their website where the user can learn more about keeping safe as well as the vital work of the mountain rescue.
 
 ### Get in touch
@@ -745,10 +748,9 @@ Numerous friends, family and fellow students (through the slack peer code review
 | Having adjusted the list code to meet html validation the extra bullet points within the mobile phone list element now sit alongside instead of below | Added an additional div to surround the paragraph and extra bullet points. Flex styling now recognises these two elements as one instead of separate. Bullet points now sit below as intended. |
 | On Surface Pro 7 gapping appears between the background picture and the header on the get-in-touch and form-thankyou pages | Added a media query for screens min-height:1200px with the rule background-size: cover |
 | On some screen sizes the top of the Wainwright section isn't visible/visible enough and may be overlooked by users | Improved the media queries for screen height to ensure that the top of the Wainwright section is clearly visible on all screen sizes |
-| The book images start to loose alignment at screen widths above 1750px | I have tried changing object-fit to both cover and fill but this had no effect. I have instead added a justify-content:center rule so that when the books no longer fill the space they sit centrally rather than aligning left, which is visually more appealing. This will be further investigated in the next site update. |
+| The book images start to loose alignment at screen widths above 1750px | Book images resized to be slightly larger and now display correctly up to screens of width 1920px. I have also added a justify-content:center rule so that if at any point the books no longer fill the space they sit centrally rather than aligning left, which is visually more appealing. |
 | The width of the table for the Coledale walk is slightly larger than the others and pushes the walk info text out of alignment at screen widths 800-830px | Changed width of walk info text for the coledale walk to 57% rather than 60% |
 | The textarea boxes in the get in touch form appear to be partially filled, with the user needing to delete empty space before typing a response | Remove cols and rows rules, and specifically styled the width of the textareas in style.css|
-
 
 [Return to contents list](#contents)
 
@@ -782,6 +784,7 @@ Instructions to deploy using git hub pages:
 - [Balsamiq wireframes](https://balsamiq.com/)
 - [Adobe Color](https://color.adobe.com/create/color-wheel)
 - [WebAIM contrast checker](https://webaim.org/resources/contrastchecker/)
+- Chrome developer tools
 
 [Return to contents list](#contents)
 
